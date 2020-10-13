@@ -18,5 +18,5 @@ As a Personal Development Buddy you will be:
 * Meeting weekly to plan, share challenges and give support to the PD Buddy team
 * Working closely with the Career Mentors when they start supporting your trainees before Final Projects
 
-\*\*\*\*
+
 
