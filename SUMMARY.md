@@ -1,13 +1,27 @@
 # Table of contents
 
 * [Welcome to Personal Development at CodeYourFuture](README.md)
-* [Personal Development Buddy Roles](roles/README.md)
-  * [Training](roles/training/README.md)
-    * [Personal Development Role Expectations](roles/training/personal-development-role-expectations.md)
-    * [Buddy Session Plan](roles/training/buddy-session-plan.md)
-    * [Individual Buddy Session](roles/training/individual-buddy-session.md)
-    * [Coursework Review](roles/training/coursework-review.md)
-* [Exploring Personal Interests Activities](exploring-personal-interests-activities.md)
-* [Using the GROWS Model](using-the-grows-model.md)
-* [42 Best GROWS Model Coaching Questions](42-best-grows-model-coaching-questions.md)
+
+## Lessons
+
+* [Learning to Learn Session](lessons/learning-to-learn-session/README.md)
+  * [Lesson](lessons/learning-to-learn-session/lesson.md)
+  * [Instructor Notes](lessons/learning-to-learn-session/instructor-notes.md)
+  * [Coursework](lessons/learning-to-learn-session/coursework.md)
+* [Induction Week](lessons/induction-week.md)
+
+## Buddies
+
+* [Personal Development Buddy Roles](buddies/roles/README.md)
+  * [Training](buddies/roles/training/README.md)
+    * [Personal Development Role Expectations](buddies/roles/training/personal-development-role-expectations.md)
+    * [Buddy Session Plan](buddies/roles/training/buddy-session-plan.md)
+    * [Individual Buddy Session](buddies/roles/training/individual-buddy-session.md)
+    * [Coursework Review](buddies/roles/training/coursework-review.md)
+
+## Guides
+
+* [Exploring Personal Interests Activities](guides/exploring-personal-interests-activities.md)
+* [Using the GROWS Model](guides/using-the-grows-model.md)
+* [42 Best GROWS Model Coaching Questions](guides/42-best-grows-model-coaching-questions.md)
 
