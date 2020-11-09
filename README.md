@@ -38,3 +38,9 @@ This is a living document. Expect it to change and grow over time. If you'd like
 * Technical Teacher Training
   * [https://teachertraining.codeyourfuture.io](https://teachertraining.codeyourfuture.io)
 
+## How to Edit this Website
+
+This website is hosted on [Gitbook.io](https://gitbook.io). 
+
+To get access speak to Candy DeRoy or Chris Owen or on Slack in the Personal Development channels.
+
