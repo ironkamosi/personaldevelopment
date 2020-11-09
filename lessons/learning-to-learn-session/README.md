@@ -1,4 +1,2 @@
 # Learning to Learn Session
 
-## \*\*\*\*
-

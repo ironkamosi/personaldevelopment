@@ -4,14 +4,14 @@
 
 {% embed url="https://docs.google.com/presentation/d/1saIfR6Y7rrDu2KLwIZkTplisnQ2gcwtmsaGBukAaCZg/edit" caption="https://docs.google.com/presentation/d/1saIfR6Y7rrDu2KLwIZkTplisnQ2gcwtmsaGBukAaCZg/edit" %}
 
-## **Learning Styles - Notes**
+## \*\*\*\*[**Learning Styles - Notes**](lesson.md#learning-styles)\*\*\*\*
 
 * ‘I only have one learning style.’
   * Most people make use of several learning styles. Sometimes they rely heavily on one over others.
 * ‘If i just put my head down and work hard I will learn what I need to know.’
   * Knowing where and when to put your energy will make your learning more effective and hopefully enjoyable. 
 
-## **Group Activity Personal Discussion - Notes**
+## \*\*\*\*[**Group Activity Personal Discussion - Notes**](lesson.md#group-activity-personal-discussion-15-mins)\*\*\*\*
 
 ### **Common Mistakes / Misconceptions to highlight**
 

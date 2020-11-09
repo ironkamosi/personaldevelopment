@@ -103,3 +103,7 @@ Participants write a self-reflective journal entry covering:
 3. What from this lesson they want to learn more about 
 4. What from this lesson they want to practice
 
+## Coursework
+
+See the [coursework page](coursework.md) for your coursework for this week
+
