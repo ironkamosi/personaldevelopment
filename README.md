@@ -27,14 +27,14 @@ Depending on your interest and experience you will find a role to suit you.  Som
 
 This is a living document. Expect it to change and grow over time. If you'd like to suggest an enhancement or change please speak to Candy DeRoy or open a Pull Request \[link\]. 
 
-## 
-
 ## Existing Resources
 
 * Global PD Repo
   * [https://docs.google.com/document/d/1r-JE1vc3QcBO27\_ySArDZWgM3p0O523sHjYv-TTsNck/edit?usp=sharing](https://docs.google.com/document/d/1r-JE1vc3QcBO27_ySArDZWgM3p0O523sHjYv-TTsNck/edit?usp=sharing)
 * Docs
   * [https://docs.codeyourfuture.io](https://docs.codeyourfuture.io)
-
-
+* Technical Syllabus
+  * [https://syllabus.codeyourfuture.io](https://syllabus.codeyourfuture.io)
+* Technical Teacher Training
+  * [https://teachertraining.codeyourfuture.io](https://teachertraining.codeyourfuture.io)
 
