@@ -51,7 +51,7 @@ Next, we'll be covering the best ways for us to learn together. You can find the
 * Effective learning techniques
 * Learning Journal
 
-### Introduction to Honeycomb -  CYF Habits \(60 minutes\)
+### Introduction to Honeycomb - CodeYourFuture Habits \(60 minutes\)
 
 * How to give and receive feedback \(20 mins\)
 * Intro to the habits 
