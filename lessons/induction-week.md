@@ -85,5 +85,14 @@ Next, we'll be covering the best ways for us to learn together.
 
 There are 2 separate Google Classrooms. 1 for technical coursework and another for PD coursework. There will be PD assignments every week so please check both Google Classrooms. 
 
+* [ ] _**\(Do\)**_ Take the [Growth Mindset Self-Assessment](https://www.positivityguides.net/test-your-mindset-quiz/)
+* [ ] _**\(Seeing, Listening\)**_ Watch [The Power of Believing You Can Improve \(video\)](https://www.youtube.com/watch?v=_X0mgOOSpLU) - A TEDx video by Carol Dweck in which she explains how mindset can affect brain activity.
+* [ ] **\(Read\)** [Learning to Learn by Sarah Drasner](https://css-tricks.com/learning-to-learn/) - It contains some useful tips which will help you learn how to learn like a developer. 
+* [ ] _**\(Seeing, Listening\)**_ Watch Learning How to Learn by Barbara Oakley 
+* [ ] _**\(Read\)**_ [Focused vs Diffuse Thinking: Why Software Developers Need to Master Both Parts of Their Min](https://www.7pace.com/blog/focused-vs-diffuse-thinking)d by Christina Marfice 
+* [ ] _**\(Do, Write\)**_ Set up your weekly study schedule using the techniques suggested by Sarah Drasner and Christina Marfice.
+* [ ] _**\(Do\)**_ Honeycomb feedback - go onto the Honeycomb platform and complete your self assessment of ‘Working With My Team’ cell
+* [ ] _**\(Do\)**_ Github/ Git assignment
+
 
 
