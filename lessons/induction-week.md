@@ -85,7 +85,9 @@ Next, we'll be covering the best ways for us to learn together.
 
 ## Session 7 
 
-### Coursework introduction 
+### Independent Practice- Coursework introduction 
+
+There are 2 separate Google Classrooms. 1 for technical coursework and another for PD coursework. There will be PD assignments every week so please check both Google Classrooms. 
 
 
 
