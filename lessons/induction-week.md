@@ -58,9 +58,11 @@ Next, we'll be covering the best ways for us to learn together.
 ### Growth Mindset \(45 minutes\)
 
 * Introduction to Growth Mindset 
-* Fixing information in your mind
-* Effective learning techniques
 * Learning Journal
+
+{% embed url="https://docs.google.com/presentation/d/1JdtJsAXm2On3zYxAkPaQa0dyMxsDTx6MEGqg97e8CAs/edit?usp=sharing" %}
+
+
 
 ### Session 5 
 
