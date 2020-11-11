@@ -10,21 +10,18 @@
   * [Instructor Notes](lessons/learning-to-learn-session/instructor-notes.md)
   * [Coursework](lessons/learning-to-learn-session/coursework.md)
 
-## Buddies
+## Training
 
-* [Buddy Training](buddies/training/README.md)
-  * [Personal Development Role Expectations](buddies/training/personal-development-role-expectations.md)
-  * [Buddy Session Plan](buddies/training/buddy-session-plan.md)
-  * [Individual Buddy Session](buddies/training/individual-buddy-session.md)
-  * [Coursework Review](buddies/training/coursework-review.md)
+* [PD Buddy Training](training/training/README.md)
+  * [Personal Development Role Expectations](training/training/personal-development-role-expectations.md)
+  * [Buddy Session Plan](training/training/buddy-session-plan.md)
+  * [Individual Buddy Session](training/training/individual-buddy-session.md)
+  * [Coursework Review](training/training/coursework-review.md)
+* [Career Mentor Training](training/career-mentors.md)
 
 ## Guides
 
 * [Exploring Personal Interests Activities](guides/exploring-personal-interests-activities.md)
 * [Using the GROWS Model](guides/using-the-grows-model.md)
 * [42 Best GROWS Model Coaching Questions](guides/42-best-grows-model-coaching-questions.md)
-
----
-
-* [Career Mentors](career-mentors.md)
 
