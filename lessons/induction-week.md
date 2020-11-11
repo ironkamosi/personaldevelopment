@@ -64,7 +64,7 @@ Next, we'll be covering the best ways for us to learn together.
 
 ### Session 5 
 
-### Find Your Voice 
+### Find Your Voice \(20 mins - 60 mins\)
 
 * 4 workshops designed to facilitate confidence building through drama activities
 * use as after lunch icebreaker activity
