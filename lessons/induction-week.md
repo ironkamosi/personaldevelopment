@@ -4,15 +4,6 @@
 
 All students should have completed the Fundamentals Module.
 
-## Lesson Aims
-
-By the end of this lesson students will
-
-* Know how to find out what we're teaching in every lesson
-* Know where to look for information about what we teach at CodeYourFuture
-* Describe what a Full Stack Application is
-* Describe the aim of the Full Stack Course
-
 ## Session 1
 
 ### From Students to Trainees \(5 mins\)
