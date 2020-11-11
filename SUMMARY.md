@@ -19,10 +19,10 @@
   * [Coursework Review](training/training/coursework-review.md)
 * [Career Mentor Training](training/career-mentors/README.md)
   * [Guidance for Career Mentors](training/career-mentors/guidance-for-career-mentors.md)
+  * [Untitled](training/career-mentors/untitled.md)
 
-## Guides
+## Guides for Volunteers <a id="guides"></a>
 
-* [Exploring Personal Interests Activities](guides/exploring-personal-interests-activities.md)
 * [Using the GROWS Model](guides/using-the-grows-model.md)
 * [42 Best GROWS Model Coaching Questions](guides/42-best-grows-model-coaching-questions.md)
 
