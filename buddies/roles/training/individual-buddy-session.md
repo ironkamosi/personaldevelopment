@@ -6,7 +6,7 @@ description: >-
 
 # Individual Buddy Session
 
-Your role as a PD Buddy also requires keeping up with your student's personal circumstances. It is important to of keep up with what is going on with a student's personal life as it can greatly impact on their ability to effectively engage with their learning. 
+Your role as a PD Buddy also requires keeping up with your student's personal circumstances. It is important to keep up with what is going on in the trainee's personal life as it can greatly impact on their ability to effectively engage with their learning. 
 
 ## Brief
 
@@ -33,19 +33,22 @@ We suggest during your first session, you set up an [agreement](https://docs.goo
 
 ### Personal Circumstances Checklist \(5 minutes\)
 
-It can be challenging to know what/ how to ask about personal issues. So here is a checklist of topics to check in on each time you meet with your buddy. Remember to ask open questions in order to get more information. 
+It can be challenging to know what/ how to ask about personal issues. So here is a checklist of topics to check in on, each time you meet with your Buddy. Remember to ask open questions in order to get more information. 
 
-You don't need to know how to solve their problems. Also don't promise that you will solve them. Confidentiality should Discuss with your other Buddies 
+You don't need to know how to solve their problems. Also don't promise that you will solve them. 
+
+You also cannot promise confidentiality either, as you will be discussing their personal circumstances with the PD Buddy team. Reassure them that it will only be for the purpose of getting them the support they need. 
 
 Since we last met...
 
 * [ ] Has anything changed with your family situation?
-  * [ ] ie, with spouse/children/dependents/family in another country
+  * [ ] ie, with spouse/partner/children/dependents/parents/family in another country
 * [ ] Has anything changed with your financial situation?
   * [ ] got a job/ lost a job/ took a loan/ waiting for benefits
 * [ ] Has anything changed with your housing situation?
-  * [ ] loosing housing/ looking for housing/recently moved
+  * [ ] loosing housing/ looking for housing/in the process of moving/recently moved
 * [ ] Has anything changed with your immigration situation? \(ask this for asylum seekers\)
+  * [ ] upcoming immigration interview/ recent immigration interview/ looking for solicitor
 * [ ] Has anything changed with your physical health situation?
   * [ ] injury/illness/recent diagnosis/long term health condition
 * [ ] Has anything changed with your mental health situation?
