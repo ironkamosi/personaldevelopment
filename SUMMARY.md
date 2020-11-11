@@ -17,7 +17,8 @@
   * [Buddy Session Plan](training/training/buddy-session-plan.md)
   * [Individual Buddy Session](training/training/individual-buddy-session.md)
   * [Coursework Review](training/training/coursework-review.md)
-* [Career Mentor Training](training/career-mentors.md)
+* [Career Mentor Training](training/career-mentors/README.md)
+  * [Guidance for Career Mentors](training/career-mentors/guidance-for-career-mentors.md)
 
 ## Guides
 
