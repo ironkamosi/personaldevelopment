@@ -32,7 +32,7 @@ Go through the course calendar and highlight what happens and when.
 
 ## Session 2 
 
-### What do Developers do?  \(25 mins\)
+### What do Developers do?  \(20 mins\)
 
 In this section we'll explore how a professional behaves and thus how we expect trainees to behave, underscoring the name change to trainee developer
 
@@ -45,7 +45,7 @@ In this section we'll explore how a professional behaves and thus how we expect 
 
 ## Session 3 
 
-### Learning to Learn Together \(45 mins\)
+### Learning to Learn Together \(35 mins\)
 
 Next, we'll be covering the best ways for us to learn together. 
 
@@ -65,6 +65,11 @@ Next, we'll be covering the best ways for us to learn together.
 ### Session 5 
 
 ### Find Your Voice 
+
+* 4 workshops designed to facilitate confidence building through drama activities
+* use as after lunch icebreaker activity
+* should have done sessions 1 & 2 during Fundamentals
+* if not, start with session 1 
 
 ## Session 6
 
