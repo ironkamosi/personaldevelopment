@@ -4,7 +4,7 @@
 
 ## Lessons
 
-* [Induction Week](lessons/induction-week.md)
+* [Induction Week - PD Session 1](lessons/induction-week.md)
 * [Learning to Learn Session](lessons/learning-to-learn-session/README.md)
   * [Lesson](lessons/learning-to-learn-session/lesson.md)
   * [Instructor Notes](lessons/learning-to-learn-session/instructor-notes.md)

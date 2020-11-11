@@ -1,4 +1,4 @@
-# Induction Week
+# Induction Week - PD Session 1
 
 ## Prior Knowledge
 
@@ -13,7 +13,17 @@ By the end of this lesson students will
 * Describe what a Full Stack Application is
 * Describe the aim of the Full Stack Course
 
-## Lesson
+## Session 1
+
+### From Students to Trainees \(5 mins\)
+
+Introduce the concept of them progressing from being students on the Intro to Coding and Fundamentals courses to being _**Trainees**_ on the Full stack Course. 
+
+* **During PD days we will be highlighting appropriate professional behaviours and attitudes.** 
+* **Have the group take 1 minute to think of their definition of a 'student' and that of a 'trainee' \(no Googling!\)** 
+* **Write them on a space set up with two columns on your class Miro board**
+* **Ask them to highlight which word they feel more closely embodies a professional person**
+* **End by saying ‘you are a trainee, that means you are training to be a professional. Thus you should behave in a professional way’.**
 
 ### What will you learn in this course? \(25 minutes\)
 
@@ -29,6 +39,8 @@ Go through the course calendar and highlight what happens and when.
 * Introduce the roles of the PD and Ed Buddies \(tell them they will meet their buddies next week\)
 * Study groups \(mid week\)
 
+## Session 2 
+
 ### What do Developers do?  \(25 mins\)
 
 In this section we'll explore how a professional behaves and thus how we expect trainees to behave, underscoring the name change to trainee developer
@@ -40,9 +52,17 @@ In this section we'll explore how a professional behaves and thus how we expect 
 2. Once we have we have a large list, invite them to think about whether they do all those things already
 3. Discuss how to change things so they begin to do more and more of those things highlighting that practice is the way to develop
 
+## Session 3 
+
 ### Learning to Learn Together \(45 mins\)
 
-Next, we'll be covering the best ways for us to learn together. You can find the content for this session [here](learning-to-learn-session/).
+Next, we'll be covering the best ways for us to learn together. 
+
+{% embed url="https://docs.google.com/presentation/d/1saIfR6Y7rrDu2KLwIZkTplisnQ2gcwtmsaGBukAaCZg/edit\#slide=id.g8925d822cd\_0\_0" %}
+
+
+
+## Session 4 
 
 ### Growth Mindset \(45 minutes\)
 
@@ -51,11 +71,21 @@ Next, we'll be covering the best ways for us to learn together. You can find the
 * Effective learning techniques
 * Learning Journal
 
+### Session 5 
+
+### Find Your Voice 
+
+## Session 6
+
 ### Introduction to Honeycomb - CodeYourFuture Habits \(60 minutes\)
 
 * How to give and receive feedback \(20 mins\)
 * Intro to the habits 
 * How to use the Honeycomb environment \(demo the Honeycomb Platform\)
+
+## Session 7 
+
+### Coursework introduction 
 
 
 

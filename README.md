@@ -4,9 +4,9 @@
 
 At CodeYourFuture our aim is to empower people to change their lives by giving them the tools to have a successful career in tech.
 
-The problem lies in the fact that the students we work with face massive barriers to employment but learning tech skills alone are not enough to make them employable. These barriers interfere with students being able to engage with what we teach and learn effectively. 
+The problem lies in the fact that the people we work with face massive barriers to employment. Learning tech skills alone are not enough to make them employable. These barriers interfere with students/trainees  being able to fully engage with what we teach and learn effectively. 
 
-These problems can manifest themselves in a variety of ways. Some may be related to their 
+These problems can manifest themselves in a variety of ways related to their 
 
 * Home life
 * Family life
@@ -19,7 +19,7 @@ in addition to their own levels of personal development.
 
 ## What can we do? 
 
-We developed the Personal Development Team and the PD curriculum in response to these challenges. We work in conjunction with the Education team to help students manage their learning.  But we focus on the personal aspects \(confidence, communication, teamwork\) which are key to effectively learning any new skill. 
+We developed the Personal Development Team and the PD curriculum in response to these challenges. We work in conjunction with the Education team to help students/trainees manage their learning.  But we focus on the personal aspects \(confidence, communication, teamwork\) which are key to effectively learning any new skill. 
 
 In this website, you will find practical information about supporting our trainees with their personal development and individual circumstances.  
 
