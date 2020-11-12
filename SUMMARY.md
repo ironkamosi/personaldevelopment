@@ -29,4 +29,5 @@
 ---
 
 * [Personal Development Buddy Role](personal-development-buddy-role.md)
+* [Example PD Buddy Schedule](example-pd-buddy-schedule.md)
 
