@@ -19,7 +19,6 @@
   * [Individual Buddy Session](training/training/individual-buddy-session.md)
   * [Coursework Review](training/training/coursework-review.md)
 * [Career Mentor Training](training/career-mentors/README.md)
-  * [Guidance for Career Mentors](training/career-mentors/guidance-for-career-mentors.md)
   * [Untitled](training/career-mentors/untitled.md)
 
 ## Guides for Volunteers <a id="guides"></a>
