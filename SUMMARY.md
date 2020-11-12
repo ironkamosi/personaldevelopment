@@ -19,10 +19,14 @@
   * [Individual Buddy Session](training/training/individual-buddy-session.md)
   * [Coursework Review](training/training/coursework-review.md)
 * [Career Mentor Training](training/career-mentors/README.md)
-  * [Untitled](training/career-mentors/untitled.md)
+  * [Guidance for Career Mentors](training/career-mentors/untitled.md)
 
 ## Guides for Volunteers <a id="guides"></a>
 
 * [Using the GROWS Model](guides/using-the-grows-model.md)
 * [42 Best GROWS Model Coaching Questions](guides/42-best-grows-model-coaching-questions.md)
+
+---
+
+* [Career Mentor Role](career-mentor-role.md)
 
