@@ -12,9 +12,9 @@
 
 ## Training
 
+* [Personal Development Buddy Role](training/personal-development-buddy-role/README.md)
+  * [Example PD Buddy Schedule](training/personal-development-buddy-role/example-pd-buddy-schedule.md)
 * [PD Buddy Training](training/training/README.md)
-  * [Personal Development Role Expectations](training/training/personal-development-role-expectations/README.md)
-    * [Example PD Buddy Schedule](training/training/personal-development-role-expectations/example-pd-buddy-schedule.md)
   * [Buddy Session Plan](training/training/buddy-session-plan.md)
   * [Individual Buddy Session](training/training/individual-buddy-session.md)
   * [Coursework Review](training/training/coursework-review.md)
@@ -26,8 +26,4 @@
 
 * [Using the GROWS Model](guides/using-the-grows-model.md)
 * [42 Best GROWS Model Coaching Questions](guides/42-best-grows-model-coaching-questions.md)
-
----
-
-* [Personal Development Buddy Role](personal-development-buddy-role.md)
 
