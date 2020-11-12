@@ -26,3 +26,7 @@
 * [Using the GROWS Model](guides/using-the-grows-model.md)
 * [42 Best GROWS Model Coaching Questions](guides/42-best-grows-model-coaching-questions.md)
 
+---
+
+* [Personal Development Buddy Role](personal-development-buddy-role.md)
+
