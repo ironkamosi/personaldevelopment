@@ -13,7 +13,8 @@
 ## Training
 
 * [PD Buddy Training](training/training/README.md)
-  * [Personal Development Role Expectations](training/training/personal-development-role-expectations.md)
+  * [Personal Development Role Expectations](training/training/personal-development-role-expectations/README.md)
+    * [Example PD Buddy Schedule](training/training/personal-development-role-expectations/example-pd-buddy-schedule.md)
   * [Buddy Session Plan](training/training/buddy-session-plan.md)
   * [Individual Buddy Session](training/training/individual-buddy-session.md)
   * [Coursework Review](training/training/coursework-review.md)
@@ -29,5 +30,4 @@
 ---
 
 * [Personal Development Buddy Role](personal-development-buddy-role.md)
-* [Example PD Buddy Schedule](example-pd-buddy-schedule.md)
 
