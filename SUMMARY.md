@@ -18,6 +18,7 @@
   * [Buddy Session Plan](training/training/buddy-session-plan.md)
   * [Individual Buddy Session](training/training/individual-buddy-session.md)
   * [Coursework Review](training/training/coursework-review.md)
+* [Career Mentor Role](training/career-mentor-role.md)
 * [Career Mentor Training](training/career-mentors/README.md)
   * [Guidance for Career Mentors](training/career-mentors/untitled.md)
 
@@ -25,8 +26,4 @@
 
 * [Using the GROWS Model](guides/using-the-grows-model.md)
 * [42 Best GROWS Model Coaching Questions](guides/42-best-grows-model-coaching-questions.md)
-
----
-
-* [Career Mentor Role](career-mentor-role.md)
 
