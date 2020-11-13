@@ -1,3 +1,10 @@
+---
+description: >-
+  Career mentors give 1 to 1 support to a trainee with their career development.
+  They help them through the process of preparing for the job search to applying
+  for roles  and then moving into employment
+---
+
 # Career Mentor Role
 
 **How long is my commitment?**
