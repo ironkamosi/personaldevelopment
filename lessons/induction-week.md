@@ -81,6 +81,10 @@ Next, we'll be covering the best ways for us to learn together.
 * Intro to the habits 
 * How to use the Honeycomb environment \(demo the Honeycomb Platform\)
 
+{% embed url="https://docs.google.com/presentation/d/1mvffmskfPXtW7CQYndCr-XSarjhM7abDBDpsJPOEBjk/edit?usp=sharing" %}
+
+
+
 ## Session 7 
 
 ### Independent Practice- Coursework introduction 
