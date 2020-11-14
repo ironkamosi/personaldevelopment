@@ -4,11 +4,11 @@
 
 ## Lessons
 
-* [Induction Week - PD Session 1](lessons/induction-week.md)
-* [Learning to Learn Session](lessons/learning-to-learn-session/README.md)
-  * [Lesson](lessons/learning-to-learn-session/lesson.md)
-  * [Instructor Notes](lessons/learning-to-learn-session/instructor-notes.md)
-  * [Coursework](lessons/learning-to-learn-session/coursework.md)
+* [Induction Week - PD Session 1](lessons/induction-week/README.md)
+  * [Learning to Learn Session](lessons/induction-week/learning-to-learn-session/README.md)
+    * [Lesson](lessons/induction-week/learning-to-learn-session/lesson.md)
+    * [Instructor Notes](lessons/induction-week/learning-to-learn-session/instructor-notes.md)
+    * [Coursework](lessons/induction-week/learning-to-learn-session/coursework.md)
 
 ## Training
 
