@@ -23,10 +23,6 @@
 * **Blocking communication:** Speaking without listening to the mentee’s responses, using an aggressive voice, showing impatience, showing annoyance when interrupted, or having an authoritative manner. These behaviors often lead to the mentee feeling down, humiliated, scared, and insecure. As a result, the mentee may remain passive and refrain from asking questions, or distrust the mentor and disregard his or her recommendations.
 * **Talking too much:** Talking so much that the mentee does not have time to express themselves. As a mentor, it is important not to dominate the interaction.
 
-We can help you to overcome any barriers you may encounter. 
-
-Speak with your City Coordinator or the Head of Personal Development as soon as any issues arise. 
-
 **Challenges facing your mentee may include:**
 
 * Being more time efficient
@@ -35,4 +31,8 @@ Speak with your City Coordinator or the Head of Personal Development as soon as 
 * Having little or no work experience in UK 
 * Having little knowledge of tech work culture
 * Low level of English reading, writing and speaking
+
+We can help you to overcome any barriers you may encounter. 
+
+Speak with your City Coordinator or the Head of Personal Development as soon as any issues arise. 
 
