@@ -2,7 +2,7 @@
 
 * [Welcome to Personal Development at CodeYourFuture](README.md)
 
-## Lessons
+## Sessions <a id="lessons"></a>
 
 * [Induction Week - PD Session 1](lessons/induction-week/README.md)
   * [Learning to Learn Session](lessons/induction-week/learning-to-learn-session/README.md)
