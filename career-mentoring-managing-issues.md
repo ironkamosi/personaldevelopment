@@ -15,9 +15,9 @@ Most barriers to effective mentoring stem from:
   * Unrealistic expectations about what mentoring can achieve
   * The lack/blurring of boundaries in the mentor/mentee relationship
 
-  We can help you to overcome any barriers you may encounter.
+We can help you to overcome any barriers you may encounter. 
 
-  \*\*\*\*
+Speak with your City Coordinator or the Head of Personal Development as soon as any issues arise. 
 
 **Challenges facing your mentee may include:**
 
