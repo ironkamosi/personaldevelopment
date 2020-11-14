@@ -33,4 +33,5 @@
 
 * [Career Mentoring- Your 1st meeting](career-mentoring-goals-setting.md)
 * [Career Mentoring - Establishing Rapport](career-mentoring-establishing-rapport.md)
+* [Career Mentoring- Managing Issues](career-mentoring-managing-issues.md)
 
