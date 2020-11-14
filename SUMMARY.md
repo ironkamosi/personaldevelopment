@@ -30,6 +30,6 @@
 
 ---
 
-* [Career Mentoring- Goals Setting](career-mentoring-goals-setting.md)
+* [Career Mentoring- Getting Started](career-mentoring-goals-setting.md)
 * [Career Mentoring - Establishing Rapport](career-mentoring-establishing-rapport.md)
 
