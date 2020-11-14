@@ -30,4 +30,5 @@
 ---
 
 * [Career Mentoring- Goals Setting](career-mentoring-goals-setting.md)
+* [Career Mentoring - Ending the Relationship](career-mentoring-ending-the-relationship.md)
 
