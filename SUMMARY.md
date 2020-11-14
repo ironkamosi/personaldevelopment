@@ -27,3 +27,7 @@
 * [Using the GROWS Model](guides/using-the-grows-model.md)
 * [42 Best GROWS Model Coaching Questions](guides/42-best-grows-model-coaching-questions.md)
 
+---
+
+* [Career Mentoring- Goals Setting](career-mentoring-goals-setting.md)
+
