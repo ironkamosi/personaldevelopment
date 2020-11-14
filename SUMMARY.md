@@ -20,6 +20,7 @@
   * [Coursework Review](training/training/coursework-review.md)
 * [Career Mentor Role](training/career-mentor-role.md)
 * [Career Mentor Training](training/career-mentors/README.md)
+  * [Career Mentoring - Ending the Relationship](training/career-mentors/career-mentoring-ending-the-relationship.md)
   * [Guidance for Career Mentors](training/career-mentors/untitled.md)
 
 ## Guides for Volunteers <a id="guides"></a>
@@ -30,6 +31,5 @@
 ---
 
 * [Career Mentoring- Goals Setting](career-mentoring-goals-setting.md)
-* [Career Mentoring - Ending the Relationship](career-mentoring-ending-the-relationship.md)
 * [Career Mentoring - Establishing Rapport](career-mentoring-establishing-rapport.md)
 
