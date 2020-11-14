@@ -32,4 +32,5 @@
 
 * [Career Mentoring- Getting Started](career-mentoring-goals-setting.md)
 * [Career Mentoring - Establishing Rapport](career-mentoring-establishing-rapport.md)
+* [PD Session 2](pd-session-2.md)
 
