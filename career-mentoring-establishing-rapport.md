@@ -2,13 +2,9 @@
 
 ## **Building rapport with your mentee**
 
-Taking time to build rapport with your mentee will help you to get the most from the mentoring relationship. Rapport comes from shared values or experiences, and sometimes from a ‘chemistry’ that is hard to define. One sign that there is comfort or rapport between two people is that they have similar tone of voice, body language, movements and so on.
+Taking time to build rapport with your mentee will help you to get the most from the mentoring relationship. Rapport comes from shared values or experiences, and sometimes from a ‘chemistry’ that is hard to define. 
 
-* Are their body postures similar?
-* Do they use similar hand movements?
-* What do their faces tell you, especially their expressions?
-* Do their moods seem similar?
-* How similar are their voices?
+
 
 ### **Key principles in building trust**
 
