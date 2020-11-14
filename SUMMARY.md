@@ -9,6 +9,7 @@
     * [Lesson](lessons/induction-week/learning-to-learn-session/lesson.md)
     * [Instructor Notes](lessons/induction-week/learning-to-learn-session/instructor-notes.md)
     * [Coursework](lessons/induction-week/learning-to-learn-session/coursework.md)
+* [PD Session 2](lessons/pd-session-2.md)
 
 ## Training
 
@@ -32,5 +33,4 @@
 
 * [Career Mentoring- Getting Started](career-mentoring-goals-setting.md)
 * [Career Mentoring - Establishing Rapport](career-mentoring-establishing-rapport.md)
-* [PD Session 2](pd-session-2.md)
 
