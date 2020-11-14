@@ -4,6 +4,8 @@
 
 Taking time to build rapport with your mentee will help you to get the most from the mentoring relationship. Rapport comes from shared values or experiences, and sometimes from a ‘chemistry’ that is hard to define. 
 
+Your verbal and non- verbal communication is key to 
+
 
 
 ### **Key principles in building trust**
