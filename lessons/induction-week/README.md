@@ -9,7 +9,7 @@ description: >-
 
 ## Prior Knowledge
 
-All students should have completed the Fundamentals Module.
+All trainees should have completed the Fundamentals Module.
 
 ## Session 1
 
