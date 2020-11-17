@@ -2,14 +2,14 @@
 
 * [Welcome to Personal Development at CodeYourFuture](README.md)
 
-## Sessions <a id="lessons"></a>
+## PD Sessions <a id="sessions"></a>
 
-* [Induction Week - PD Day 1](lessons/induction-week/README.md)
-  * [Learning to Learn Session](lessons/induction-week/learning-to-learn-session/README.md)
-    * [Lesson](lessons/induction-week/learning-to-learn-session/lesson.md)
-    * [Instructor Notes](lessons/induction-week/learning-to-learn-session/instructor-notes.md)
-    * [Coursework](lessons/induction-week/learning-to-learn-session/coursework.md)
-* [Html/CSS - PD Day 2](lessons/pd-session-2.md)
+* [Induction Week - PD Day 1](sessions/induction-week/README.md)
+  * [Learning to Learn Session](sessions/induction-week/learning-to-learn-session/README.md)
+    * [Lesson](sessions/induction-week/learning-to-learn-session/lesson.md)
+    * [Instructor Notes](sessions/induction-week/learning-to-learn-session/instructor-notes.md)
+    * [Coursework](sessions/induction-week/learning-to-learn-session/coursework.md)
+* [Html/CSS - PD Day 2](sessions/pd-session-2.md)
 
 ## Training
 
