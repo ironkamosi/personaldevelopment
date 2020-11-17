@@ -49,7 +49,7 @@ Look at your feedback results and discuss in your Buddy groups if you have devel
 
 If you do not have enough feedback then you need to ask more people to give you feedback before you can move on to another Honeycomb cell. 
 
-If you 
+If you have enough feedback and feel like you are ready to move on the next cell, then the you will be introduced to your next set of habits. 
 
 ## Session 3
 
