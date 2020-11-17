@@ -96,5 +96,5 @@ Next, we'll be covering the best ways for us to learn together.
 
 ### Independent Practice- Coursework introduction 
 
-There are 2 separate Google Classrooms. 1 for technical coursework and another for PD coursework. There will be PD assignments every week so please check both Google Classrooms. See the coursework here. 
+There are 2 separate Google Classrooms. 1 for technical coursework and another for PD coursework. There will be PD assignments every week so please check both Google Classrooms. See the coursework [here](https://personaldevelopment.codeyourfuture.io/lessons/induction-week/learning-to-learn-session/coursework). 
 
