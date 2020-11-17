@@ -9,7 +9,7 @@
     * [Lesson](lessons/induction-week/learning-to-learn-session/lesson.md)
     * [Instructor Notes](lessons/induction-week/learning-to-learn-session/instructor-notes.md)
     * [Coursework](lessons/induction-week/learning-to-learn-session/coursework.md)
-* [PD Day 2](lessons/pd-session-2.md)
+* [Html/CSS - PD Day 2](lessons/pd-session-2.md)
 
 ## Training
 
