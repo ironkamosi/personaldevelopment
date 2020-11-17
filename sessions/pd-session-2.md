@@ -14,14 +14,30 @@ All trainees should have completed PD coursework from week 1
 
 All trainees should have recieved feedback on their Honeycome cell **'Working With My Team'** 
 
-## Session 1 \(45 mins- 1 hour\)
+## Session 1 \(30 mins- 1 hour\)
+
+### 4Ls Retrospective: Liked, Learned, Lacked, & Longed For
 
 Revisit Agile Methodologies presented in PD Day 1 - Honeycomb session.   
-Start the day with a retro on the past 4 weeks 
+Start the day with a [retrospective](https://www.retrium.com/retrospective-techniques/4ls) on the past 4 weeks PD skills development. 
 
-Use Metro Retro to do a collaborative retro session with the whole group. 
+Use [Metro Retro](https://metroretro.io/) to do a collaborative retro session with the whole group. 
 
-Start with 
+* **Liked**
+
+What did you really enjoy about the past 4 weeks? In particular, what went better than expected? Emphasize the positive!!!
+
+* **Learned**
+
+What new things did the team learn during the past 4 weeks? These can be technical things \(like \) or nontechnical things \(like how to organise effective study groups\).
+
+* **Lacked**
+
+What things could you, the  have done better during the iteration?
+
+* **Longed for**
+
+What things did you wish to have during the past 4 weeks that were not available? Again, these can be technical \(like the need for a continuous integration server\) or nontechnical \(like the desire for more face time with the team\).
 
 ## Session 2
 
