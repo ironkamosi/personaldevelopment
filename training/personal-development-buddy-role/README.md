@@ -1,7 +1,5 @@
 # Personal Development Buddy Role
 
-
-
 **How long is my commitment?**
 
 * Last for 6- 8 months
