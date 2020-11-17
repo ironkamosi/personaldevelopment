@@ -39,6 +39,8 @@ What things could you, the team, the volunteers  have done better during the pas
 
 What things did you wish to have during the past 4 weeks that were not available? Again, these can be technical  or nontechnical \(like the desire for more face time with the team\).
 
+Your retro should run between 30-60 mins depending on the size of your group. 
+
 ## Session 2 \(30 mins\)
 
 ### Honeycomb Feedback
