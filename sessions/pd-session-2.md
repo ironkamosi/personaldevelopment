@@ -29,15 +29,15 @@ What did you really enjoy about the past 4 weeks? In particular, what went bette
 
 * **Learned**
 
-What new things did the team learn during the past 4 weeks? These can be technical things \(like \) or nontechnical things \(like how to organise effective study groups\).
+What new things did the team learn during the past 4 weeks? These can be technical things \(like how to make a pull request \) or nontechnical things \(like how to organise effective study groups\).
 
 * **Lacked**
 
-What things could you, the  have done better during the iteration?
+What things could you, the team, the volunteers  have done better during the past 4 weeks?
 
 * **Longed for**
 
-What things did you wish to have during the past 4 weeks that were not available? Again, these can be technical \(like the need for a continuous integration server\) or nontechnical \(like the desire for more face time with the team\).
+What things did you wish to have during the past 4 weeks that were not available? Again, these can be technical  or nontechnical \(like the desire for more face time with the team\).
 
 ## Session 2
 
