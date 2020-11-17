@@ -4,12 +4,12 @@
 
 ## Sessions <a id="lessons"></a>
 
-* [Induction Week - PD Session 1](lessons/induction-week/README.md)
+* [Induction Week - PD Day 1](lessons/induction-week/README.md)
   * [Learning to Learn Session](lessons/induction-week/learning-to-learn-session/README.md)
     * [Lesson](lessons/induction-week/learning-to-learn-session/lesson.md)
     * [Instructor Notes](lessons/induction-week/learning-to-learn-session/instructor-notes.md)
     * [Coursework](lessons/induction-week/learning-to-learn-session/coursework.md)
-* [PD Session 2](lessons/pd-session-2.md)
+* [PD Day 2](lessons/pd-session-2.md)
 
 ## Training
 

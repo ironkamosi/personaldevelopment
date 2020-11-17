@@ -1,11 +1,11 @@
 ---
 description: >-
-  This first week of the Full Stack course introduces the Trainees to what they
-  will be learning over the next 8 months and ways to optimise the learning
-  process.
+  This first week of the Full Stack course introduces CodeYourFuture Trainees to
+  the technical skills they will be learning over the next 8 months and ways to
+  optimise their learning process.
 ---
 
-# Induction Week - PD Session 1
+# Induction Week - PD Day 1
 
 ## Prior Knowledge
 
