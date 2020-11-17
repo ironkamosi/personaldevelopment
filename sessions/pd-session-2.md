@@ -39,7 +39,17 @@ What things could you, the team, the volunteers  have done better during the pas
 
 What things did you wish to have during the past 4 weeks that were not available? Again, these can be technical  or nontechnical \(like the desire for more face time with the team\).
 
-## Session 2
+## Session 2 \(30 mins\)
+
+### Honeycomb Feedback
+
+Now build on the information gained during the retro and evaluate the feedback given to you for the 'Working with my team' cell
+
+Look at your feedback results and discuss in your Buddy groups if you have develped the habits in this cell. 
+
+If you do not have enough feedback then you need to ask more people to give you feedback before you can move on to another Honeycomb cell. 
+
+If you 
 
 ## Session 3
 
