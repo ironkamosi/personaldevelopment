@@ -57,6 +57,86 @@ You will reflect on your skills, achievements, and challenges every week. **You 
 
 You can write a sentence or a paragraph for the individual steps, as long as you have a clear example for each one. You can choose more than one competency or challenge or achievement and discuss that, one is just the minimum.
 
+### 
+
+## **Competencies** 
+
+The following competencies/skills are highly valued by employers, specifically tech employers. They are critical for you to develop because they cannot be replaced by artificial intelligence. 
+
+Each week, list one competency you used during the week, with an example of how you used it. 
+
+When you start writing your CV and applying for jobs you will be ready with a database of all the times and have examples of when you have used these skills. Then you will  easily refer to them during your job interviews.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Competency</b>
+      </th>
+      <th style="text-align:left"><b>What does it involve?</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Attention to Detail</td>
+      <td style="text-align:left">
+        <p>is about achieving efficiency and accuracy in your work.</p>
+        <p>This will help to improve your performance.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Adaptability</td>
+      <td style="text-align:left">
+        <p>is about being able to adapt to new situations and being open to change.</p>
+        <p>You can learn exciting and new things through adaptability</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Critical Thinking</td>
+      <td style="text-align:left">being able to precisely and objectively evaluate a situation in order
+        to find the best solution.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Decision making</td>
+      <td style="text-align:left">is being able to make important decisions.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Leadership</td>
+      <td style="text-align:left">
+        <p>is taking the initiative to oversee a process and lead a team to achieve
+          goals.</p>
+        <p>Being able to listen to everyone in the team, delegate tasks, communicate
+          effectively and inspire your team members.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Oral/written communication</td>
+      <td style="text-align:left">is being able to communicate effectively with others and get your point
+        of view across.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Problem solving</td>
+      <td style="text-align:left">is being able to find a solution to a difficult or challenging task. Looking
+        at a challenge from different angles and trying to find a new solution.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Taking initiative</td>
+      <td style="text-align:left">is the ability to see something that needs to be done and deciding to
+        do it without someone else telling you to do it</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Teamwork</td>
+      <td style="text-align:left">is being able to listen to others, take their thoughts/opinions on board
+        and work with them towards a common goal</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Time management</td>
+      <td style="text-align:left">is planning and controlling your time to increase effectiveness, efficiency,
+        and productivity.</td>
+    </tr>
+  </tbody>
+</table>
+
 ### What do I need to do afterwards? 
 
 When you meet in your Buddy Groups, take time and encourage each other to share your achievements. Praise the hard work and achievements you all have made, no matter how small they may seem.   
