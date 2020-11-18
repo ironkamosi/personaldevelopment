@@ -14,6 +14,8 @@ description: >-
 
 **Achievements:** 
 
+
+
 ### **Week X \(Example\)**
 
 **Core Competencies: Employability and Personal Development Skills**
