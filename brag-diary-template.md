@@ -6,7 +6,7 @@ description: >-
 
 # Brag Diary Template
 
-Week \(number\)
+**Week \(number\)**
 
 **Core Competencies: Employability and Personal Development Skills**
 
