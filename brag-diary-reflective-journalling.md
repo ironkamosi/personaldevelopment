@@ -12,13 +12,13 @@ Through regularly reflecting in your Brag Diary, you can track your self-growth 
 
 This document is personal to you and an opportunity for you to _**record your growth**_ and the skills you pick up over the next few months.   Too often we are hard on ourselves and compare ourselves to others. It’s important to remember that everyone has different abilities, which is a good thing! 
 
-You will be building an _experience map_ for yourself. You will do this by reflecting on what you have done over the week, talking about what you have achieved, and what you have found difficult. 
+You will be building an _**experience map**_ for yourself. You will do this by reflecting on what you have done over the week, talking about what you have achieved, and what you have found difficult. 
 
 
 
 ### Why should I keep a Brag Diary?
 
-A lot of work you will accomplish in the next few weeks will get forgotten and by the time you reach the end of your training. You will find it difficult to remember the skills you picked up along the way. The brag diary ensures that knowledge isn't lost. You can track what you have learned, even if it is not aligned with your goals, it is good to see the extra tasks you did and what you learned from that. Do not forget any invisible work, i.e extra hours spent on learning a new concept.   Be clear in your goals, this document will allow you to track the skills you are working on and which skills you need to perhaps work on more. Be open about your goals and share with others whilst asking for feedback. Encourage each other to share your achievements and praise the hard work and achievements of each other, no matter how small they may seem. 
+A lot of work you will accomplish in the next few weeks will get forgotten and by the time you reach the end of your training. You will find it difficult to remember the skills you picked up along the way. The brag diary ensures that knowledge isn't lost. You can track what you have learned, it is also good to see the extra tasks you did and what you learned from them. Do not forget any invisible work, i.e extra hours spent on learning a new concept.  
 
 ## 3 steps to creating a Brag Diary entry
 
@@ -32,7 +32,8 @@ Each week you must pick one competency that you used or worked on, i.e. if you d
 
 1. You need to note down and discuss a **challenge** you came across. Challenges are good as they are an opportunity to learn something new and grow. You all have different abilities and can learn from one another. Please support the other members of your group with challenges and bounce ideas off each other. You can refer to challenges you came across in homework or a tech project or even a challenge with trying to get work done, i.e. time-management. 
 2. You must also list an **achievement** every week, it can be something that might seem very small but mean a lot to you. It can be anything such as finally understanding a new concept, or learning a new technique or having a fun time with your buddy group! If that is your achievement, then please list it. 
-3. You can write a sentence or a paragraph for the individual steps, as long as you have a clear example for each one. You can choose more than one competency or challenge or achievement and discuss that, one is just the minimum.
+
+You can write a sentence or a paragraph for the individual steps, as long as you have a clear example for each one. You can choose more than one competency or challenge or achievement and discuss that, one is just the minimum.
 
 ### 
 
