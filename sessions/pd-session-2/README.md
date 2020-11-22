@@ -53,7 +53,7 @@ If you do not have enough feedback then you need to ask more people to give you 
 
 If you have enough feedback and feel like you are ready to move on the next cell, then the you will be introduced to your next set of habits. 
 
-## Session 3
+## Session 3 \(45-60mins\)
 
 ### Developer skills - Critical Thinking
 
@@ -71,15 +71,15 @@ Teamwork/ Collaboration Skills - Active Listening
 
 
 
-## Session 5 
+## Session 5 \(30- 60 mins\)
 
 **FindYourVoice - Empowerment Storytelling**
 
-**Objectives: to get to know each other, build trust and sense of community and to develop debate and discussion skills.**   
-  
+* **Get to know each other**
+* **Build trust and sense of community**
+* **Develop debate and discussion skills**
 
-
-\*\*\*\*
+## Sesssion 6 \(
 
 
 
