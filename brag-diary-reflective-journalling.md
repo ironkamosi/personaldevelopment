@@ -2,11 +2,11 @@
 
 Throughout your training at CodeYourFuture you will be doing lots of reflective journalling. 
 
-The Brag diary is one type of journalling you will use to keep track of expreiences you have throughout the course to leqaqrn from and refer back to when you start your job search. 
+The Brag diary is one type of journalling you will use to keep track of expreiences you have throughout the course to learn from and refer back to when you start your job search. 
 
 ### What is a Brag Diary?
 
-Watch this [video by Gargi Sharma](https://yougotthis.io/2020-birmingham-gargi-sharma/) where she discusses the importance of ‘bragging’ about yourself and _**celebrating your achievements**_**.** 
+Watch this [video by Gargi Sharma](https://yougotthis.io/2020-birmingham-gargi-sharma/) \(26 mins\) where she discusses the importance of ‘bragging’ about yourself and _**celebrating your achievements**_**.** 
 
 Through regularly reflecting in your Brag Diary, you can track your self-growth and achievements on your journey with Code Your Future.
 
