@@ -9,7 +9,8 @@
     * [Lesson](sessions/induction-week/learning-to-learn-session/lesson.md)
     * [Instructor Notes](sessions/induction-week/learning-to-learn-session/instructor-notes.md)
     * [Coursework](sessions/induction-week/learning-to-learn-session/coursework.md)
-* [Html/CSS - PD Day 2](sessions/pd-session-2.md)
+* [Html/CSS - PD Day 2](sessions/pd-session-2/README.md)
+  * [Critical Thinking Lesson Plan](sessions/pd-session-2/critical-thinking-lesson-plan.md)
 
 ## Training
 
@@ -36,5 +37,4 @@
 * [Career Mentoring- Managing Issues](career-mentoring-managing-issues.md)
 * [Brag Diary - Reflective Journalling](brag-diary-reflective-journalling.md)
 * [Brag Diary Template](brag-diary-template.md)
-* [Critical Thinking Lesson Plan](critical-thinking-lesson-plan.md)
 
