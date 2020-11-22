@@ -55,17 +55,27 @@ If you have enough feedback and feel like you are ready to move on the next cell
 
 ## Session 3
 
-Brag Diary
+### Developer skills - Critical Thinking
 
-We are 
+{% embed url="https://docs.google.com/presentation/d/1ZhFoHiV7dfMH9vr7-3RrsH3rbsn1wI69zyJoBHAi8KY/edit\#slide=id.g841d577060\_0\_32" %}
+
+
 
 
 
 ## Session 4
 
+Teamwork/ Collaboration Skills - Active Listening
 
 
-## Session 5
+
+
+
+## Session 5 
+
+Find Your Voice   
+  
+You have been work participating 
 
 \*\*\*\*
 
