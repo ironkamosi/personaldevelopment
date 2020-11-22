@@ -63,7 +63,7 @@ If you have enough feedback and feel like you are ready to move on the next cell
 
 
 
-## Session 4
+## Session 4 
 
 Teamwork/ Collaboration Skills - Active Listening
 
