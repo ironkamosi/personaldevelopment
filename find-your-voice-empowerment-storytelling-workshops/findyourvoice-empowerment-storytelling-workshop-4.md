@@ -1,64 +1,36 @@
 # FindYourVoice Empowerment Storytelling Workshop 4
 
-**Session III**
+**Session IV**
 
-Start the session by asking if someone wants to share how the week has been?
+Welcome and ask if they have any thoughts about the last session, if they have escaped, celebrated achievements or faced any challenges.
 
-Did anything exciting happen?
+Warm up
 
-Any challenges?
+Move/dance to participants’ song - Make sure participants have the chance to talk a bit about the chosen song.
 
-Warm up \(see Session 1\)
+Music statue.
 
-Dance to participants’ songs. Either facilitator or participant can lead a stretching while dancing.
+Facilitator pauses the song, everyone freezes.
 
-\(Make sure participant has the chance to talk a bit about the chosen song\)
+Each time music stops, invite a different participant to lead the dance.
 
-Reflection: how were you feeling before and how you feel after the dance? Rename \(on zoom\) Sleepy/ Awake
+Reflection: how were you feeling before and how you feel after the dance? Rename \(on zoom\) Sleepy / Awake
 
 \(Facilitator acknowledges their feelings\)
 
-Activity 1
+Activity
 
-In the large group
+\(Material: pen and paper\)
 
-\(materials needed: pen and paper/ reflective journal\)
+* As it is the last session of this module, invite participants to reflect on and write a paragraph about how they see themselves in a year time when the course finishes.
+* Participants are invited to read it out loud.
+* First they read it neutral, the facilitator suggests changing the intention using different genres like: say it as if it was a horror movie, a comedy, a romance, a documentary, etc.
 
-Participants are invited to write a reflection in their journals on their journey as migrants, daily lives, challenges, future plans and big and small achievements.
-
-How do you celebrate your achievements?
-
-How does a challenge make you feel?
-
-Where do you find peace?
-
-Give 5 minutes to write
-
-Then invite the participants to share if they wish to
-
-Note to facilitator: be positive and highlight how courageous they are for starting a new course, changing career and continue striving.
-
-Be mindful of creating psychological safety to start sharing.
-
-Activity 2
-
-Following their journal reflection, participants are invited to think about and complete the two sentences:
-
-\(Write on paper\)
-
-When I want to escape I…
-
-And it makes me feel….
-
-Each sentence can be accompanied by an action.
-
-Participants then are invited to ‘perform’: say it out loud with actions.
-
-Reflection: discuss how important it is, especially along the course, to pay attention to how we feel. Talk about the importance of celebrating achievements, to positively face challenges, to ask for help, and to ‘escape’ when overwhelmed.
+Options: change the speed \(as if it was on the moon –gravity - or late to work\) , the volume \(if it was telling a secret or making an announcement\).
 
 Closure
 
-Rename themselves to how they are feeling right now.
+Rename to a message to themselves when course finishes E.g. Be positive, You can do it, etc.
 
-\(Invite participants to have a look on people’s feelings\)
+\(Invite participants to have a look on people’s messages\)
 
