@@ -38,8 +38,8 @@
 * [Brag Diary - Reflective Journalling](brag-diary-reflective-journalling.md)
 * [Brag Diary Template](brag-diary-template.md)
 * [FindYourVoice - Empowerment Storytelling Workshops](find-your-voice-empowerment-storytelling-workshops/README.md)
-  * [FindYourVoice Empowerment Storytelling Workshop 2](find-your-voice-empowerment-storytelling-workshops/findyourvoice-empowerment-storytelling-workshop-2.md)
   * [FindYourVoice - Empowerment Storytelling Workshop 1](find-your-voice-empowerment-storytelling-workshops/findyourvoice-empowerment-storytelling-workshop-1.md)
+  * [FindYourVoice Empowerment Storytelling Workshop 2](find-your-voice-empowerment-storytelling-workshops/findyourvoice-empowerment-storytelling-workshop-2.md)
   * [FindYourVoice Empowerment Storytelling Workshop 3](find-your-voice-empowerment-storytelling-workshops/untitled.md)
   * [FindYourVoice Empowerment Storytelling Workshop 4](find-your-voice-empowerment-storytelling-workshops/findyourvoice-empowerment-storytelling-workshop-4.md)
 
