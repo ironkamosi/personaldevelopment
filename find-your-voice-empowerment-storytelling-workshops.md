@@ -2,17 +2,15 @@
 description: Communication and confidence building sessions
 ---
 
-# Find Your Voice - Empowerment Storytelling Workshops
+# FindYourVoice - Empowerment Storytelling Workshops
 
-
-
-**1. Why FYV?**
+**1. Why FindYourVoice?**
 
 It was noticed by CYF staff and volunteers the need to get to know students better and in other capacities as well as for the students to bond, integrate and feel part of a group.
 
-**2. What is FYV?**
+**2. What is FindYourVoice?**
 
-Find Your Voice is a programme that utilizes theatre as an essential tool to raise self-esteem, develop communication skills and support refugees and disadvantaged individuals, in finding their own voice. It provides a safe space where people feel encouraged to take risks, share experiences, self reflect and take control of their own lives.
+FindYourVoice is a programme that utilises theatre as an essential tool to raise self-esteem, develop communication skills and support refugees and disadvantaged individuals, in finding their own voice. It provides a safe space where people feel encouraged to take risks, share experiences, self reflect and take control of their own lives.
 
 The idea of safe space is based on the following:
 
@@ -56,7 +54,7 @@ According to the Doctor of Philosophy Nelly Stromquist, empowerment consists in 
 
 d. Concept
 
-**Decolonization**
+**Decolonisation**
 
 Decoloniality or decolonization is a concept developed by a collective of primarily Latin American scholars aiming at liberation of \(ex -\) colonized people from global coloniality. Decolonization is also considered a way of thinking, knowing and doing.
 
