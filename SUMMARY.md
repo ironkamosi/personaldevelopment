@@ -36,4 +36,5 @@
 * [Career Mentoring- Managing Issues](career-mentoring-managing-issues.md)
 * [Brag Diary - Reflective Journalling](brag-diary-reflective-journalling.md)
 * [Brag Diary Template](brag-diary-template.md)
+* [Critical Thinking Lesson Plan](critical-thinking-lesson-plan.md)
 
