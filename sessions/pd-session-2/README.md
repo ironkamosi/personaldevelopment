@@ -73,9 +73,11 @@ Teamwork/ Collaboration Skills - Active Listening
 
 ## Session 5 
 
-Find Your Voice   
+**FindYourVoice - Empowerment Storytelling**
+
+**Objectives: to get to know each other, build trust and sense of community and to develop debate and discussion skills.**   
   
-You have been work participating 
+
 
 \*\*\*\*
 
