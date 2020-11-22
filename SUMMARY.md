@@ -39,4 +39,5 @@
 * [Brag Diary Template](brag-diary-template.md)
 * [FindYourVoice - Empowerment Storytelling Workshops](find-your-voice-empowerment-storytelling-workshops/README.md)
   * [FindYourVoice - Empowerment Storytelling Workshop 1](find-your-voice-empowerment-storytelling-workshops/findyourvoice-empowerment-storytelling-workshop-1.md)
+* [FindYourVoice Empowerment Storytelling Workshop 2](findyourvoice-empowerment-storytelling-workshop-2.md)
 
