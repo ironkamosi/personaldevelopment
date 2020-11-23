@@ -69,11 +69,15 @@ If you have enough feedback and feel like you are ready to move on the next cell
 * **Build trust and sense of community**
 * **Develop debate and discussion skills**
 
-## Sesssion 5 Teamwork/ Collaboration Skills - Active Listening \(45- 60 mins\)
+## Sesssion 5 \(45- 60 mins\)
+
+### Teamwork/ Collaboration Skills - Active Listening 
 
 
 
 ## Session 6 
 
+### Independent Practice- Coursework introduction
 
+Remember, there are 2 separate Google Classrooms. 1 for technical coursework and another for PD coursework. See the coursework for this week [here](https://personaldevelopment.codeyourfuture.io/lessons/induction-week/learning-to-learn-session/coursework). 
 
