@@ -41,7 +41,7 @@ What things did you wish to have during the past 4 weeks that were not available
 
 Your retro should run between 30-60 mins depending on the size of your group. 
 
-## Session 2 \(30 mins\)
+## Session 2 \(30 -45 mins\)
 
 ### Honeycomb Feedback
 
@@ -61,25 +61,19 @@ If you have enough feedback and feel like you are ready to move on the next cell
 
 
 
+## Session 4 \(30- 60 mins\)
 
-
-## Session 4 
-
-Teamwork/ Collaboration Skills - Active Listening
-
-
-
-
-
-## Session 5 \(30- 60 mins\)
-
-**FindYourVoice - Empowerment Storytelling**
+### **FindYourVoice - Empowerment Storytelling**
 
 * **Get to know each other**
 * **Build trust and sense of community**
 * **Develop debate and discussion skills**
 
-## Sesssion 6 \(
+## Sesssion 5 Teamwork/ Collaboration Skills - Active Listening \(45- 60 mins\)
+
+
+
+## Session 6 
 
 
 
