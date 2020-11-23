@@ -12,7 +12,7 @@
 
 You can also ask the As to not only raise their hand, but also lose focus.
 
-For exapmple, move out of camera view, turn head and look away in the opposite directio; mute and start talking to somone off camera, etc. 
+For example, move out of camera view, turn head and look away in the opposite directio; mute and start talking to somone off camera, etc. 
 
 It's a great simple, quick exercise to run, and then to talk with the group about the power of active listening afterwards.
 
