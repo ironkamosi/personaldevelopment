@@ -73,8 +73,6 @@ If you have enough feedback and feel like you are ready to move on the next cell
 
 ### Teamwork/ Collaboration Skills - Active Listening 
 
-
-
 ## Session 6 
 
 ### Independent Practice- Coursework introduction

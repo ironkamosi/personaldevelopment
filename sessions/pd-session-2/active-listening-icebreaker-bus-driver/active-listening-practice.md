@@ -1,7 +1,8 @@
 ---
 description: >-
   This is an activity you can use to incorporate 3 learning styles
-  (speaking/listening, seeing, doing)
+  (speaking/listening, seeing, doing) Adapted from:
+  https://www.trainingzone.co.uk/develop/cpd/trainers-tips-active-listening-exercises
 ---
 
 # Active Listening Practice 1
