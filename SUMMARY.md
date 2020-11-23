@@ -10,6 +10,7 @@
     * [Instructor Notes](sessions/induction-week/learning-to-learn-session/instructor-notes.md)
     * [Coursework](sessions/induction-week/learning-to-learn-session/coursework.md)
 * [Html/CSS - PD Day 2](sessions/pd-session-2/README.md)
+  * [Active Listening Icebreaker - Bus Driver](sessions/pd-session-2/active-listening-icebreaker-bus-driver.md)
   * [Critical Thinking Lesson Plan](sessions/pd-session-2/critical-thinking-lesson-plan.md)
   * [Brag Diary - Reflective Journalling](sessions/pd-session-2/brag-diary-reflective-journalling/README.md)
     * [Brag Diary Template](sessions/pd-session-2/brag-diary-reflective-journalling/brag-diary-template.md)
