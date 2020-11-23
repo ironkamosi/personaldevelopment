@@ -6,7 +6,7 @@ description: >-
 
 # Active Listening Practice 1
 
-#### **Active listening - A&B's Online version**
+### **Active listening - A&B's Online version**
 
 You will need two facilitators for this activity.   
 Divide into two groups A & B  
@@ -19,22 +19,27 @@ After Group B moves to their breakout room, give Group A their instructions:
 You will be paired up with someone in group B. While you are listening, everytime your partner says something that evokes your 'inner voice' - meaning you want to ask a question, makes you think about something etc...  put your hand up for five seconds then put it back down. But you don't say anything. Do this for the entire conversation - you are not allowed to interact with your partner, ask questions, affirm understanding etc.. Remain silent, just raising your hand everytime your inner voice kicks in. You partner will talk for about 3 minutes. 
 
   
-**Group B Instructions**  
+**Group B Instructions:**  
 After moving to their breakout room, Give Group B their instructions:   
+
+
 You will partner up with one person from group A. When you two join your breakout room, you should talk about something of interesting to you, share an experience, your dream holiday, anything positive that has happened in the last six months. You will have three minutes to talk.
 
   
 Once both groups are prepped, pair A's and B's and send the pairs to their breakout rooms. Keep track of the time and make sure you bring them back to the main room after about 3 mins. 
 
-When all groups have returned to the main room:
+#### **Debrief:** 
+
+When all groups have returned to the main room.
 
 Ask the Bs how they felt whilst talking to A, emotions evoked etc... general answers back are normally 'didn't feel listened too, didn't understand why they were putting their hand up, lost my train of thought becuase they obviously weren't listening,' etc...
 
 It's a great simple, quick exercise to run, and then to talk with the group about the power of active listening afterwards.
 
 You can run the exercise again, this time allowing the As to interact, ask questions, become involved in the conversation etc... and compare the two conversations, which was more satisfying etc..."  
-  
-**Active listening - A&B's Face to face in real life version**
+
+
+### **Active listening - A&B's Face to face in real life version**
 
 * Group split into pairs, A & B
 * Take Bs out of the room and ask to wait outside
