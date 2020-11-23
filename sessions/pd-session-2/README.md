@@ -45,11 +45,11 @@ Your retro should run between 30-60 mins depending on the size of your group.
 
 ### Honeycomb Feedback
 
-Now build on the information gained during the retro and evaluate the feedback given to you for the 'Working with my team' cell
+Now build on the information gained during the retro and evaluate the feedback given to you for the 'Working with my team' cell.
 
-Look at your feedback results and discuss in your Buddy groups if you have develped the habits in this cell. 
+Look at your feedback results and discuss in your Buddy groups how much you have develped the habits in this cell. 
 
-If you do not have enough feedback then you need to ask more people to give you feedback before you can move on to another Honeycomb cell. 
+If you do not have enough feedback then you need to ask more people for feedback before you can move on to another Honeycomb cell. 
 
 If you have enough feedback and feel like you are ready to move on the next cell, then the you will be introduced to your next set of habits. 
 
