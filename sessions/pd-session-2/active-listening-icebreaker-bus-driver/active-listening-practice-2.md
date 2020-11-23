@@ -1,3 +1,7 @@
+---
+description: This is another activity you can use to incorporate all 3 learning styles (
+---
+
 # Active Listening Practice 2
 
 #### **Stop listening exercise- Online version** 
