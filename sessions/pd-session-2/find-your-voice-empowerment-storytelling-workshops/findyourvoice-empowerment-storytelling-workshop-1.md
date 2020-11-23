@@ -28,13 +28,13 @@ e.g. instrument, book, pen, notebook, cushion, etc.
 
 Reflection: Participants are invited to open the mic and tell the story of the object.
 
-* What is it?  \
+* What is it? 
 
-  Where did you get it?  \
+  Where did you get it? 
 
-  Why is it important?  \
+  Why is it important? 
 
-  How did you get attached to it?  -
+  How did you get attached to it? 
 
 \(Participants are asked to keep the object for next FYV session\)
 
@@ -43,4 +43,8 @@ Closure:
 Facilitator asks participants to rename themselves \(on zoom\) to how they are feeling right now. E.g. Carolina/ Excited
 
 Offer space for few participants to comment on the feeling they will take from the session.
+
+{% embed url="https://docs.google.com/presentation/d/1hqwJfWt7PI9Ga1m8iJOCg5ZN5gjjn3frKIrzrPm\_r\_k/edit\#slide=id.p" %}
+
+
 
