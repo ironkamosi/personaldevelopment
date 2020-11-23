@@ -1,5 +1,7 @@
 ---
-description: This is another activity you can use to incorporate all 3 learning styles (
+description: >-
+  This is another activity you can use to incorporate all 3 learning styles
+  (speaking/listening, seeing, doing)
 ---
 
 # Active Listening Practice 2

@@ -1,3 +1,9 @@
+---
+description: >-
+  This is an activity you can use to incorporate 3 learning styles
+  (speaking/listening, seeing, doing)
+---
+
 # Active Listening Practice 1
 
 #### **Active listening - A&B's**
