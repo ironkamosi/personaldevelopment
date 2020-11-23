@@ -10,7 +10,14 @@
     * [Instructor Notes](sessions/induction-week/learning-to-learn-session/instructor-notes.md)
     * [Coursework](sessions/induction-week/learning-to-learn-session/coursework.md)
 * [Html/CSS - PD Day 2](sessions/pd-session-2/README.md)
-  * [Critical Thinking Lesson Plan](sessions/pd-session-2/critical-thinking-lesson-plan.md)
+  * [Brag Diary - Reflective Journalling](sessions/pd-session-2/brag-diary-reflective-journalling/README.md)
+    * [Brag Diary Template](sessions/pd-session-2/brag-diary-reflective-journalling/brag-diary-template/README.md)
+      * [Critical Thinking Lesson Plan](sessions/pd-session-2/brag-diary-reflective-journalling/brag-diary-template/critical-thinking-lesson-plan.md)
+  * [FindYourVoice - Empowerment Storytelling Workshops](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/README.md)
+    * [FindYourVoice - Empowerment Storytelling Workshop 1](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/findyourvoice-empowerment-storytelling-workshop-1.md)
+    * [FindYourVoice Empowerment Storytelling Workshop 2](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/findyourvoice-empowerment-storytelling-workshop-2.md)
+    * [FindYourVoice Empowerment Storytelling Workshop 3](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/untitled.md)
+    * [FindYourVoice Empowerment Storytelling Workshop 4](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/findyourvoice-empowerment-storytelling-workshop-4.md)
 
 ## Training
 
@@ -35,11 +42,4 @@
 * [Career Mentoring- Your 1st meeting](career-mentoring-goals-setting.md)
 * [Career Mentoring - Establishing Rapport](career-mentoring-establishing-rapport.md)
 * [Career Mentoring- Managing Issues](career-mentoring-managing-issues.md)
-* [Brag Diary - Reflective Journalling](brag-diary-reflective-journalling.md)
-* [Brag Diary Template](brag-diary-template.md)
-* [FindYourVoice - Empowerment Storytelling Workshops](find-your-voice-empowerment-storytelling-workshops/README.md)
-  * [FindYourVoice - Empowerment Storytelling Workshop 1](find-your-voice-empowerment-storytelling-workshops/findyourvoice-empowerment-storytelling-workshop-1.md)
-  * [FindYourVoice Empowerment Storytelling Workshop 2](find-your-voice-empowerment-storytelling-workshops/findyourvoice-empowerment-storytelling-workshop-2.md)
-  * [FindYourVoice Empowerment Storytelling Workshop 3](find-your-voice-empowerment-storytelling-workshops/untitled.md)
-  * [FindYourVoice Empowerment Storytelling Workshop 4](find-your-voice-empowerment-storytelling-workshops/findyourvoice-empowerment-storytelling-workshop-4.md)
 
