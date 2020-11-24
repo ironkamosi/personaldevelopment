@@ -34,17 +34,13 @@
   * [Coursework Review](training/buddy-training/coursework-review.md)
 * [Career Mentor Role](training/career-mentor-role.md)
 * [Career Mentor Training](training/career-mentors/README.md)
+  * [Career Mentoring- Managing Issues](training/career-mentors/career-mentoring-managing-issues.md)
+  * [Career Mentoring - Establishing Rapport](training/career-mentors/career-mentoring-establishing-rapport.md)
+  * [Career Mentoring- Your 1st meeting](training/career-mentors/career-mentoring-goals-setting.md)
   * [Career Mentoring - Ending the Relationship](training/career-mentors/career-mentoring-ending-the-relationship.md)
-  * [Guidance for Career Mentors](training/career-mentors/untitled.md)
 
 ## Guides for Volunteers <a id="guides"></a>
 
 * [Using the GROWS Model](guides/using-the-grows-model.md)
 * [42 Best GROWS Model Coaching Questions](guides/42-best-grows-model-coaching-questions.md)
-
----
-
-* [Career Mentoring- Your 1st meeting](career-mentoring-goals-setting.md)
-* [Career Mentoring - Establishing Rapport](career-mentoring-establishing-rapport.md)
-* [Career Mentoring- Managing Issues](career-mentoring-managing-issues.md)
 
