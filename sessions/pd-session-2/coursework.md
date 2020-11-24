@@ -28,11 +28,11 @@ Zoom and LinkedIn 1 item
 
 Twitter 1 item 
 
-Question 3 \(10 marks\) Read this article 
+3. Read this article 
 
 This online tool reveals your personality based on Facebook 'likes' 
 
-Which of the following statements are true or false?   
+Based on the information in the article, which of the following statements are true or false?   
 
 
 <table>
@@ -47,17 +47,17 @@ Which of the following statements are true or false?
     <tr>
       <td style="text-align:left">Facebook knows how intelligent I am</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">What I like on Facebook can be used to guess which political party I vote
         for</td>
-      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Facebook shows me adverts based on what it thinks I like</td>
-      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -66,19 +66,17 @@ Which of the following statements are true or false?
         <p>user&#x2019;s account</p>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Apply Magic Sauce is a non-profit academic research project</td>
-      <td style="text-align:left">x</td>
+      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
 
-4. 
-
-\(i\) Choose one thing that Apply Magic Sauce can do that you don’t like \(or like least\). Describe what it is and say why you don’t like it. \(250 words\)   
+4. Choose one thing that Apply Magic Sauce can do that you don’t like \(or like the least\). Describe what it is and say why you don’t like it. \(250 words\)   
 
 
 Companies are very interested in such data. Automated language analysis is already being used in the hiring of personnel. Click [here](https://www.scientificamerican.com/article/the-internet-knows-you-better-than-your-spouse-does/) for source.  
@@ -110,8 +108,6 @@ The fact that Apply Magic Sauce can only guess one’s traits if the Facebook ac
 
 
 Humans are imperfect but have the ability to put on a front during their working hours which allows them to perform in the job. This approach can be used on social media too, to create a social media persona, distancing one’s true self from the different opinions broadcast by friends, family and associates. With this in mind, one may be clever and play Apply Magic Sauce at its own game and it would be hard to tell what is reality and what is imagination, like the film Inception. This allows users to keep abreast of social media without getting too deeply involved and emotionally invested.When filling out one’s profile, a pseudo age could be entered. However,do act courteously and avoid being a faceless nuisance in the cyber community.
-
-------------------------------------------------------------------------------------------------------------------------
 
 Question 3 reading notes
 
@@ -149,7 +145,15 @@ You'll be asked to log in via Facebook. The website says it only collects your p
 
 Once you've logged in to your Facebook account, it shows the results. You can take further tests to narrow your personality down further, and in some cases see how you compare to the average.
 
-[Follow @telegraphtech](https://twitter.com/telegraphtech)  
-  
+[Follow @telegraphtech](https://twitter.com/telegraphtech)
 
+## Brag Diary Coursework \|  \(Listen, Read, Write\) 
+
+1. Watch this [video by Gargi Sharma](https://yougotthis.io/2020-birmingham-gargi-sharma/) \(26 mins\) where she discusses the importance of ‘bragging’ about yourself and _**celebrating your achievements**_**.** 
+2. After watching, reflect on the presentation in your learning journal
+   1. 
+
+
+
+##  
 
