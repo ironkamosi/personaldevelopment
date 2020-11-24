@@ -69,13 +69,19 @@ If you have enough feedback and feel like you are ready to move on the next cell
 * **Build trust and sense of community**
 * **Develop debate and discussion skills**
 
+Hopefully by now you have particpated in several of the FindYourVoice workshops. There are 4 in this series and your PD team will lead you in the next one.
+
 ## Sesssion 5 \(45- 60 mins\)
 
 ### Teamwork/ Collaboration Skills - Active Listening 
+
+{% embed url="https://docs.google.com/presentation/d/1KAZNpRbGuN\_6W3a7r3RjaWbYw1jLPEzFzRuBnl1EINY/edit\#slide=id.g885c7fc693\_2\_25" %}
+
+
 
 ## Session 6 
 
 ### Independent Practice- Coursework introduction
 
-Remember, there are 2 separate Google Classrooms. 1 for technical coursework and another for PD coursework. See the coursework for this week [here](https://personaldevelopment.codeyourfuture.io/lessons/induction-week/learning-to-learn-session/coursework). 
+Remember, there are 2 separate Google Classrooms. 1 for technical coursework and another for PD coursework. See the coursework for this week [here](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-2/coursework). 
 
