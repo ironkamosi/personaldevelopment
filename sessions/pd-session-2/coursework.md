@@ -6,9 +6,9 @@ In this assignment we will be considering and comparing Twitter, Facebook and Li
 
 1. Complete the following table that compares the different features of the three social networks: 
 
-If you are unable to complete a cell in the table you can ask for help \(but not the answer\) in Slack. Ideally, you should discuss how you can find out the answer. 
+If you are unable to complete a cell in the table you can ask for help in Slack. 
 
-Note that many of the answers are available on the Wikipedia page of the social networks. 
+If you know the answer don't just give it. You should discuss how someone can find out the answer themselves. 
 
 |  | Twitter | Facebook | LinkedIn |
 | :--- | :--- | :--- | :--- |
@@ -22,18 +22,19 @@ Note that many of the answers are available on the Wikipedia page of the social 
 
 For example, in Question 1 you should have seen that not all social networks tell users when someone has looked at their account. 
 
-Facebook 3 items 
+Facebook  
 
-Zoom and LinkedIn 1 item 
+Zoom 
 
-Twitter 1 item 
+LinkedIn 
 
-3. Read this article 
+Twitter
+
+3. Read this article
 
 This online tool reveals your personality based on Facebook 'likes' 
 
-Based on the information in the article, which of the following statements are true or false?   
-
+Based on the information in the article, which of the following statements are true or false? 
 
 <table>
   <thead>
