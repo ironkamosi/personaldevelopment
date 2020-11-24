@@ -10,6 +10,7 @@
     * [Instructor Notes](sessions/induction-week/learning-to-learn-session/instructor-notes.md)
     * [Coursework](sessions/induction-week/learning-to-learn-session/coursework.md)
 * [Html/CSS - PD Day 2](sessions/pd-session-2/README.md)
+  * [Coursework](sessions/pd-session-2/coursework.md)
   * [Session- Active Listening Icebreaker](sessions/pd-session-2/active-listening-icebreaker-bus-driver/README.md)
     * [Active Listening Practice 1](sessions/pd-session-2/active-listening-icebreaker-bus-driver/active-listening-practice.md)
     * [Active Listening Practice 2](sessions/pd-session-2/active-listening-icebreaker-bus-driver/active-listening-practice-2.md)
