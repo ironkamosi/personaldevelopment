@@ -77,9 +77,11 @@ Hopefully by now you have particpated in several of the FindYourVoice workshops.
 
 {% embed url="https://docs.google.com/presentation/d/1KAZNpRbGuN\_6W3a7r3RjaWbYw1jLPEzFzRuBnl1EINY/edit\#slide=id.g885c7fc693\_2\_25" %}
 
+## Session 6
 
+Brag Diary 
 
-## Session 6 
+## Session 7
 
 ### Independent Practice- Coursework introduction
 
