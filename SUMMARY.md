@@ -10,6 +10,11 @@
     * [Instructor Notes](sessions/induction-week/learning-to-learn-session/instructor-notes.md)
     * [Coursework](sessions/induction-week/learning-to-learn-session/coursework.md)
 * [Html/CSS - PD Day 2](sessions/pd-session-2/README.md)
+  * [FindYourVoice - Empowerment Storytelling Workshops](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/README.md)
+    * [FindYourVoice - Empowerment Storytelling Workshop 1](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/findyourvoice-empowerment-storytelling-workshop-1.md)
+    * [FindYourVoice Empowerment Storytelling Workshop 2](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/findyourvoice-empowerment-storytelling-workshop-2.md)
+    * [FindYourVoice Empowerment Storytelling Workshop 3](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/untitled.md)
+    * [FindYourVoice Empowerment Storytelling Workshop 4](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/findyourvoice-empowerment-storytelling-workshop-4.md)
   * [Lesson Plan- Critical Thinking](sessions/pd-session-2/critical-thinking-lesson-plan/README.md)
     * [Critical Thinking Worksheet](sessions/pd-session-2/critical-thinking-lesson-plan/critical-thinking-worksheet.md)
   * [Brag Diary - Reflective Journalling](sessions/pd-session-2/brag-diary-reflective-journalling/README.md)
@@ -20,11 +25,6 @@
     * [Active Listening Practice 2](sessions/pd-session-2/lesson-plan-active-listening/active-listening-practice-2.md)
   * [Coursework](sessions/pd-session-2/coursework/README.md)
     * [This online tool reveals your personality based on Facebook 'likes'](sessions/pd-session-2/coursework/this-online-tool-reveals-your-personality-based-on-facebook-likes.md)
-  * [FindYourVoice - Empowerment Storytelling Workshops](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/README.md)
-    * [FindYourVoice - Empowerment Storytelling Workshop 1](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/findyourvoice-empowerment-storytelling-workshop-1.md)
-    * [FindYourVoice Empowerment Storytelling Workshop 2](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/findyourvoice-empowerment-storytelling-workshop-2.md)
-    * [FindYourVoice Empowerment Storytelling Workshop 3](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/untitled.md)
-    * [FindYourVoice Empowerment Storytelling Workshop 4](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/findyourvoice-empowerment-storytelling-workshop-4.md)
 
 ## Training
 
