@@ -47,10 +47,10 @@
   * [Career Mentoring- Your 1st meeting](training/career-mentors/career-mentoring-goals-setting.md)
   * [Career Mentoring - Ending the Relationship](training/career-mentors/career-mentoring-ending-the-relationship.md)
 
-## Guides for Volunteers <a id="guides"></a>
+## Guides for Volunteers
 
-* [Using the GROWS Model](guides/using-the-grows-model.md)
-* [42 Best GROWS Model Coaching Questions](guides/42-best-grows-model-coaching-questions.md)
+* [Using the GROWS Model](guides-for-volunteers/using-the-grows-model.md)
+* [42 Best GROWS Model Coaching Questions](guides-for-volunteers/42-best-grows-model-coaching-questions.md)
 
 ## Additional Resources for Trainees
 
