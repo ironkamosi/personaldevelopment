@@ -65,11 +65,10 @@ If you have enough feedback and feel like you are ready to move on the next cell
 
 ### **FindYourVoice - Empowerment Storytelling**
 
-* **Get to know each other**
-* **Build trust and sense of community**
-* **Develop debate and discussion skills**
+4 workshops designed to facilitate confidence building through drama activities
 
-Hopefully by now you have particpated in several of the FindYourVoice workshops. There are 4 in this series and your PD team will lead you in the next one.
+* use as after lunch icebreaker activity
+* should have done sessions 1 & 2 during Fundamentals; session 3 during PD day 1 
 
 ## Sesssion 5 \(45- 60 mins\)
 

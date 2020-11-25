@@ -78,7 +78,7 @@ Next, we'll be covering the best ways for us to learn together.
 * 4 workshops designed to facilitate confidence building through drama activities
 * use as after lunch icebreaker activity
 * should have done sessions 1 & 2 during Fundamentals
-* if not, start with session 1 
+* if you didn't, start with session 1 
 
 ## Session 6
 
