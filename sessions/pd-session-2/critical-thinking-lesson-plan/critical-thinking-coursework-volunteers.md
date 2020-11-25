@@ -98,7 +98,7 @@ Which of the following statements are true or false?
   </tbody>
 </table>
 
-Question 3 reading notes
+### Question 3 reading notes
 
 Apply Magic Sauce is an alternative machine interpretation of one’s personality based on the analysis of how a person writes a sentence in an email or the types of content they like on social media. This is great when it gets the personality traits 99% accurate. But what if it goes horribly wrong and ruins lives?  
 
@@ -129,7 +129,7 @@ Humans are imperfect but have the ability to put on a front during their working
 
 --------------------------------------------------------------------------------------------
 
-Question 4
+### Question 4
 
 \(i\) Choose one thing that Apply Magic Sauce can do that you don’t like \(or like least\). Describe what it is and say why you don’t like it. \(250 words\)   
 
