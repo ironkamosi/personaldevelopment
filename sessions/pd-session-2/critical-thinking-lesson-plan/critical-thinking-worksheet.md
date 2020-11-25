@@ -1,4 +1,4 @@
-# Critical Thinking Worksheet
+# Critical Thinking Worksheet- Trainees
 
 One at a time, read the following three statements. Then read the arguments against them. Order the statements based on which of them has the best argument against the statement.  
 
