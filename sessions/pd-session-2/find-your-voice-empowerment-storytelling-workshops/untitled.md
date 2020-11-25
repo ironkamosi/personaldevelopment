@@ -1,5 +1,7 @@
 # FindYourVoice Empowerment Storytelling Workshop 3
 
+Objectives: to get to know each other, build trust and sense of community and to develop debate and discussion skills.
+
 **Session III**
 
 Start the session by asking if someone wants to share how the week has been?
