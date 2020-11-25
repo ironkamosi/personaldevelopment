@@ -1,6 +1,8 @@
 # FindYourVoice Empowerment Storytelling Workshop 4
 
-### **Session IV**
+Objectives: to get to know each other, build trust and sense of community and to develop debate and discussion skills.
+
+**Session IV**
 
 Welcome the group and ask if they have any thoughts about the last session, if they have escaped, celebrated any achievements or faced any challenges.
 
