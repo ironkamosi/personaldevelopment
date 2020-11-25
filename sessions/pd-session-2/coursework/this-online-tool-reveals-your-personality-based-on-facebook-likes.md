@@ -1,4 +1,4 @@
-# This online tool reveals your personality based on Facebook 'likes'
+# Article - This online tool reveals your personality based on Facebook 'likes'
 
 ### University of Cambridge tool estimates key psychological traits, religious and political views, intelligence and happiness using Facebook like data
 

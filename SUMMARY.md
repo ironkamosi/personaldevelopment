@@ -32,7 +32,7 @@
     * [Brag Diary Template](sessions/pd-session-2/brag-diary-reflective-journalling/brag-diary-template.md)
     * [Untitled](sessions/pd-session-2/brag-diary-reflective-journalling/untitled.md)
   * [Coursework](sessions/pd-session-2/coursework/README.md)
-    * [This online tool reveals your personality based on Facebook 'likes'](sessions/pd-session-2/coursework/this-online-tool-reveals-your-personality-based-on-facebook-likes.md)
+    * [Article - This online tool reveals your personality based on Facebook 'likes'](sessions/pd-session-2/coursework/this-online-tool-reveals-your-personality-based-on-facebook-likes.md)
 
 ## Training <a id="training-for-volunteers"></a>
 
