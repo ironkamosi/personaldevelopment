@@ -5,10 +5,10 @@
 ## PD Sessions <a id="sessions"></a>
 
 * [Induction Week - PD Day 1](sessions/induction-week/README.md)
-  * [Lesson Plan - F](sessions/induction-week/lesson-plan-f.md)
   * [Learning to Learn Session](sessions/induction-week/learning-to-learn-session/README.md)
     * [Lesson](sessions/induction-week/learning-to-learn-session/lesson.md)
     * [Instructor Notes](sessions/induction-week/learning-to-learn-session/instructor-notes.md)
+  * [Lesson Plan - F](sessions/induction-week/lesson-plan-f.md)
   * [Coursework](sessions/induction-week/coursework.md)
 * [Html/CSS - PD Day 2](sessions/pd-session-2/README.md)
   * [Lesson Plan- Critical Thinking](sessions/pd-session-2/critical-thinking-lesson-plan/README.md)
