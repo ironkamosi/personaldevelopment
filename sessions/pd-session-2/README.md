@@ -16,7 +16,7 @@ All trainees should have recieved feedback on their Honeycome cell **'Working Wi
 
 ## Session 1 \(30 mins- 1 hour\)
 
-### 4Ls Retrospective: Liked, Learned, Lacked, & Longed For - from [https://www.retrium.com/retrospective-techniques/4ls](https://www.retrium.com/retrospective-techniques/4ls)
+### 4Ls Retrospective: Liked, Learned, Lacked, & Longed for - from [https://www.retrium.com/retrospective-techniques/4ls](https://www.retrium.com/retrospective-techniques/4ls)
 
 Revisit Agile Methodologies presented in PD Day 1 - Honeycomb session.   
 Start the day with a [retrospective](https://www.retrium.com/retrospective-techniques/4ls) on the past 4 weeks PD skills development. 
@@ -33,11 +33,11 @@ What new things did the team learn during the past 4 weeks? These can be technic
 
 * **Lacked**
 
-What things could you, the team, the volunteers  have done better during the past 4 weeks?
+What things could you, the team, and the volunteers have done better during the past 4 weeks?
 
 * **Longed for**
 
-What things did you wish to have during the past 4 weeks that were not available? Again, these can be technical  or nontechnical \(like the desire for more face time with the team\).
+What things did you wish you had during the past 4 weeks that were not available? Again, these can be technical  or nontechnical \(like the desire for more face time with the team\).
 
 Your retro should run between 30-60 mins depending on the size of your group. 
 
