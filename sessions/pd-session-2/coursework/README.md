@@ -44,9 +44,9 @@ Twitter
 
 #### Part 3
 
-Read this article
+Read this article by By [James Titcomb](http://preview.telegraph.co.uk/journalists/james-titcomb/)/ Telegraph
 
-This online tool reveals your personality based on Facebook 'likes' 
+#### \_\_[_This online tool reveals your personality based on Facebook 'likes'_ ](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-2/coursework/this-online-tool-reveals-your-personality-based-on-facebook-likes)\_\_
 
 Based on the information in the article, which of the following statements are true or false? 
 
@@ -102,73 +102,30 @@ Companies are very interested in such data. Automated language analysis is alrea
 Apply Magic Sauce is an alternative machine interpretation of one’s personality based on the analysis of how a person writes a sentence in an email or the types of content they like on social media. This is great when it gets the personality traits 99% accurate. But what if it goes horribly wrong and ruins lives?  
 
 
-Below are three scenarios for readers to contemplate:
+Below are three scenarios for you to contemplate:
 
 1. If the software wrongfully judges and jeopardises a person’s career without their knowledge?
 2. Are humans unable to think for themselves and do they have to rely on machines to form a non-holistic opinion?
 3. Are civilians expected to be on guard at all times and be careful of what they say and how they comment a post or tweet in a censored cyber world where everything is traceable and nothing is ever really erased?
 
-Activities on social media do not always reflect who the person in question is as snippets of information can be taken out of context. As adaptable creatures, humans put on different personas in different situations. When dealing with a stranger face-to-face politeness is displayed. When speaking to a friend, informal language is used. When venting about a poor product on social media in order to get an open response, a less friendly tone is employed.  
 
-
-Outside the office, if people cannot relax and be themselves for fear of being stalked on social media by potential employers, would this compromise business ethics and lead prospective employees to rethink what a desirable workplace feels like?
-
-\(ii\) Choose one thing that Apply Magic Sauce can do that doesn’t concern you \(or concerns you least\). Describe what it is and say why it doesn’t bother you. \(250 words\) 
-
-These technological advances open opportunities not only for commerce but for public health. Among those possibilities: smartphone apps may in the future recognize when a bipolar patient is slipping into a depressive phase and can inform the person’s physician. Click [here](https://www.scientificamerican.com/article/the-internet-knows-you-better-than-your-spouse-does/) for source.  
-
-
-Whilst Apply Magic Sauce is a great example of innovative technology advancement that pushes the envelope, it should be used with caution to respect privacy and allow for downtime casual chats. Further, not all social media profiles hold true information about a person and humans may also be able to manipulate the system and beat the machine.  
-
-
-The fact that Apply Magic Sauce can only guess one’s traits if the Facebook account is active means it would not affect a person with a Facebook footprint. This limitation implies so long as one remains off the radar by keeping a low profile or uses a different social platform like Twitter, one might survive the personality profiling unscathed.  
-
-
-Humans are imperfect but have the ability to put on a front during their working hours which allows them to perform in the job. This approach can be used on social media too, to create a social media persona, distancing one’s true self from the different opinions broadcast by friends, family and associates. With this in mind, one may be clever and play Apply Magic Sauce at its own game and it would be hard to tell what is reality and what is imagination, like the film Inception. This allows users to keep abreast of social media without getting too deeply involved and emotionally invested.When filling out one’s profile, a pseudo age could be entered. However,do act courteously and avoid being a faceless nuisance in the cyber community.
-
-Question 3 reading notes
-
-## This online tool reveals your personality based on Facebook 'likes'
-
-### University of Cambridge tool estimates key psychological traits, religious and political views, intelligence and happiness using Facebook like data
-
-The test uses just your likes, no other Facebook information Photo: AP
-
-By [James Titcomb](http://preview.telegraph.co.uk/journalists/james-titcomb/)
-
-9:39AM BST 05 Sep 2015
-
-[Follow](https://twitter.com/jamestitcomb)
-
-Facebook has a huge amount of data on you - whose profiles you engage with, how much time you spend on it, and everything you've said in a message. It uses this data to build up a picture of who you are, which it can then us to customise your News Feed and target adverts.
-
-But just one dataset - what you've 'liked' - can reveal a lot about a person on its own. The University of Cambridge's Psychometrics Centre has built a tool that uses your likes, and no other data, to build up a picture of your personality.
-
-The ["Apply Magic Sauce" tool](http://applymagicsauce.com/you.html) uses the [Facebook](https://www.telegraph.co.uk/technology/facebook/) likes to estimate your gender, intelligence, life satisfaction, sexual preference and political and religious preferences, as well as guessing at your education and relationship status.
-
-It also puts you on spectra for the "Big 5" personality traits of openness, conscientiousness, extraversion, agreeableness and neuroticism. These tell you, for example, wheter you are impulsive or organised, conservative or liberal and so on.
-
-You can also follow links to take further personality tests on the University of Cambridge website.
-
-This is a tool from the researchers, rather than Facebook, but it shows the picture of you that the social network can build just based on your activity. In reality, likes are only a fraction of the information Facebook has on you.
-
-For example, Facebook already has your gender details, activity, name, relationship status and so on.
-
-#### To take the test
-
-Visit the [Apply Magic Sauce website here](http://applymagicsauce.com/you.html) and select "Try it Out".
-
-You'll be asked to log in via Facebook. The website says it only collects your profile's LikeIDs, but will not store any of your information once the test is complete.
-
-Once you've logged in to your Facebook account, it shows the results. You can take further tests to narrow your personality down further, and in some cases see how you compare to the average.
-
-[Follow @telegraphtech](https://twitter.com/telegraphtech)
 
 ## Brag Diary Coursework \|  \(Listen, Read, Write\) 
 
 1. Watch this [video by Gargi Sharma](https://yougotthis.io/2020-birmingham-gargi-sharma/) \(26 mins\) where she discusses the importance of ‘bragging’ about yourself and _**celebrating your achievements**_**.** 
-2. After watching, reflect on the presentation in your learning journal
-   1. 
+2. After watching, reflect on the presentation in your learning journal by answering the following questions:
+
+   a. Gargi Shama talks about society as a mertitocracy and the myth of meritocracy.  Think about your working life up to this point. Did you go about your work expecting/ believing that if you work hard you will be rewarded? With a new or better job/ a promotion/ more money/ awards and recognition?
+
+   b. If you belived this, has your expectation been met?   
+
+   c. If yes, what did you do to get your hard work to be recognised?
+
+   d. If no, why wasn't your hard work recognised?
+
+   e. Next, think about now and training to become a developer.  How can you start to make your work visible? 
+
+3. Once you're successful, how do you help others around you be successful?
 
 
 
