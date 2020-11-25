@@ -1,4 +1,8 @@
-# Lesson Plan - F
+---
+description: Communication and confidence building sessions
+---
+
+# FindYourVoice - Empowerment Storytelling Workshops
 
 **1. Why FindYourVoice?**
 
