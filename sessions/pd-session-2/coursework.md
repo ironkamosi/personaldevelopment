@@ -1,14 +1,22 @@
+---
+description: These are the assignments you need to complete after PD Day 2
+---
+
 # Coursework
 
 ## Critical Thinking Coursework \| Social networks \(Do, Read, Write\)
 
 In this assignment we will be considering and comparing Twitter, Facebook and LinkedIn. You do not need an account with any of these social networks in order to complete the coursework. 
 
-1. Complete the following table that compares the different features of the three social networks: 
+#### Part 1
+
+Complete the following table that compares the different features of the three social networks: 
+
+_\(Asking for help\)_
 
 If you are unable to complete a cell in the table you can ask for help in Slack. 
 
-If you know the answer don't just give it. You should discuss how someone can find out the answer themselves. 
+If you know the answer, don't just tell them. You should discuss how someone can find out the answer themselves. 
 
 |  | Twitter | Facebook | LinkedIn |
 | :--- | :--- | :--- | :--- |
@@ -18,7 +26,11 @@ If you know the answer don't just give it. You should discuss how someone can fi
 | Can users choose any name for their account, or are they expected to use their own name? |  |  |  |
 | Are users informed when someone views their account? |  |  |  |
 
-2. List five items of data that social media platforms know, but don't always share with account holders. Please state which social network\(s\) you are referring to for each of the five items. 
+#### Part 2 
+
+List five items of data that social media platforms know, but don't always share with account holders. 
+
+Please state which social network\(s\) you are referring to for each of the five items. 
 
 For example, in Question 1 you should have seen that not all social networks tell users when someone has looked at their account. 
 
@@ -30,7 +42,9 @@ LinkedIn
 
 Twitter
 
-3. Read this article
+#### Part 3
+
+Read this article
 
 This online tool reveals your personality based on Facebook 'likes' 
 
@@ -77,7 +91,9 @@ Based on the information in the article, which of the following statements are t
   </tbody>
 </table>
 
-4. Choose one thing that Apply Magic Sauce can do that you don’t like \(or like the least\). Describe what it is and say why you don’t like it. \(250 words\)   
+#### Part 4
+
+Choose one thing that Apply Magic Sauce can do that you don’t like \(or like the least\). Describe what it is and say why you don’t like it. \(250 words\)   
 
 
 Companies are very interested in such data. Automated language analysis is already being used in the hiring of personnel. Click [here](https://www.scientificamerican.com/article/the-internet-knows-you-better-than-your-spouse-does/) for source.  
