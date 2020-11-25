@@ -32,20 +32,20 @@
   * [Coursework](sessions/pd-session-2/coursework/README.md)
     * [This online tool reveals your personality based on Facebook 'likes'](sessions/pd-session-2/coursework/this-online-tool-reveals-your-personality-based-on-facebook-likes.md)
 
-## Training
+## Training <a id="training-for-volunteers"></a>
 
-* [Personal Development Buddy Role](training/personal-development-buddy-role/README.md)
-  * [Example PD Buddy Schedule](training/personal-development-buddy-role/example-pd-buddy-schedule.md)
-* [PD Buddy Training](training/buddy-training/README.md)
-  * [Buddy Session Plan](training/buddy-training/buddy-session-plan.md)
-  * [Individual Buddy Session](training/buddy-training/individual-buddy-session.md)
-  * [Coursework Review](training/buddy-training/coursework-review.md)
-* [Career Mentor Role](training/career-mentor-role.md)
-* [Career Mentor Training](training/career-mentors/README.md)
-  * [Career Mentoring- Managing Issues](training/career-mentors/career-mentoring-managing-issues.md)
-  * [Career Mentoring - Establishing Rapport](training/career-mentors/career-mentoring-establishing-rapport.md)
-  * [Career Mentoring- Your 1st meeting](training/career-mentors/career-mentoring-goals-setting.md)
-  * [Career Mentoring - Ending the Relationship](training/career-mentors/career-mentoring-ending-the-relationship.md)
+* [Personal Development Buddy Role](training-for-volunteers/personal-development-buddy-role/README.md)
+  * [Example PD Buddy Schedule](training-for-volunteers/personal-development-buddy-role/example-pd-buddy-schedule.md)
+* [PD Buddy Training](training-for-volunteers/buddy-training/README.md)
+  * [Buddy Session Plan](training-for-volunteers/buddy-training/buddy-session-plan.md)
+  * [Individual Buddy Session](training-for-volunteers/buddy-training/individual-buddy-session.md)
+  * [Coursework Review](training-for-volunteers/buddy-training/coursework-review.md)
+* [Career Mentor Role](training-for-volunteers/career-mentor-role.md)
+* [Career Mentor Training](training-for-volunteers/career-mentors/README.md)
+  * [Career Mentoring- Managing Issues](training-for-volunteers/career-mentors/career-mentoring-managing-issues.md)
+  * [Career Mentoring - Establishing Rapport](training-for-volunteers/career-mentors/career-mentoring-establishing-rapport.md)
+  * [Career Mentoring- Your 1st meeting](training-for-volunteers/career-mentors/career-mentoring-goals-setting.md)
+  * [Career Mentoring - Ending the Relationship](training-for-volunteers/career-mentors/career-mentoring-ending-the-relationship.md)
 
 ## Guides for Volunteers
 
