@@ -105,5 +105,5 @@ Participants write a self-reflective journal entry covering:
 
 ## Coursework
 
-See the [coursework page](coursework.md) for your coursework for this week
+See the [coursework page](../coursework.md) for your coursework for this week
 
