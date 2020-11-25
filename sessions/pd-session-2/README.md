@@ -16,7 +16,7 @@ All trainees should have recieved feedback on their Honeycome cell **'Working Wi
 
 ## Session 1 \(30 mins- 1 hour\)
 
-### 4Ls Retrospective: Liked, Learned, Lacked, & Longed For
+### 4Ls Retrospective: Liked, Learned, Lacked, & Longed For - from [https://www.retrium.com/retrospective-techniques/4ls](https://www.retrium.com/retrospective-techniques/4ls)
 
 Revisit Agile Methodologies presented in PD Day 1 - Honeycomb session.   
 Start the day with a [retrospective](https://www.retrium.com/retrospective-techniques/4ls) on the past 4 weeks PD skills development. 
