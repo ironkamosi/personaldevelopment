@@ -1,3 +1,7 @@
+---
+description: adapted from Gargi Sharma and Shukri
+---
+
 # Brag Diary - Reflective Journalling
 
 Throughout your training at CodeYourFuture you will be doing lots of reflective journalling. 
@@ -6,13 +10,11 @@ The Brag diary is one type of journalling you will use to keep track of expreien
 
 ### What is a Brag Diary?
 
-Watch this [video by Gargi Sharma](https://yougotthis.io/2020-birmingham-gargi-sharma/) \(26 mins\) where she discusses the importance of ‘bragging’ about yourself and _**celebrating your achievements**_**.** 
-
-Through regularly reflecting in your Brag Diary, you can track your self-growth and achievements on your journey with Code Your Future.
-
 This document is personal to you and an opportunity for you to _**record your growth**_ and the skills you pick up over the next few months.   Too often we are hard on ourselves and compare ourselves to others. It’s important to remember that everyone has different abilities, which is a good thing! 
 
 You will be building an _**experience map**_ for yourself. You will do this by reflecting on what you have done over the week, talking about what you have achieved, and what you have found difficult. 
+
+Through regularly reflecting in your Brag Diary, you can track your self-growth and achievements on your journey with Code Your Future.
 
 
 
