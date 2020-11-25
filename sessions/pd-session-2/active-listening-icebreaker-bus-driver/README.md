@@ -2,7 +2,7 @@
 description: This can be used as an ice breaker or a listening exercise
 ---
 
-# Session- Active Listening Icebreaker
+# Active Listening Icebreaker
 
 ### **Bus driver exercise**
 
