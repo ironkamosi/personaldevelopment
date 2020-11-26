@@ -58,3 +58,8 @@
 
 * [Reflective Journalling](additional-resources-for-trainees/reflective-journalling.md)
 
+## Getting Job Ready
+
+* [CV Tips and Tricks](getting-job-ready/cv-tips-and-tricks.md)
+* [Interview Tips and Tricks](getting-job-ready/interview-tips-and-tricks.md)
+
