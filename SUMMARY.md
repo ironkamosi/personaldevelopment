@@ -60,6 +60,7 @@
 
 ## Getting Job Ready
 
+* [Personal Branding Tips and Tricks](getting-job-ready/personal-branding-tips-and-tricks.md)
 * [CV Tips and Tricks](getting-job-ready/cv-tips-and-tricks.md)
 * [Interview Tips and Tricks](getting-job-ready/interview-tips-and-tricks.md)
 
