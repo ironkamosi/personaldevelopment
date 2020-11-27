@@ -124,5 +124,7 @@ How can you cange your brain? Is neuroplasticity, the biological foundation for 
 * What have I learnt about myself, as a result?
 * What will I do differently next time?
 
-## Honeycomb feedback
+## Honeycomb feedback \(Do, Read, Write\)
+
+Go onto the Honeycomb platform and complete your self assessment of  cell. 
 
