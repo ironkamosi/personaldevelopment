@@ -108,10 +108,6 @@ Below are three scenarios for you to contemplate:
 2. Are humans unable to think for themselves and do they have to rely on machines to form a non-holistic opinion?
 3. Are civilians expected to be on guard at all times and be careful of what they say and how they comment a post or tweet in a censored cyber world where everything is traceable and nothing is ever really erased?
 
-
-
-
-
 ## Growth Mindset coursework - Learn more about neuroplasticity \(Watch, Hear, See\) 
 
 How can you cange your brain? Is neuroplasticity, the biological foundation for growth mindset?   
