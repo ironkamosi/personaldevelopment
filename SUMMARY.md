@@ -64,3 +64,8 @@
 * [CV Tips and Tricks](getting-job-ready/cv-tips-and-tricks.md)
 * [Interview Tips and Tricks](getting-job-ready/interview-tips-and-tricks.md)
 
+---
+
+* [JS 1- PD Day 3](js-1-pd-day-3/README.md)
+  * [Untitled](js-1-pd-day-3/untitled.md)
+
