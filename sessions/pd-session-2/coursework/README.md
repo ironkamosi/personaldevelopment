@@ -108,7 +108,7 @@ Below are three scenarios for you to contemplate:
 ## Growth Mindset coursework - Learn more about neuroplasticity \(Watch, Hear, See\) 
 
 How can you cange your brain? Is neuroplasticity, the biological foundation for growth mindset?   
-1. Watch this video - [https://youtu.be/ELpfYCZa87g](https://youtu.be/ELpfYCZa87g)  
+1. Watch this Sentis Brain Animation Series video- [https://youtu.be/ELpfYCZa87g](https://youtu.be/ELpfYCZa87g)  
 2. Based on the information in the video reflect on these questions:   
 
 
