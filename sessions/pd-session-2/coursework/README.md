@@ -93,14 +93,11 @@ Based on the information in the article, which of the following statements are t
 
 #### Part 4
 
-Choose one thing that Apply Magic Sauce can do that you don’t like \(or like the least\). Describe what it is and say why you don’t like it. \(250 words\)   
-
-
-Companies are very interested in such data. Automated language analysis is already being used in the hiring of personnel. Click [here](https://www.scientificamerican.com/article/the-internet-knows-you-better-than-your-spouse-does/) for source.  
-
-
+Companies are very interested in the data provided by Apply Magic Sauce. Automated language analysis is already being used in the hiring of personnel. Click [here](https://www.scientificamerican.com/article/the-internet-knows-you-better-than-your-spouse-does/) for source.  
+  
 Apply Magic Sauce is an alternative machine interpretation of one’s personality based on the analysis of how a person writes a sentence in an email or the types of content they like on social media. This is great when it gets the personality traits 99% accurate. But what if it goes horribly wrong and ruins lives?  
-
+  
+Choose one thing that Apply Magic Sauce can do that you don’t like \(or like the least\). Describe what it is and say why you don’t like it. \(250 words\) 
 
 Below are three scenarios for you to contemplate:
 
