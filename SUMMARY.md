@@ -67,7 +67,7 @@
 ---
 
 * [JS 1- PD Day 3](js-1-pd-day-3/README.md)
-  * [Untitled](js-1-pd-day-3/untitled-4.md)
+  * [Honeycomb Session](js-1-pd-day-3/untitled-4.md)
   * [Untitled](js-1-pd-day-3/untitled-3.md)
   * [Untitled](js-1-pd-day-3/untitled-2.md)
   * [Untitled](js-1-pd-day-3/untitled-1.md)
