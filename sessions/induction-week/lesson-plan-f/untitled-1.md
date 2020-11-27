@@ -2,10 +2,6 @@
 
 Objectives: to get to know each other, build trust and sense of community and to develop debate and discussion skills.
 
-{% embed url="https://codeyourfuture.slack.com/files/U01866H0059/F01FTPFF6DS/find\_your\_voice\_session\_3.pdf" %}
-
-
-
 **Session III**
 
 Start the session by asking if someone wants to share how the week has been?

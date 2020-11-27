@@ -112,5 +112,7 @@ Below are three scenarios for you to contemplate:
 
 
 
-##  
+## Growth Mindset coursework - Learn more about neuroplasticity \(Watch, Hear, See\) 
+
+What 
 
