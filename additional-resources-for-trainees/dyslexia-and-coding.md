@@ -36,7 +36,9 @@ Film director Stephen Speilberg
 
 ## How dyslexic brain works:
 
-Dyslexia Awareness Part 1: Module 1 - About Dyslexia [https://youtu.be/DgHDQeZ5QuA](https://youtu.be/DgHDQeZ5QuA)
+Dyslexia Awareness Part 1: Module 1 - About Dyslexia [https://youtu.be/DgHDQeZ5QuA](https://youtu.be/DgHDQeZ5QuA)  
+  
+Dyslexia Awareness Part 1: Module 2 - Dyslexic Strengths [https://youtu.be/d4VRjQnBoWM](https://youtu.be/d4VRjQnBoWM)
 
 Dyslexics are more intelligent - Here is why - Hack Dyslexia - [https://youtu.be/ZyMU4cAMT6c](https://youtu.be/ZyMU4cAMT6c)
 
