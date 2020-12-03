@@ -23,7 +23,7 @@ What about [Ingvar Kamprad](https://youtu.be/y9csIXmtJW0)? Don't know his name? 
   
 Ted Turner the founder of CNN. 
 
-British chef Jamie Oliver and Richard Branson created media empires from very humble beginnings. 
+British chef [Jamie Oliver](https://youtu.be/MMMXtZXLrUA) and Richard Branson created media empires from very humble beginnings. 
 
 Film director Stephen Speilberg  
   
