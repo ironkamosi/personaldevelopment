@@ -56,6 +56,7 @@
 
 ## Additional Resources for Trainees
 
+* [Dyslexia and Coding](additional-resources-for-trainees/dyslexia-and-coding.md)
 * [Reflective Journalling](additional-resources-for-trainees/reflective-journalling.md)
 
 ## Getting Job Ready
