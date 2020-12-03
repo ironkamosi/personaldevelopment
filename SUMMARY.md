@@ -94,3 +94,12 @@
 * [Untitled](js3-pd-day-5/untitled-3.md)
 * [Untitled](js3-pd-day-5/untitled-6.md)
 
+## React - PD Day 6
+
+* [Untitled](react-pd-day-6/untitled.md)
+* [Untitled](react-pd-day-6/untitled-1.md)
+* [Untitled](react-pd-day-6/untitled-5.md)
+* [Untitled](react-pd-day-6/untitled-4.md)
+* [Untitled](react-pd-day-6/untitled-3.md)
+* [Untitled](react-pd-day-6/untitled-2.md)
+
