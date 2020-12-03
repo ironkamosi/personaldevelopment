@@ -1,9 +1,13 @@
 # Table of contents
 
 * [Welcome to Personal Development at CodeYourFuture](README.md)
+* [Who are our trainees?](who-are-our-trainees.md)
 
 ## PD Sessions <a id="sessions"></a>
 
+* [Node/ Databases- PD Day 6](sessions/untitled-6.md)
+* [React - PD Day 5](sessions/react-pd-day-5.md)
+* [JS2 - PD Day 4](sessions/js2-pd-day-4.md)
 * [Induction Week - PD Day 1](sessions/induction-week/README.md)
   * [Learning to Learn Session](sessions/induction-week/learning-to-learn-session/README.md)
     * [Lesson](sessions/induction-week/learning-to-learn-session/lesson.md)
@@ -34,11 +38,7 @@
   * [Coursework](sessions/pd-session-2/coursework/README.md)
     * [Article - This online tool reveals your personality based on Facebook 'likes'](sessions/pd-session-2/coursework/this-online-tool-reveals-your-personality-based-on-facebook-likes.md)
 * [JS 1- PD Day 3](sessions/js-1-pd-day-3/README.md)
-  * [JS2 - PD Day 4](sessions/js-1-pd-day-3/js2-pd-day-4.md)
-  * [React - PD Day 5](sessions/js-1-pd-day-3/react-pd-day-5.md)
-  * [Node/ Databases- PD Day 6](sessions/js-1-pd-day-3/untitled-6.md)
   * [Final Projects - PD Day 7](sessions/js-1-pd-day-3/untitled-5.md)
-  * [Untitled](sessions/js-1-pd-day-3/untitled-43.md)
   * [Untitled](sessions/js-1-pd-day-3/untitled-42.md)
   * [Untitled](sessions/js-1-pd-day-3/untitled-41.md)
   * [Untitled](sessions/js-1-pd-day-3/untitled-40.md)
@@ -72,7 +72,6 @@
   * [Untitled](sessions/js-1-pd-day-3/untitled-12.md)
   * [Untitled](sessions/js-1-pd-day-3/untitled-11.md)
   * [Untitled](sessions/js-1-pd-day-3/untitled-10.md)
-  * [Untitled](sessions/js-1-pd-day-3/untitled-9.md)
   * [Honeycomb Session](sessions/js-1-pd-day-3/untitled-4.md)
   * [Untitled](sessions/js-1-pd-day-3/untitled-3.md)
   * [Untitled](sessions/js-1-pd-day-3/untitled-2.md)
