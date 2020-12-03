@@ -13,7 +13,7 @@ It might be fun now but at some point it may become hard.
 
 You might belive that dyslexia makes coding is difficult and you're not smart enough.   
   
-But the way a dyslexics brain works actually makes you _**better able to code**_! 
+But the way a dyslexics brain works actually makes you better able to code! 
 
 ### Some inspiring innovators with dyslexia:
 
