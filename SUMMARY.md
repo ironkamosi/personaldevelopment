@@ -33,6 +33,12 @@
     * [Untitled](sessions/pd-session-2/brag-diary-reflective-journalling/untitled.md)
   * [Coursework](sessions/pd-session-2/coursework/README.md)
     * [Article - This online tool reveals your personality based on Facebook 'likes'](sessions/pd-session-2/coursework/this-online-tool-reveals-your-personality-based-on-facebook-likes.md)
+* [JS 1- PD Day 3](sessions/js-1-pd-day-3/README.md)
+  * [Honeycomb Session](sessions/js-1-pd-day-3/untitled-4.md)
+  * [Untitled](sessions/js-1-pd-day-3/untitled-3.md)
+  * [Untitled](sessions/js-1-pd-day-3/untitled-2.md)
+  * [Untitled](sessions/js-1-pd-day-3/untitled-1.md)
+  * [Coursework](sessions/js-1-pd-day-3/untitled.md)
 
 ## Training <a id="training-for-volunteers"></a>
 
@@ -65,13 +71,4 @@
 * [Personal Branding Tips and Tricks](getting-job-ready/personal-branding-tips-and-tricks.md)
 * [CV Tips and Tricks](getting-job-ready/cv-tips-and-tricks.md)
 * [Interview Tips and Tricks](getting-job-ready/interview-tips-and-tricks.md)
-
----
-
-* [JS 1- PD Day 3](js-1-pd-day-3/README.md)
-  * [Honeycomb Session](js-1-pd-day-3/untitled-4.md)
-  * [Untitled](js-1-pd-day-3/untitled-3.md)
-  * [Untitled](js-1-pd-day-3/untitled-2.md)
-  * [Untitled](js-1-pd-day-3/untitled-1.md)
-  * [Coursework](js-1-pd-day-3/untitled.md)
 
