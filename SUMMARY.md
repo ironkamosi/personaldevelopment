@@ -44,6 +44,7 @@
 
 ## Training <a id="training-for-volunteers"></a>
 
+* [Dyslexia Awareness Training](training-for-volunteers/dyslexia-awareness-training.md)
 * [Personal Development Buddy Role](training-for-volunteers/personal-development-buddy-role/README.md)
   * [Example PD Buddy Schedule](training-for-volunteers/personal-development-buddy-role/example-pd-buddy-schedule.md)
 * [PD Buddy Training](training-for-volunteers/buddy-training/README.md)
