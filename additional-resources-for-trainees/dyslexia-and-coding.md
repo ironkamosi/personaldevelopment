@@ -23,8 +23,6 @@ What about [Ingvar Kamprad](https://youtu.be/y9csIXmtJW0)? Don't know his name? 
   
 Ted Turner the founder of CNN. 
 
-Two of the greatest scientist of all time: Albert Einstein and Leonardo da Vinci. Einstien famously didn't talk until he was 3 years old!
-
 British chef Jamie Oliver and Richard Branson created media empires from very humble beginnings. 
 
 Film director Stephen Speilberg  
