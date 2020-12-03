@@ -29,9 +29,7 @@ British chef Jamie Oliver and Richard Branson created media empires from very hu
 
 Film director Stephen Speilberg  
   
-  
-  
-  
+[Princess Beatrice](https://youtu.be/JrSV-rLaVCA), Keira Knightly, Woopi Goldberg, Agatha Critistie,    
 
 
 ## How dyslexic brain works:
