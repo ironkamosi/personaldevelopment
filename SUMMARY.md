@@ -39,6 +39,7 @@
 * [Personal Development Buddy Role](training-for-volunteers/personal-development-buddy-role/README.md)
   * [Example PD Buddy Schedule](training-for-volunteers/personal-development-buddy-role/example-pd-buddy-schedule.md)
 * [PD Buddy Training](training-for-volunteers/buddy-training/README.md)
+  * [How to form Buddy Groups](training-for-volunteers/buddy-training/how-to-form-buddy-groups.md)
   * [Buddy Session Plan](training-for-volunteers/buddy-training/buddy-session-plan.md)
   * [Individual Buddy Session](training-for-volunteers/buddy-training/individual-buddy-session.md)
   * [Coursework Review](training-for-volunteers/buddy-training/coursework-review.md)
