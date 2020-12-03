@@ -75,36 +75,3 @@
 * [CV Tips and Tricks](getting-job-ready/cv-tips-and-tricks.md)
 * [Interview Tips and Tricks](getting-job-ready/interview-tips-and-tricks.md)
 
-## JS2 - PD Day 4
-
-* [Untitled](js2-pd-day-4/untitled.md)
-* [Untitled](js2-pd-day-4/untitled-3.md)
-* [Untitled](js2-pd-day-4/untitled-4.md)
-* [Untitled](js2-pd-day-4/untitled-6.md)
-* [Untitled](js2-pd-day-4/untitled-5.md)
-* [Untitled](js2-pd-day-4/untitled-2.md)
-* [Untitled](js2-pd-day-4/untitled-1.md)
-
-## JS3 - PD Day 5
-
-* [Untitled](js3-pd-day-5/untitled-1.md)
-* [Untitled](js3-pd-day-5/untitled.md)
-* [Untitled](js3-pd-day-5/untitled-2.md)
-* [Untitled](js3-pd-day-5/untitled-5.md)
-* [Untitled](js3-pd-day-5/untitled-4.md)
-* [Untitled](js3-pd-day-5/untitled-3.md)
-* [Untitled](js3-pd-day-5/untitled-6.md)
-
-## React - PD Day 6
-
-* [Untitled](react-pd-day-6/untitled.md)
-* [Untitled](react-pd-day-6/untitled-1.md)
-* [Untitled](react-pd-day-6/untitled-5.md)
-* [Untitled](react-pd-day-6/untitled-4.md)
-* [Untitled](react-pd-day-6/untitled-3.md)
-* [Untitled](react-pd-day-6/untitled-2.md)
-
-## Node/ Databases - PD Day 7
-
-* [Untitled](node-databases-pd-day-7/untitled.md)
-
