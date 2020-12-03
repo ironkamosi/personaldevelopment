@@ -11,7 +11,7 @@ it might be fun nut at some point it may become hard. Dyslexia might be making y
   
 But the way a dyslexics brain works actually makes you _**better able to code**_!   
   
-Some inspiring tech innovators with dyslexia  
+Some inspiring tech innovators with dyslexia:  
   
 Remember Steve Jobs?   
   
