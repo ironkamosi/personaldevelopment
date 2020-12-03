@@ -15,14 +15,20 @@ You might belive that dyslexia makes coding is difficult and you're not smart en
   
 But the way a dyslexics brain works actually makes you _**better able to code**_!   
   
-Some inspiring innovators with dyslexia:  
-  
-Remember Steve Jobs?   
-What about this guy? Ingvar Kamprad? Don't know his name? He's the founder of IKEA.   
+
+
+### Some inspiring innovators with dyslexia: 
+
+Remember Steve Jobs, the co-founder of Apple?   
+
+
+What about Ingvar Kamprad? Don't know his name? He's the founder of IKEA.   
   
 Ted Turner the founder of CNN
 
-Two of the greatest scientist of all time: Albert Einstein and Leonardo da Vinci. Einstien famously didn't talk until he was 3 years old!  
+Two of the greatest scientist of all time: Albert Einstein and Leonardo da Vinci. Einstien famously didn't talk until he was 3 years old!
+
+  
   
   
   
