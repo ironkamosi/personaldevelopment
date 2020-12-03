@@ -6,21 +6,18 @@ description: >-
 
 # Dyslexia and Coding
 
-#### Yay! You have started your journey with coding! 
+## Yay! You have started your journey with coding! 
 
   
 It might be fun now but at some point it may become hard. 
 
 You might belive that dyslexia makes coding is difficult and you're not smart enough.   
   
-But the way a dyslexics brain works actually makes you _**better able to code**_!   
-  
+But the way a dyslexics brain works actually makes you _**better able to code**_! 
 
+### Some inspiring innovators with dyslexia:
 
-### Some inspiring innovators with dyslexia: 
-
-Remember Steve Jobs, the co-founder of Apple?   
-
+Remember Steve Jobs, the co-founder of Apple? 
 
 What about Ingvar Kamprad? Don't know his name? He's the founder of IKEA.   
   
