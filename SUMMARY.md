@@ -74,3 +74,13 @@
 * [CV Tips and Tricks](getting-job-ready/cv-tips-and-tricks.md)
 * [Interview Tips and Tricks](getting-job-ready/interview-tips-and-tricks.md)
 
+## JS2 - PD Day 4
+
+* [Untitled](js2-pd-day-4/untitled.md)
+* [Untitled](js2-pd-day-4/untitled-3.md)
+* [Untitled](js2-pd-day-4/untitled-4.md)
+* [Untitled](js2-pd-day-4/untitled-6.md)
+* [Untitled](js2-pd-day-4/untitled-5.md)
+* [Untitled](js2-pd-day-4/untitled-2.md)
+* [Untitled](js2-pd-day-4/untitled-1.md)
+
