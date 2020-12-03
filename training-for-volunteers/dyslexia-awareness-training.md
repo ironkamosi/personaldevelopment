@@ -1,3 +1,10 @@
+---
+description: >-
+  As a teacher, Buddy, or Career mentor you will likely encounter a learner with
+  dyslexia. Here are some resourced to help you learn more about dyslexia and
+  how you can better support our learners.
+---
+
 # Dyslexia Awareness Training
 
 ## Online courses:
