@@ -84,3 +84,7 @@
 * [Untitled](js2-pd-day-4/untitled-2.md)
 * [Untitled](js2-pd-day-4/untitled-1.md)
 
+## JS3 - PD Day 5
+
+* [Untitled](js3-pd-day-5/untitled.md)
+
