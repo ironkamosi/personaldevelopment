@@ -6,9 +6,16 @@ description: >-
 
 # Dyslexia and Coding
 
-Yay! You are coding! And dyslexia might be making you feel like coding is difficult.   
+Yay! You have started your journey with coding!   
+it might be fun nut at some point it may become hard. Dyslexia might be making you feel like coding is difficult.   
   
-But the way a dyslexics brain works actually makes coding easier!   
+But the way a dyslexics brain works actually makes you _**better able to code**_!   
+  
+Some inspiring tech innovators with dyslexia  
+  
+Remember Steve Jobs?   
+  
+  
 
 
 Dyslexics are more intelligent - Here is why - Hack Dyslexia - [https://youtu.be/ZyMU4cAMT6c](https://youtu.be/ZyMU4cAMT6c)
