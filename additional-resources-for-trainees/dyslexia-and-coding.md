@@ -25,7 +25,9 @@ Ted Turner the founder of CNN
 
 Two of the greatest scientist of all time: Albert Einstein and Leonardo da Vinci. Einstien famously didn't talk until he was 3 years old!
 
-  
+British chef Jamie Oliver and Richard Branson created media empires from very humble beginnings. 
+
+Film director Stephen Speilberg  
   
   
   
@@ -33,6 +35,8 @@ Two of the greatest scientist of all time: Albert Einstein and Leonardo da Vinci
 
 
 ## How dyslexic brain works:
+
+Dyslexia Awareness Part 1: Module 1 - About Dyslexia [https://youtu.be/DgHDQeZ5QuA](https://youtu.be/DgHDQeZ5QuA)
 
 Dyslexics are more intelligent - Here is why - Hack Dyslexia - [https://youtu.be/ZyMU4cAMT6c](https://youtu.be/ZyMU4cAMT6c)
 
