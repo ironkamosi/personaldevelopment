@@ -17,7 +17,7 @@ But the way a dyslexics brain works actually makes you _**better able to code**_
 
 ### Some inspiring innovators with dyslexia:
 
-Remember Steve Jobs, the co-founder of Apple? 
+Remember [Steve Jobs](https://www.theguardian.com/commentisfree/2013/jun/24/dyslexia-not-a-disability-gift), the co-founder of Apple? 
 
 What about Ingvar Kamprad? Don't know his name? He's the founder of IKEA.   
   
