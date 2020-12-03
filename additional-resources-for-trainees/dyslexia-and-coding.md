@@ -6,8 +6,12 @@ description: >-
 
 # Dyslexia and Coding
 
-Yay! You have started your journey with coding!   
-it might be fun nut at some point it may become hard. Dyslexia might be making you feel like coding is difficult.   
+#### Yay! You have started your journey with coding! 
+
+  
+It might be fun now but at some point it may become hard. 
+
+You might belive that dyslexia makes coding is difficult and you're not smart enough.   
   
 But the way a dyslexics brain works actually makes you _**better able to code**_!   
   
