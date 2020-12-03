@@ -86,5 +86,11 @@
 
 ## JS3 - PD Day 5
 
+* [Untitled](js3-pd-day-5/untitled-1.md)
 * [Untitled](js3-pd-day-5/untitled.md)
+* [Untitled](js3-pd-day-5/untitled-2.md)
+* [Untitled](js3-pd-day-5/untitled-5.md)
+* [Untitled](js3-pd-day-5/untitled-4.md)
+* [Untitled](js3-pd-day-5/untitled-3.md)
+* [Untitled](js3-pd-day-5/untitled-6.md)
 
