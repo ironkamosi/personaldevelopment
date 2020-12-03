@@ -19,9 +19,9 @@ But the way a dyslexics brain works actually makes you better able to code!
 
 Remember [Steve Jobs](https://www.theguardian.com/commentisfree/2013/jun/24/dyslexia-not-a-disability-gift), the co-founder of Apple? 
 
-What about Ingvar Kamprad? Don't know his name? He's the founder of IKEA.   
+What about [Ingvar Kamprad](https://youtu.be/y9csIXmtJW0)? Don't know his name? He's the founder of IKEA.   
   
-Ted Turner the founder of CNN
+Ted Turner the founder of CNN. 
 
 Two of the greatest scientist of all time: Albert Einstein and Leonardo da Vinci. Einstien famously didn't talk until he was 3 years old!
 
