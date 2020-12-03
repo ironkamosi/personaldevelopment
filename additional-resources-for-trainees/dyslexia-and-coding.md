@@ -45,7 +45,7 @@ Dyslexics better engineers, here is why - Hack Dyslexia - The Power Of Material 
 
 [https://datacarpentry.org/blog/2017/09/coding-and-dyslexia](https://datacarpentry.org/blog/2017/09/coding-and-dyslexia)
 
-  
+[https://www.bcs.org/content-hub/why-dyslexics-make-good-coders/](https://www.bcs.org/content-hub/why-dyslexics-make-good-coders/)  
   
 [https://softwareengineering.stackexchange.com/questions/9657/programming-with-dyslexia](https://softwareengineering.stackexchange.com/questions/9657/programming-with-dyslexia)
 
