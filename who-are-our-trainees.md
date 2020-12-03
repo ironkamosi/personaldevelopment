@@ -6,3 +6,31 @@ description: >-
 
 # Who are our trainees?
 
+Asylum Seekers 
+
+
+
+Refugees
+
+
+
+Long term unemployed 
+
+
+
+Learning Difficulties/ Differences
+
+
+
+Parents
+
+
+
+Insecure housing
+
+
+
+
+
+
+
