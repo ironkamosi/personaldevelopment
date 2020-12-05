@@ -21,11 +21,13 @@ Remember [Steve Jobs](https://www.theguardian.com/commentisfree/2013/jun/24/dysl
 
 What about [Ingvar Kamprad](https://youtu.be/y9csIXmtJW0)? Don't know his name? He's the founder of IKEA.   
   
-Ted Turner the founder of CNN. 
+Ted Turner the founder of CNN
 
-British chef [Jamie Oliver](https://youtu.be/MMMXtZXLrUA) and Richard Branson created media empires from very humble beginnings. 
+British chef [Jamie Oliver](https://youtu.be/MMMXtZXLrUA) 
 
-Film director Stephen Speilberg  
+Virgin group founder and Made By Dislexia co-founder [Richard Branson](https://www.virgin.com/branson-family/richard-branson-blog/dyslexia-and-imagination) 
+
+Film director [Stephen Speilberg](https://youtu.be/4N6RKHOHMJQ)  
   
 [Princess Beatrice](https://youtu.be/JrSV-rLaVCA), Keira Knightly, Woopi Goldberg, Agatha Critistie,    
 
