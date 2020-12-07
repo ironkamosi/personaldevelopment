@@ -16,7 +16,7 @@ HTML/CSS-
 
 HTML/CSS-
 
-### Week 5- PD Day 2 Assignments linked here
+### Week 5- PD Day 2 Assignments linked [here](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-2/coursework)
 
 JS1- 
 
