@@ -5,6 +5,7 @@
 
 ## PD Sessions <a id="sessions"></a>
 
+* [Untitled](sessions/untitled.md)
 * [Induction Week - PD Day 1](sessions/induction-week/README.md)
   * [Learning to Learn Session](sessions/induction-week/learning-to-learn-session/README.md)
     * [Lesson](sessions/induction-week/learning-to-learn-session/lesson.md)
@@ -82,6 +83,7 @@
 * [React - PD Day 5](sessions/react-pd-day-5/README.md)
   * [Untitled](sessions/react-pd-day-5/untitled.md)
 * [Node/ Databases- PD Day 6](sessions/untitled-6.md)
+* [Final Projects 1- PD Day 7](sessions/final-projects-1-pd-day-7.md)
 
 ## Training <a id="training-for-volunteers"></a>
 
