@@ -1,2 +1,2 @@
-# Node/ Databases- PD Day 6
+# Node- PD Day 6
 

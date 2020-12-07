@@ -81,9 +81,10 @@
   * [Untitled](sessions/js2-pd-day-4/untitled.md)
 * [React - PD Day 5](sessions/react-pd-day-5/README.md)
   * [Untitled](sessions/react-pd-day-5/untitled.md)
-* [Node/ Databases- PD Day 6](sessions/untitled-6.md)
-* [Final Projects 1- PD Day 7](sessions/final-projects-1-pd-day-7.md)
-* [Final Projects 2 - PD Day 8](sessions/final-projects-2-pd-day-8.md)
+* [Node- PD Day 6](sessions/untitled-6.md)
+* [Databases- PD Day 7](sessions/databases-pd-day-7.md)
+* [Final Projects 1- PD Day 8](sessions/final-projects-1-pd-day-7.md)
+* [Final Projects 2 - PD Day 9](sessions/final-projects-2-pd-day-8.md)
 * [PD Coursework Assignments](sessions/pd-coursework-assignments.md)
 
 ## Training <a id="training-for-volunteers"></a>
