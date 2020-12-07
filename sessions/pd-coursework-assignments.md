@@ -6,7 +6,7 @@ description: >-
 
 # PD Coursework Assignments
 
-### Week 0- Assignment linked here 
+### Week 0- PD Day 1 Assignment linked here 
 
 Week 1- 
 
@@ -16,7 +16,7 @@ Week 3-
 
 Week 4-
 
-### Week 5- Assignment linked here
+### Week 5- PD Day 2 Assignment linked here
 
 Week 6- 
 
@@ -24,7 +24,7 @@ Week 7-
 
 Week 8-
 
-### Week 9- Assignment linked here
+### Week 9- PD Day 3 Assignment linked here
 
 Week 10-
 
@@ -32,13 +32,13 @@ Week 11-
 
 Week 12-
 
-Week 13-
+Week 13- PD Day 4 Assignment linked here
 
 Week 14-
 
 Week 15-
 
-Week 16-
+Week 16-PD Day 5 Assignment linked here
 
 Week 17- 
 
@@ -48,7 +48,7 @@ Week 19-
 
 Week 20-
 
-Week 21- 
+Week 21- PD Day 6 Assignment linked here
 
 Week 22- 
 
