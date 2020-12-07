@@ -32,7 +32,7 @@ JS2-
 
 JS2-
 
-Week 13- PD Day 4 Assignment linked here
+### Week 13- PD Day 4 Assignment linked here
 
 Js3-
 
@@ -40,7 +40,7 @@ Js3-
 
 Js3
 
-Week 17- PD Day 5 Assignment linked here
+### Week 17- PD Day 5 Assignment linked here
 
 React- 
 
@@ -50,7 +50,7 @@ React-
 
 React-
 
-Week 22- PD Day 6 Assignment linked here
+### Week 22- PD Day 6 Assignment linked here
 
 Node- 
 
@@ -58,7 +58,7 @@ Node-
 
 Node- 
 
-Week 26-PD Day 7 Assignment linked here
+### Week 26-PD Day 7 Assignment linked here
 
 DB- 
 
@@ -66,7 +66,7 @@ DB-
 
 DB- 
 
-Week 30-PD Day 8 Assignment linked here
+### Week 30-PD Day 8 Assignment linked here
 
 Final Project
 
@@ -76,7 +76,7 @@ Final Project
 
 Final Project
 
-Week 35 - PD Day 9 Assignment linked here
+### Week 35 - PD Day 9 Assignment linked here
 
 
 
