@@ -6,7 +6,7 @@ description: >-
 
 # PD Coursework Assignments
 
-### Week 0- PD Day 1 Assignments linked here 
+### Week 0- PD Day 1 Assignments linked [here](https://personaldevelopment.codeyourfuture.io/sessions/induction-week/coursework) 
 
 Git/ Github Week- 
 
