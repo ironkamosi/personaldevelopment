@@ -8,65 +8,77 @@ description: >-
 
 ### Week 0- PD Day 1 Assignments linked here 
 
-Week 1- 
+Git/ Github Week- 
 
-Week 2-
+HTML/CSS -
 
-Week 3-
+HTML/CSS-
 
-Week 4-
+HTML/CSS-
 
 ### Week 5- PD Day 2 Assignments linked here
 
-Week 6- 
+JS1- 
 
-Week 7-
+JS1-
 
-Week 8-
+JS1-
 
 ### Week 9- PD Day 3 Assignments linked here
 
-Week 10-
+JS2-
 
-Week 11-
+JS2-
 
-Week 12-
+JS2-
 
 Week 13- PD Day 4 Assignment linked here
 
-Week 14-
+Js3-
 
-Week 15-
+Js3-
 
-Week 16-PD Day 5 Assignment linked here
+Js3
 
-Week 17- 
+Week 17- PD Day 5 Assignment linked here
 
-Week 18-
+React- 
 
-Week 19-
+React-
 
-Week 20-
+React-
 
-Week 21- PD Day 6 Assignment linked here
+React-
 
-Week 22- 
+Week 22- PD Day 6 Assignment linked here
 
-Week 23- 
+Node- 
 
-Week 24- 
+Node- 
 
-Week 25- 
+Node- 
 
-Week 26-
+Week 26-PD Day 7 Assignment linked here
 
-Week 27- 
+DB- 
 
-Week 28-
+DB-
 
-Week 29- 
+DB- 
 
-Week 30-
+Week 30-PD Day 8 Assignment linked here
+
+Final Project
+
+Final Project
+
+Final Project
+
+Final Project
+
+Week 35 - PD Day 9 Assignment linked here
+
+
 
 
 
