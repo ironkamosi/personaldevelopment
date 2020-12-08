@@ -59,24 +59,19 @@ This week you are going to start thinking more about your employability skills. 
 
 You should share your lists with your PD and Edu buddies when you next meet with them.
 
-JS1-
+#### JS1
 
-What skills for the job? \(Do, read, write\)
-
-
+**What skills for the job? \(Do, read, write\)**
 
 Now you have started exploring the technical and personal skills needed for different jobs.
 
 1. Write down in your Learning Journal/ Diary what you think are the hard \(technical\) and soft \(personal\) skills needed for these jobs?
 
-Teacher  
-Designer 
-
-Software 
-
-Developer 
-
-Doctor
+* Teacher
+* Designer 
+* Software 
+* Developer 
+* Doctor
 
 1. Are there any common skills required for these jobs? 
 2. Add your list to your work area on Google Classroom. 
