@@ -83,6 +83,7 @@
 
 * [Dyslexia and Coding](additional-resources-for-trainees/dyslexia-and-coding/README.md)
   * [Changing Your Learning Environment](additional-resources-for-trainees/dyslexia-and-coding/learning-with-dyslexia.md)
+  * [Dyslexia videos](additional-resources-for-trainees/dyslexia-and-coding/dyslexia-videos.md)
 * [Reflective Journalling](additional-resources-for-trainees/reflective-journalling.md)
 
 ## Getting Job Ready
