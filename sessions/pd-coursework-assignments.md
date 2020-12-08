@@ -73,9 +73,11 @@ Now you have started exploring the technical and personal skills needed for diff
 * Developer 
 * Doctor
 
-1. Are there any common skills required for these jobs? 
-2. Add your list to your work area on Google Classroom. 
-3. Mark as done. 
+2. Are there any common skills required for these jobs? 
+
+3. Add your list to your work area on Google Classroom. 
+
+4. Mark as done. 
 
 JS1-
 
