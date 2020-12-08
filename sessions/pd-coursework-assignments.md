@@ -64,7 +64,60 @@ You should share your lists with your PD and Edu buddies when you next meet with
 
 JS1-
 
+What skills for the job? \(Do, read, write\)
+
+
+
+Now you have started exploring the technical and personal skills needed for different jobs.
+
+1. Write down in your Learning Journal/ Diary what you think are the hard \(technical\) and soft \(personal\) skills needed for these jobs?
+
+Teacher  
+Designer 
+
+Software 
+
+Developer 
+
+Doctor
+
+1. Are there any common skills required for these jobs? 
+2. Add your list to your work area on Google Classroom. 
+3. Mark as done. 
+
 JS1-
+
+Are Soft Skills Useful in Tech? \(Do, read, write\)
+
+
+
+We have shared with you several times over the past months that soft skills are important for tech careers. You may think that is just an opinion. So find out for yourself if you need good soft skills to get a better career in tech.
+
+1. Do some research on whether soft skills are necessary to develop a career as a developer or other role in tech. 
+2. You need at least 3 sources. 
+3. Make sure you are getting your information from reliable sources. 
+4. After you have done your research, write a reflection in your Learning Journal/Dairy about what you have learned. 
+5. Post one of your reflective summaries in your work area
+6. Mark as done
+
+Use this structure:
+
+a. Write a short summary of the ideas presented for each of your 3 chosen articles/posts/videos 
+
+* Present the issue
+* Name the author/ source
+* Main points they made
+
+b. Analyse the arguments - do you agree or disagree? Why?
+
+* what are the strong points? 
+* what are the weak points? 
+
+c. Give your personal reflection on each source 
+
+* what are your thoughts about the issue? 
+* why does this matter? why is it important? 
+* what did you learn?
 
 ### Week 9- PD Day 3 Assignments linked here
 
