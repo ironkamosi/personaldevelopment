@@ -10,7 +10,7 @@ description: >-
 
 #### Git/ Github Week
 
-Honeycomb 1 - Working With My Team
+**Honeycomb 1 - Working With My Team Feedback**
 
 Every week you will be requesting feedback from 3 people to help you get more insight into how you are progressing. Read carefully who you need to request feedback from each week as the people will change.
 
@@ -24,6 +24,8 @@ Every week you will be requesting feedback from 3 people to help you get more in
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
 #### HTML/CSS 
+
+**Honeycomb 2- Working With My Team Feedback**
 
 Every week you will be requesting feedback from 3 people to help you get more insight into how you are progressing. Read carefully who you need to request feedback from each week as the people will change.
 
@@ -42,7 +44,23 @@ HTML/CSS-
 
 ### Week 5- PD Day 2 Assignments linked [here](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-2/coursework)
 
-JS1- 
+#### JS1
+
+**Employability skills check - \(Watch, Hear, Read\)**
+
+This week you are going to start thinking more about your employability skills. Why do we have PD Day's and coursework?
+
+1.Watch this video - [https://youtu.be/\_bZi-34IFxs](https://youtu.be/_bZi-34IFxs) 
+
+2. Reflect in your Learning Journal/Diary Based on the video, what are the hard skills/ soft skills you have already developed? Write a list 
+
+3. What are the ones you think you need to develop more over the next 6-9 months? Write a list 
+
+4. What hard/soft skills are you currently working on developing? 
+
+5. \(Optional\) You can add your lists to your work area. 6. Mark as done
+
+You should share your lists with your PD and Edu buddies when you next meet with them.
 
 JS1-
 
