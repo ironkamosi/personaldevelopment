@@ -50,15 +50,12 @@ HTML/CSS-
 
 This week you are going to start thinking more about your employability skills. Why do we have PD Day's and coursework?
 
-1.Watch this video - [https://youtu.be/\_bZi-34IFxs](https://youtu.be/_bZi-34IFxs) 
-
+1. Watch this video - [https://youtu.be/\_bZi-34IFxs](https://youtu.be/_bZi-34IFxs) 
 2. Reflect in your Learning Journal/Diary Based on the video, what are the hard skills/ soft skills you have already developed? Write a list 
-
 3. What are the ones you think you need to develop more over the next 6-9 months? Write a list 
-
 4. What hard/soft skills are you currently working on developing? 
-
-5. \(Optional\) You can add your lists to your work area. 6. Mark as done
+5. \(Optional\) You can add your lists to your work area. 
+6. Mark as done
 
 You should share your lists with your PD and Edu buddies when you next meet with them.
 
