@@ -25,6 +25,17 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 #### HTML/CSS 
 
+Every week you will be requesting feedback from 3 people to help you get more insight into how you are progressing. Read carefully who you need to request feedback from each week as the people will change.
+
+1. Log into the Honeycomb platform
+2. Complete the request for feedback on the 'Working with my team' cell. Invite 3 reviewers this week
+
+   a. Invite 1 person from the class you have worked with this week \(not someone you have already asked for feedback\)
+
+   b. Invite 2 volunteers you worked with this week \(make sure you ask different people than last week\)
+
+3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
+
 HTML/CSS-
 
 HTML/CSS-
