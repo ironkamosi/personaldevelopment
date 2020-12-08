@@ -1,18 +1,20 @@
-# Learning with Dyslexia
+# Changing Your Learning Environment
 
-## Changing your learning environment 
-
-Use coloured overlays when reading black text on a white background 
+#### Use coloured overlays when reading black text on a white background 
 
 Google chrome overlay plugin: [https://chrome.google.com/webstore/detail/noverlay/clhfmmanmdkmblpljegdibilonemohdo?hl=en-GB](https://chrome.google.com/webstore/detail/noverlay/clhfmmanmdkmblpljegdibilonemohdo?hl=en-GB)
 
-Use a dyslexic specific font: [https://www.dyslexia-reading-well.com/dyslexia-font.html](https://www.dyslexia-reading-well.com/dyslexia-font.html)
+#### Use a dyslexic specific font: 
+
+[https://www.dyslexia-reading-well.com/dyslexia-font.html](https://www.dyslexia-reading-well.com/dyslexia-font.html)
 
 [https://www.dyslexiefont.com/en/typeface/](https://www.dyslexiefont.com/en/typeface/)
 
-Best font for dyslexia: [https://www.readandspell.com/us/best-font-for-dyslexia](https://www.readandspell.com/us/best-font-for-dyslexia)
+[https://www.readandspell.com/us/best-font-for-dyslexia](https://www.readandspell.com/us/best-font-for-dyslexia)
 
-Dyslexia style guide: [https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide](https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide)\*\*\*\*
+#### Dyslexia style guide: 
+
+[https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide](https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide)\*\*\*\*
 
 **Adjust your word-processors:**   Go to the setting in whatever word processor you use and adjust the settings that make reading easier for you. You can change the font, font size, spacing between letters. 
 
