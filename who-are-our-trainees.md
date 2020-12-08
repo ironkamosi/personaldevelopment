@@ -6,6 +6,8 @@ description: >-
 
 # Who are our trainees?
 
+Remember that these labels do not reflect the full identities of our learners! 
+
 Asylum Seekers 
 
 
