@@ -1,11 +1,13 @@
 ---
 description: >-
   As a teacher, Buddy, or Career mentor you will likely encounter a learner with
-  dyslexia. Here are some resourced to help you learn more about dyslexia and
+  dyslexia. Here are some resources to help you learn more about dyslexia and
   how you can better support our learners.
 ---
 
 # Dyslexia Awareness Training
+
+## Reasonable adjustments when teaching and mentoring
 
 In the UK Dyslexia is classified as a disability under the Equality Act 2010. We have a duty to provide reasonable adjustments for our disabled learners. So they can participate fully in their education and our community.
 
