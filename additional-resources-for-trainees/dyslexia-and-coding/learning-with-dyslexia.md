@@ -4,9 +4,11 @@
 
 Use coloured overlays when reading black text on a white background 
 
-Google chrome plugin: [https://chrome.google.com/webstore/detail/noverlay/clhfmmanmdkmblpljegdibilonemohdo?hl=en-GB](https://chrome.google.com/webstore/detail/noverlay/clhfmmanmdkmblpljegdibilonemohdo?hl=en-GB)
+Google chrome overlay plugin: [https://chrome.google.com/webstore/detail/noverlay/clhfmmanmdkmblpljegdibilonemohdo?hl=en-GB](https://chrome.google.com/webstore/detail/noverlay/clhfmmanmdkmblpljegdibilonemohdo?hl=en-GB)
 
 Use a dyslexic specific font: [https://www.dyslexia-reading-well.com/dyslexia-font.html](https://www.dyslexia-reading-well.com/dyslexia-font.html)
+
+[https://www.dyslexiefont.com/en/typeface/](https://www.dyslexiefont.com/en/typeface/)
 
 Best font for dyslexia: [https://www.readandspell.com/us/best-font-for-dyslexia](https://www.readandspell.com/us/best-font-for-dyslexia)
 
