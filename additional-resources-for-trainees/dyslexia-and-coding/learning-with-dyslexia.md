@@ -8,6 +8,8 @@ Google chrome plugin: [https://chrome.google.com/webstore/detail/noverlay/clhfmm
 
 Use a dyslexic specific font: [https://www.dyslexia-reading-well.com/dyslexia-font.html](https://www.dyslexia-reading-well.com/dyslexia-font.html)
 
+Best font for dyslexia: [https://www.readandspell.com/us/best-font-for-dyslexia](https://www.readandspell.com/us/best-font-for-dyslexia)
+
 Dyslexia style guide: [https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide](https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide)\*\*\*\*
 
 **Adjust your word-processors:**   Go to the setting in whatever word processor you use and adjust the settings that make reading easier for you. You can change the font, font size, spacing between letters. 
