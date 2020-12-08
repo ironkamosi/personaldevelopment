@@ -7,6 +7,10 @@ description: >-
 
 # Dyslexia Awareness Training
 
+In the UK Dyslexia is classified as a disability under the Equality Act 2010. We have a duty to provide reasonable adjustments for our disabled learners. So they can participate fully in their education and our community.
+
+[https://www.bdadyslexia.org.uk/advice/educators/what-do-i-need-to-know/reasonable-adjustments](https://www.bdadyslexia.org.uk/advice/educators/what-do-i-need-to-know/reasonable-adjustments)
+
 ## Online courses:
 
 ### Dyslexia Awareness Part 1, Microsoft and Made By Dyslexia
