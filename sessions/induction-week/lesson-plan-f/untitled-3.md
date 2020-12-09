@@ -4,17 +4,23 @@ Objectives: to get to know each other, build trust and sense of community and to
 
 **Session I**
 
-Introduce the programme objectives and invite participants to relax, be themselves and have fun. Make sure you say: this is a non-judgmental space, there is no right or wrong, it’s a space to take risks and have fun.
+Introduce the programme objectives and invite participants to relax, be themselves and have fun. 
+
+Make sure you say: this is a non-judgmental space, there is no right or wrong, it’s a space to take risks and have fun.
+
+Be mindful that some people will talk a lot and some people won't say anything. You can help this by making it time bound - In 30 describe how you're feeling now. 
+
+
 
 Warm up:
 
-Facilitator invite and lead participants to take a deep breath, stretch body: head, neck, shoulders, arms, hands, waist, hips, jaw, tongue and lips.
+Facilitator invites and lead participants to take a deep breath, stretch body: head, neck, shoulders, arms, hands, waist, hips, jaw, tongue and lips.
 
 * pay attention on breathing, feel free to make sounds, laugh and yawn –
 
   Reflection: how did you feel before we started and now afterward? Have 2 – 3 participants comment.
 
-Name game:
+Name Game:
 
 Participants are invited to share their names and an interesting face about themselves.  e.g. I am Carolina and I run everyday.
 
