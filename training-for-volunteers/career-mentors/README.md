@@ -2,7 +2,7 @@
 
 ## Projected Time
 
-This training will take roughly 150 minutes to complete.
+This training will take roughly 1 hour and 30 mins to complete.
 
 ## Prior Knowledge
 
