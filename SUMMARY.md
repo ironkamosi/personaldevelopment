@@ -25,6 +25,7 @@
     * [Active Listening Practice 1](sessions/pd-session-2/lesson-plan-active-listening/active-listening-practice.md)
     * [Active Listening Practice 2](sessions/pd-session-2/lesson-plan-active-listening/active-listening-practice-2.md)
   * [FindYourVoice - Empowerment Storytelling Workshops](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/README.md)
+    * [How to facilitate sessions](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/how-to-facilitate-sessions.md)
     * [FindYourVoice - Empowerment Storytelling Workshop 1](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/findyourvoice-empowerment-storytelling-workshop-1.md)
     * [FindYourVoice Empowerment Storytelling Workshop 2](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/findyourvoice-empowerment-storytelling-workshop-2.md)
     * [FindYourVoice Empowerment Storytelling Workshop 3](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/untitled.md)
