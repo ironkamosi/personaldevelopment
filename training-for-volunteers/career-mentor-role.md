@@ -10,7 +10,7 @@ description: >-
 **How long is my commitment?**
 
 * Last for 6 months
-* Start at beginning of Node/ DB modules and continue for 3 months after graduation 
+* Start at beginning of Node/ Database modules and continue for 3 months after Demo Day/graduation 
 
 **Who will I be supporting?**
 
@@ -19,8 +19,8 @@ description: >-
 **What do I need to do with my mentee?**
 
 * Support one student with help on their career journey 
-* Help with goal setting, identifying the personal and technical skills needed for junior dev roles. 
-* No support with technical homework or questions. 
+* Help with goal setting, identifying the personal and technical skills needed for junior dev roles
+* No support with technical homework or questions 
 
 **How frequently do I need to meet with my mentee?**
 
