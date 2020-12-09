@@ -64,9 +64,9 @@ Having said that, decoloniality focuses on untangling the production of knowledg
 
 **4. Implementation** 
 
-Having defined the framework that will serve as a support and guide the work we are going to be doing with CYF students, I am now going to describe how the above will be implemented.
+Having defined the framework that will serve as a support and guide the work we are going to be doing with CYF students,  here is how the above will be implemented.
 
-The idea is that this programme functions under the Personal Development’s umbrella and works in addition to the curriculum and in alignment with CYF ethos and mission.
+The idea is that this programme functions under the Personal Development umbrella and works in addition to the curriculum and in alignment with CYF ethos and mission.
 
 Programme is divided in four modules following CYF academic year:
 
