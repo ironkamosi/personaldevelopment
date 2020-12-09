@@ -35,5 +35,5 @@ Options: change the speed \(as if it was on the moon –gravity - or late to wor
 
 Rename to a message to themselves when course finishes E.g. Be positive, You can do it, etc.
 
-\(Invite participants to have a look on people’s messages\)
+\(Invite participants to have a look at people’s messages\)
 
