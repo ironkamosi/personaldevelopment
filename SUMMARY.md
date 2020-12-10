@@ -10,7 +10,7 @@
     * [Lesson](sessions/induction-week/learning-to-learn-session/lesson.md)
     * [Instructor Notes](sessions/induction-week/learning-to-learn-session/instructor-notes.md)
   * [FindYourVoice - Empowerment Storytelling Workshops](sessions/induction-week/lesson-plan-f/README.md)
-    * [How to facilitate sessions](sessions/induction-week/lesson-plan-f/how-to-facilitate-sessions.md)
+    * [How to facilitate FYV sessions](sessions/induction-week/lesson-plan-f/how-to-facilitate-sessions.md)
     * [FindYourVoice - Empowerment Storytelling Workshop 1](sessions/induction-week/lesson-plan-f/untitled-3.md)
     * [FindYourVoice Empowerment Storytelling Workshop 2](sessions/induction-week/lesson-plan-f/untitled-2.md)
     * [FindYourVoice Empowerment Storytelling Workshop 3](sessions/induction-week/lesson-plan-f/untitled-1.md)
