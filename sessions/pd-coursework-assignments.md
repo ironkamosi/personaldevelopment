@@ -23,7 +23,7 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
-#### HTML/CSS 
+#### HTML/CSS Week 1
 
 **Honeycomb 2- Working With My Team Feedback**
 
@@ -38,7 +38,7 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
-HTML/CSS-
+#### HTML/CSS Week 2
 
 **Honeycomb 3- Working With My Team Feedback**
 
@@ -53,11 +53,18 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
-HTML/CSS-
+#### HTML/CSS Week 3
+
+#### Meet with your Buddy group \(1 hour\)
+
+1. Meet with your buddy group members and your PD Buddy Mentor \(if possible\). Discuss the Honeycomb assignments and how you have found the feedback.
+2. Share any your weekly schedules/timetables. Discuss how you are finding the time management with the classes and homework during the week.
+3. Give each other advice and tips on how to work effectively during the week and over the holiday break.
+4. After you have had your meeting come back here and mark done.
 
 ### Week 5- PD Day 2 Assignments linked [here](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-2/coursework)
 
-#### JS1
+#### JS1 Week 1
 
 **Employability skills check - \(Watch, Hear, Read\)**
 
@@ -72,7 +79,7 @@ This week you are going to start thinking more about your employability skills. 
 
 You should share your lists with your PD and Edu buddies when you next meet with them.
 
-#### JS1
+#### JS1 Week 2
 
 **What skills for the job? \(Do, read, write\)**
 
@@ -92,11 +99,9 @@ Now you have started exploring the technical and personal skills needed for diff
 
 4. Mark as done. 
 
-JS1-
+#### JS1 week 3
 
-Are Soft Skills Useful in Tech? \(Do, read, write\)
-
-
+#### Are Soft Skills Useful in Tech? \(Do, read, write\)
 
 We have shared with you several times over the past months that soft skills are important for tech careers. You may think that is just an opinion. So find out for yourself if you need good soft skills to get a better career in tech.
 
@@ -128,11 +133,11 @@ c. Give your personal reflection on each source
 
 ### Week 9- PD Day 3 Assignments linked here
 
-JS2-
+JS2 Week 1
 
-JS2-
+JS2 Week 2
 
-JS2-
+JS2 Week 3
 
 ### Week 13- PD Day 4 Assignment linked here
 
@@ -144,39 +149,39 @@ Js3
 
 ### Week 17- PD Day 5 Assignment linked here
 
-React- 
+React Week 1
 
-React-
+React Week 2
 
-React-
+React Week 3
 
-React-
+React Week 4
 
 ### Week 22- PD Day 6 Assignment linked here
 
-Node- 
+Node Week 1
 
-Node- 
+Node Week 2
 
-Node- 
+Node Week 3
 
 ### Week 26-PD Day 7 Assignment linked here
 
-DB- 
+DB Week 1
 
-DB-
+DB Week 2
 
-DB- 
+DB Week 3
 
 ### Week 30-PD Day 8 Assignment linked here
 
-Final Project
+Final Project Week 1
 
-Final Project
+Final Project Week 2
 
-Final Project
+Final Project Week 3
 
-Final Project
+Final Project Week 4
 
 ### Week 35 - PD Day 9 Assignment linked here
 

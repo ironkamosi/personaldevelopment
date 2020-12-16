@@ -61,7 +61,6 @@
 
 ## Training <a id="training-for-volunteers"></a>
 
-* [Dyslexia Awareness Training](training-for-volunteers/dyslexia-awareness-training.md)
 * [Personal Development Buddy Role](training-for-volunteers/personal-development-buddy-role/README.md)
   * [Example PD Buddy Schedule](training-for-volunteers/personal-development-buddy-role/example-pd-buddy-schedule.md)
 * [PD Buddy Training](training-for-volunteers/buddy-training/README.md)
@@ -69,6 +68,7 @@
   * [Buddy Session Plan](training-for-volunteers/buddy-training/buddy-session-plan.md)
   * [Individual Buddy Session](training-for-volunteers/buddy-training/individual-buddy-session.md)
   * [Coursework Review](training-for-volunteers/buddy-training/coursework-review.md)
+* [Dyslexia Awareness Training](training-for-volunteers/dyslexia-awareness-training.md)
 * [Career Mentor Role](training-for-volunteers/career-mentor-role.md)
 * [Career Mentor Training](training-for-volunteers/career-mentors/README.md)
   * [Career Mentoring- Managing Issues](training-for-volunteers/career-mentors/career-mentoring-managing-issues.md)
