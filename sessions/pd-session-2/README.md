@@ -78,10 +78,6 @@ If you have enough feedback and feel like you are ready to move on the next cell
 
 ## Session 6
 
-Brag Diary 
-
-## Session 7
-
 ### Independent Practice- Coursework introduction
 
 Remember, there are 2 separate Google Classrooms. 1 for technical coursework and another for PD coursework. See the coursework for this week [here](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-2/coursework). 
