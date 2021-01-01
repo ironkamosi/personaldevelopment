@@ -8,7 +8,6 @@ About 50-60 minutes
 
 * 20 minutes for Lesson
 * 20 minutes for Guided & Independent Practice
-* 15 minutes for Check for Understanding
 
 #### Prerequisites
 
