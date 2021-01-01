@@ -16,7 +16,7 @@ In the book [Agile Retrospectives: Making Good Teams Great](https://www.amazon.c
 
 For every step you can use an activity. 
 
-You can use the following activity for the Set the Stage step:
+1. You can use the following activity for the Set the Stage step:
 
 #### Your Superpower
 
@@ -24,9 +24,7 @@ This is an activity you can use in a retro with Superheroes as a theme. The firs
 
 Ask the people to write their superpower on a sticky note and in short explain it when necessary.
 
-
-
-Then you can use the following activity for the Gather the Data stage:
+2. Then you can use the following activity for the Gather the Data stage:
 
 #### Superhero
 
@@ -36,5 +34,5 @@ Yes, I know Batman is written with an t.
 
 This is basically the same activity as for example Liked, Learned, Longed For, but by using different terms and pictures you challenge the team and keep it fun.
 
-
+3. 
 
