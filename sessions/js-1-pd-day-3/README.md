@@ -50,7 +50,33 @@ All trainees should have recieved feedback on their Honeycome cell **'Working Wi
 
 ## Session 5 \(45 mins- 1 hour\)
 
-### Professionalism
+### Brag Diary
+
+
+
+
+
+## Session 6 \(45 mins- 1 hour\)
+
+### Setting SMART Goals
+
+
+
+
+
+
+
+## Session 7 \(45 mins- 1 hour\)
+
+### Honeycomb Introduction - Maximising my time cell and feedback
+
+
+
+
+
+## Independent Coursework 
+
+### Honeycomb Introduction - Maximising my time cell and feedback
 
 
 
