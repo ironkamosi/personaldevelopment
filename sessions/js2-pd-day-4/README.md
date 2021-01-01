@@ -22,7 +22,7 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 
 ### Developer skills - Motivation and Resilience
 
-* To help trainees learn about the definition of resilience
+* To help trainees learn the definition of resilience
 * To help trainees identify their current coping habits
 * To support trainees in developing resilience strategies
 
@@ -54,7 +54,17 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 
 
 
-## Session 6 \(45 mins- 1 hour\)‌
+
+
+
+
+## Session 6 \(30 mins- 40mins\)
+
+### Leadership Compass
+
+* To 
+
+## Session 7 \(45 mins- 1 hour\)‌
 
 ### Honeycomb Introduction - Maximising my time cell and feedback <a id="honeycomb-introduction-maximising-my-time-cell-and-feedback"></a>
 
