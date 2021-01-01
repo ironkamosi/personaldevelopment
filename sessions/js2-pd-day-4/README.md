@@ -58,9 +58,23 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 
 
 
-## Session 5 \(30 mins- 40mins\)
+## Session 6 \(45 mins- 1 hour\)‌
 
-### Presentations!!! 
+### Honeycomb Introduction - Maximising my time cell and feedback <a id="honeycomb-introduction-maximising-my-time-cell-and-feedback"></a>
+
+​
+
+​
+
+​
+
+​‌
+
+## Independent Practice- Coursework introduction ‌ <a id="independent-practice-coursework-introduction"></a>
+
+There are 2 separate Google Classrooms. 1 for technical coursework and another for PD coursework. There will be PD assignments every week so please check both Google Classrooms. See the coursework [here](https://personaldevelopment.codeyourfuture.io/lessons/induction-week/learning-to-learn-session/coursework).
+
+### 
 
 
 
