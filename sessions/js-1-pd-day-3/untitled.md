@@ -25,5 +25,19 @@ Write your reflections about this lesson. What, if any, of the concepts presente
 
 3. When you have your list. Choose one and write a _Brag Diary_ entry for it. 
 
+## Diversity and Inclusion \| \(Read, Write, Speak\)
+
+#### Check for Understanding
+
+* A useful exercise is to imagine positive contact with the group toward whom you may have a bias, after you have taken the IAT. Discuss with another trainee how you would want start a conversation with a member of this group.
+* What do you mean by diversity and inclusion?
+* Why is diversity important?
+* What do you know about Project Implicit Bias?
+* What does Microaggression mean?
+
+#### 
+
+## 
+
 
 
