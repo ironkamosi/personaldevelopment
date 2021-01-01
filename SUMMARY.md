@@ -38,7 +38,6 @@
   * [Professionalism](sessions/js-1-pd-day-3/untitled-1.md)
   * [Brag Diary - Reflective Journalling](sessions/js-1-pd-day-3/brag-diary-reflective-journalling/README.md)
     * [Brag Diary Template](sessions/js-1-pd-day-3/brag-diary-reflective-journalling/brag-diary-template.md)
-    * [Untitled](sessions/js-1-pd-day-3/brag-diary-reflective-journalling/untitled.md)
   * [Diversity and Inclusion](sessions/js-1-pd-day-3/untitled-37.md)
   * [Honeycomb Session-Maximising My Time](sessions/js-1-pd-day-3/untitled-4.md)
   * [Coursework](sessions/js-1-pd-day-3/untitled.md)
