@@ -34,5 +34,19 @@ Yes, I know Batman is written with an t.
 
 This is basically the same activity as for example Liked, Learned, Longed For, but by using different terms and pictures you challenge the team and keep it fun.
 
-3. 
+3. You can use the following activity for the Decide what to do step:
+
+#### SMART Actions
+
+Another flip chart that describes how the team can define their actions. Just another format.
+
+In this case, you can use the template at the bottom of the flip chart to help the team define SMART actions.
+
+It's also a practical way for trainees to learn about SMART goal setting.
+
+4. Finally for the closing step you can use this activity: 
+
+#### Team Super Powers
+
+Ask the team to write down what they think is the superpower of the team. A positive closing of the retrospective.
 
