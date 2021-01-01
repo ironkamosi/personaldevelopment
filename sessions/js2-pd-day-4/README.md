@@ -26,11 +26,11 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 
 ### Developer skills - Motivation and Resilience
 
+* To help trainees learn about the definition of resilience
+* To help trainees identify their current coping habits
+* To support trainees in developing resilience strategies
 
-
-
-
-
+{% embed url="https://docs.google.com/presentation/d/1qajHTcBIBGP8vNXVbkKDd9rVJ0U1r75GqV\_Oh0d\_oNc/edit\#slide=id.g93cb5b783e\_6\_4" %}
 
 ## Session 3 \(30 mins- 40mins\)
 
@@ -44,7 +44,7 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 
 ### Structuring and delivering a 1-minute pitch
 
-
+* To 
 
 
 
