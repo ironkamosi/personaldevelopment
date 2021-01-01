@@ -1,8 +1,4 @@
----
-description: This second PD day will review the
----
-
-# Html/CSS - PD Day 2
+# Html/CSS - PD Day 2 Effective Communication
 
 ## Prior Knowledge 
 
