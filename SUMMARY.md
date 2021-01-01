@@ -46,7 +46,7 @@
   * [Session 3 teaching notes](sessions/js-1-pd-day-3/untitled-12.md)
   * [Session 4 teaching notes](sessions/js-1-pd-day-3/untitled-11.md)
   * [Session 5 teaching notes](sessions/js-1-pd-day-3/untitled-10.md)
-* [JS2 - PD Day 4](sessions/js2-pd-day-4/README.md)
+* [JS2 - PD Day 4 Presentation Skills \(1\)](sessions/js2-pd-day-4/README.md)
   * [Retro - What's your Superpower?](sessions/js2-pd-day-4/retro-whats-your-superpower.md)
   * [Developer Skills - Motivation and Resilience](sessions/js2-pd-day-4/untitled-1.md)
   * [Pitches and Presenting](sessions/js2-pd-day-4/untitled-2.md)

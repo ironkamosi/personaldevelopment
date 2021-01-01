@@ -1,8 +1,4 @@
----
-description: Presentation Skills (1)
----
-
-# JS2 - PD Day 4
+# JS2 - PD Day 4 Presentation Skills \(1\)
 
 ## Prior Knowledge 
 
