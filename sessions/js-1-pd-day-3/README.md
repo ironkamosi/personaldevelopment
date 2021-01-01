@@ -42,6 +42,14 @@ All trainees should have recieved feedback on their Honeycomb cell **'Working Wi
 
 ### Professionalism
 
+* To introduce what is meant by "professionalism"
+* To show why professionalism is important both at CYF and in a work setting
+* To convey what behaviors are expected of a professional
+
+{% embed url="https://docs.google.com/presentation/d/1g\_kuvgZxnACIcq5S5ohl8w5xotLwQyAEHvRyZfazmww/edit\#slide=id.p" %}
+
+
+
 
 
 
