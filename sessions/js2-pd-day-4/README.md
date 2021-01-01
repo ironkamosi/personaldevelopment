@@ -24,7 +24,7 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 
 ## Session 2 \(30 mins- 40mins\)
 
-### Developer skills - Asking good questions and getting the right help
+### Developer skills - Motivation and Resilience
 
 
 
@@ -34,7 +34,15 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 
 ## Session 3 \(30 mins- 40mins\)
 
-### Guest speakers- CYF Graduate and Employer - Importance of PD and relevance to getting a job/graduating
+### Guest speakers- CYF Graduate/ Volunteer - Roles within the Tech sector and/or Web Development
+
+
+
+
+
+## Session 4 \(30 mins- 40mins\)
+
+### Structuring and delivering a 1-minute pitch
 
 
 
@@ -44,21 +52,15 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 
 
 
-## Session 2 \(30 mins- 40mins\)
+## Session 5 \(30 mins- 40mins\)
 
-### Developer skills - Asking good questions and getting the right help
-
-
+### Presentations!!! 
 
 
 
+## Session 5 \(30 mins- 40mins\)
 
-
-
-
-## Session 2 \(30 mins- 40mins\)
-
-### Developer skills - Asking good questions and getting the right help
+### Presentations!!! 
 
 
 
