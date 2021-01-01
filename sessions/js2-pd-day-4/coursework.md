@@ -8,14 +8,18 @@ description: >-
 
 ## Pitches and Presentations \(Read, Write, Hear, Do\)‌
 
-1. **Pair-off with a classmate that has a different work-style to yours based on the Leadership Compass.** 
-2. **Organise a time to work together.** 
-3. **You will need to write a 1 minute pitch to your partner. Make sure you follow the guide presented in the workshop.**
-4. **You will then ‘pitch’ to each other  either:** 
+1. **Take your notes and turn them into a one-minute talk :**
 
-    **your career goal  or**
+   * **what worries you**
+   * **how you’ll beat that** 
+   * **what you’ll achieve**
+   * **what you want to do after graduation**
 
-   **a current problem/challenge you are facing**
+    **Make sure you follow the guide presented in the workshop**
+
+2. **Pair-off with a classmate that has a different work-style to yours based on the Leadership Compass.** 
+3. **Organise a time to work together.** 
+4. **You will then ‘pitch’ your to each other  your 1 minute talks.** 
 
    **Make sure to include what action you have taken so far and what help you still need.**
 
