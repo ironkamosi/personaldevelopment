@@ -56,9 +56,12 @@ All trainees should have recieved feedback on their Honeycomb cell **'Working Wi
 
 
 
-## Session 6 \(45 mins- 1 hour\)
+## Session 6 \(40 - 45mins\)
 
-### Setting SMART Goals
+### Diversity and Inclusion 
+
+* 
+{% embed url="https://docs.google.com/presentation/d/1ZOszIM\_tNl\_cDKwfEtzFx8VCHTtj6bNogk44BHRVvW4/edit\#slide=id.p" %}
 
 
 
