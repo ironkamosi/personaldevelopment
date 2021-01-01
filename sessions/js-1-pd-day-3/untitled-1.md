@@ -11,22 +11,22 @@ description: >-
 About 2 hours
 
 * 20 minutes for video walkthrough of slides
-* 9 minutes for "Being Professional at Work" video
 * 7 minutes for "How to Deal with People You Don't Like at Work"
 * 6 minutes for "Top 10 Tips for Early Career Professionals" video
 * 30 minutes for Group Practice
 * 20 minutes for Independent Practice
-* 15 minutes for Check for Understanding
+
+
 
 #### Prerequisites
 
-* [Expectations While at Techtonica](https://docs.google.com/document/d/1IWny-IXB-XDWW21l3JODwPuh1QOVBFQbii_DjvF0g00/edit?usp=sharing)
-* [Interpersonal Conflict Resolution](https://github.com/Techtonica/curriculum/blob/main/onboarding/conflict-resolution.md)
+* CYF Student Agreement 
+* CYF Code of Conduct 
 * [Diversity, Inclusion & Implicit Bias](https://github.com/Techtonica/curriculum/blob/main/diversity-inclusion-bias/inclusion.md)
 
 #### Motivation
 
-Techtonica is a simulated work environment representative of common tech industry offices. Apprentices are expected to behave professionally and to interact professionally with their Techtonica colleagues and staff. An apprentice's level of professionalism is an important point of consideration for sponsoring companies.
+CodeYourFuture is a simulated work environment representative of common tech industry offices. Trainees are expected to behave professionally and to interact professionally with their fellow CYF colleagues, volunters and staff. A trainee's level of professionalism is consideration for sponsoring companies.
 
 Importance to professionalism in workplace:
 
