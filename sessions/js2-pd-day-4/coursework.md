@@ -6,27 +6,21 @@ description: >-
 
 # Coursework
 
-## Pitches and Presentations \(Do, Read, Write\)‌
+## Pitches and Presentations \(Read, Write, Hear, Do\)‌
 
-**Pair-off with a classmate that has a different work-style to yours based on the Leadership Compass.**   
+1. **Pair-off with a classmate that has a different work-style to yours based on the Leadership Compass.** 
+2. **Organise a time to work together.** 
+3. **You will need to write a 1 minute pitch to your partner. Make sure you follow the guide presented in the workshop.**
+4. **You will then ‘pitch’ to each other  either:** 
 
+    **your career goal  or**
 
-**Organise a time to work together.** 
+   **a current problem/challenge you are facing**
 
-**You will then ‘pitch’ to each other  either:** 
+   **Make sure to include what action you have taken so far and what help you still need.**
 
-**a. your career goal** 
-
-**b. a current problem/challenge you are facing**
-
-**Make sure to include what action you have taken so far and what help you still need.**
-
-**Give each other feedback on your pitches.** 
-
-**Prepare to present feedback at next PD Class.**   
-  
-  
-
+5. **Give each other feedback on your pitches.** 
+6. **Prepare to present feedback at next PD Class.**    
 
 
 
