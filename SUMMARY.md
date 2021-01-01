@@ -36,7 +36,7 @@
 * [JS 1- PD Day 3](sessions/js-1-pd-day-3/README.md)
   * [Developer Skills - Asking Good Questions](sessions/js-1-pd-day-3/untitled-2.md)
   * [Professionalism](sessions/js-1-pd-day-3/untitled-1.md)
-  * [Untitled](sessions/js-1-pd-day-3/untitled-37.md)
+  * [Diversity and Inclusion](sessions/js-1-pd-day-3/untitled-37.md)
   * [Untitled](sessions/js-1-pd-day-3/untitled-36.md)
   * [Honeycomb Session](sessions/js-1-pd-day-3/untitled-4.md)
   * [Brag Diary - Reflective Journalling](sessions/js-1-pd-day-3/brag-diary-reflective-journalling/README.md)
