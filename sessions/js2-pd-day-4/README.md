@@ -14,15 +14,13 @@ All trainees should have completed PD coursework from weeks 1-
 
 All trainees should have recieved feedback on their Honeycomb cell **'Manging My Time'** 
 
-## Session 1 \(40 mins- 1 hour\)
+## Session 1 \(45 mins- 1 hour\)
 
-### Retrospective
+### Retrospective - What's your Superpower?
 
+Fun start to retro by focusing on what we are good at! 
 
-
-
-
-
+Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js2-pd-day-4/retro-whats-your-superpower). 
 
 ## Session 2 \(30 mins- 40mins\)
 
@@ -34,9 +32,9 @@ All trainees should have recieved feedback on their Honeycomb cell **'Manging My
 
 
 
-## Session 2 \(30 mins- 40mins\)
+## Session 3 \(30 mins- 40mins\)
 
-### Developer skills - Asking good questions and getting the right help
+### Guest speakers- CYF Graduate and Employer - Importance of PD and relevance to getting a job/graduating
 
 
 
