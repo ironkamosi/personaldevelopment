@@ -32,13 +32,23 @@ All trainees should have recieved feedback on their Honeycome cell **'Working Wi
 
 ## Session 3 \(30 mins- 45mins\)
 
-### Guest speaker- CYF Graduate - importance of PD and relevance to getting a job/graduating and an employer
+### Guest speakers- CYF Graduate and Employer - Importance of PD and relevance to getting a job/graduating
 
 
 
 
 
 ## Session 4 \(45 mins- 1 hour\)
+
+### Professionalism
+
+
+
+
+
+
+
+## Session 5 \(45 mins- 1 hour\)
 
 ### Professionalism
 
