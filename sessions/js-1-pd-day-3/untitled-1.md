@@ -61,7 +61,6 @@ Importance to professionalism in workplace:
 
 #### Materials
 
-* [Professionalism \(video walkthrough of slides\)](https://drive.google.com/open?id=1WOor8RnhFz8yJimUSGf_QRY1_aplHure)
 * [Professionalism \(slides\)](https://docs.google.com/presentation/d/1kvpeT1HTNJKDmnZr9amMe8TRrU_mCD8kwDRGxbomTFs/edit?usp=sharing)
 * [Being Professional at Work \(video\)](https://www.youtube.com/watch?v=QphclWBVzGQ)
 * [How to Deal with People You Don't Like at Work \(video\)](https://www.youtube.com/watch?v=Pm8kU37u0Ho)
@@ -78,7 +77,7 @@ Importance to professionalism in workplace:
 * Increased Job Satisfaction – Professionalism eliminates stress to a great degree and once that is taken care of an employee thrives in a healthy atmosphere leading to enhanced performance.
 * Personal Growth – Not only in terms of job advancement, but there are a certain dignity and pride in one’s work that develops. You get appreciated for consistently good quality output and that in turn builds your confidence, makes you a more secure person who is then capable of handling difficult situations with refined emotional maturity. [\(imarticus.org\)](https://imarticus.org/professionalism-important-workplace/)
 
-The slides and video walkthrough follow along with this lesson. Be sure to view the rest of the materials section as well.
+The slides follow along with this lesson. Be sure to view the rest of the materials section as well.
 
 * What is professionalism in Workplace?
   * Behave Professionally
@@ -99,7 +98,7 @@ The slides and video walkthrough follow along with this lesson. Be sure to view 
     * Arrive early enough so that you can give yourself sometime to get settled before the start of a workday or meeting
   * Your behaviour during the Workday
     * Do your best, try to avoid "stealing time" , which means doing non-work things during the non-break hours in the workplace
-    * Don't Complain much while you're stuck in something, try to learn from your colleagues and experts how to find out solutions of a particular problem
+    * Don't complain much while you're stuck in something, try to learn from your colleagues and experts how to find out solutions of a particular problem
     * You should treat everyone respectfully even if you don't even like them
     * Make sure you submit your assignment and given task timely, ensure yourself that you have enough skills and tools for the assigned task or work, if you don't have just feel free to ask your colleagues and take their help
     * If you can’t make a deadline, let those affected know as soon as you realize it
@@ -111,15 +110,15 @@ The slides and video walkthrough follow along with this lesson. Be sure to view 
 
 #### Common Mistakes / Misconceptions
 
-* **"This is irrelevant to me right now because I'm an apprentice. I'll start acting professionally once I'm hired."** Many serious athletes "practice like they play", meaning they approach their practice and training with as much seriousness and intensity as they'd put in during a real game. This makes them well-prepared for game days. Techtonica has a similar approach, and we expect apprentices to "practice like they play".
+* **"This is irrelevant to me right now because I'm a trainee. I'll start acting professionally once I'm hired."** Many serious athletes "practice like they play", meaning they approach their practice and training with as much seriousness and intensity as they'd put in during a real game. This makes them well-prepared for game days. At CodeYourFuture we take a similar approach, and we expect trainees to "practice like they play".
 * **"If someone tells me to behave professionally, they are telling me to act more like an higher-income white person."** If someone tells you to behave more professionally, they are referring to the \(sometimes unwritten\) behaviors outlined in this lesson. These behaviors are generally accepted across industries, roles and employment types to be "professional".
 * **"Behaving professionally makes me appear weak."** Behaving professionally demonstrates that you value your role, your team, your employer and are conscientious.
 * **"I cannot be my authentic self and behave professionally."** Being yourself and behaving professionally are not mutually exclusive. Sometimes, the "professional" you is one part of your true self who gets to come out at work, while other parts of your true self get to come out at other times.
-* **"It won't matter what I do or how I act because I'll just be a junior software engineer after Techtonica."** Junior software engineers are valued team members and are held to the same standard of professionalism as everyone else at the company. Behaving professionally demonstrates that you value your role, your team, your employer and are conscientious. Start your reputation off on good footing.
+* **"It won't matter what I do or how I act because I'll just be a junior software engineer after CYF."** Junior software engineers are valued team members and are held to the same standard of professionalism as everyone else at the company. Behaving professionally demonstrates that you value your role, your team, your employer and are conscientious. Start your reputation off on good footing.
 
 #### Group Practice
 
-1. On their own, each person writes a text message to a team member saying they're running late to a meeting. Then, each person shares their message aloud with the group.
+1. On their own, each person writes a Slack message to a team member saying they're running late to a meeting. Then, each person shares their message aloud with the group.
 2. On their own, each person writes an email to a manager notifying them that they'll be out of the office on some future date. Then, each person shares their message aloud with the group.
 3. On their own, each person writes an email to a manager notifying them that they won't be finished with a project by the agreed-upon deadline. Then, each person shares their message aloud with the group.
 
@@ -128,7 +127,5 @@ The slides and video walkthrough follow along with this lesson. Be sure to view 
 1. Find a partner. Take turns role playing the following scenario: One of you is a team member and you need to tell your manager in person that you'll be missing a week of work next month. The other person is the manager and should express disappointment that the team member will be gone, but also express that you understand. Be sure to switch roles.
 2. Find a partner. Take turns role playing the following scenario: One of you is a team member and you need to tell your manager in person that your project is likely not going to be finished by the agreed-upon deadline. The other person is the manager and should express unhappiness about this, but also work together to come up with a new, reasonable deadline or some other alternative \(reduce the scope of the project or get help from a team member\). Be sure to switch roles.
 
-#### Check for Understanding
-
-Write your reflections about t
+#### 
 
