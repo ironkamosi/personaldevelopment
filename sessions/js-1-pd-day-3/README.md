@@ -74,9 +74,11 @@ All trainees should have recieved feedback on their Honeycome cell **'Working Wi
 
 
 
-## Independent Coursework 
-
-### Honeycomb Introduction - Maximising my time cell and feedback
 
 
+
+
+## Independent Practice- Coursework introduction 
+
+There are 2 separate Google Classrooms. 1 for technical coursework and another for PD coursework. There will be PD assignments every week so please check both Google Classrooms. See the coursework [here](https://personaldevelopment.codeyourfuture.io/lessons/induction-week/learning-to-learn-session/coursework). 
 
