@@ -1,6 +1,6 @@
 ---
 description: >-
-  Taken from
+  Adapted from
   https://agilestrides.com/blog/40-ideas-to-spice-up-your-retrospective/
 ---
 
