@@ -32,3 +32,37 @@ All trainees should have recieved feedback on their Honeycomb cell **'Manging My
 
 
 
+
+
+## Session 2 \(30 mins- 40mins\)
+
+### Developer skills - Asking good questions and getting the right help
+
+
+
+
+
+
+
+
+
+## Session 2 \(30 mins- 40mins\)
+
+### Developer skills - Asking good questions and getting the right help
+
+
+
+
+
+
+
+
+
+## Session 2 \(30 mins- 40mins\)
+
+### Developer skills - Asking good questions and getting the right help
+
+
+
+
+
