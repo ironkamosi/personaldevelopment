@@ -1,5 +1,13 @@
 # Coursework
 
+## 
+
+## 
+
+## Professionalism Coursework \| \(Read, Write\)
+
+Write your reflections about this lesson. What, if any, of the concepts presented were new to you? Is there anything you disagree with? What did it feel like to deliver potentially bad news during the role play? Was this practice useful? Feel free to share other thoughts you have.
+
 ## Brag Diary Coursework \|  \(Listen, Read, Write\) 
 
 1. Watch this [video by Gargi Sharma](https://yougotthis.io/2020-birmingham-gargi-sharma/) \(26 mins\) where she discusses the importance of ‘bragging’ about yourself and _**celebrating your achievements**_**.** 

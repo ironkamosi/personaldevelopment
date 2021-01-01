@@ -8,7 +8,7 @@ All trainees should have completed PD Day 1 and 2
 
 All trainees should have completed PD coursework from weeks 1-
 
-All trainees should have recieved feedback on their Honeycome cell **'Working With My Team'** 
+All trainees should have recieved feedback on their Honeycomb cell **'Working With My Team'** 
 
 ## Session 1 \(40 mins- 1 hour\)
 

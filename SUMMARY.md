@@ -35,7 +35,7 @@
     * [Article - This online tool reveals your personality based on Facebook 'likes'](sessions/pd-session-2/coursework/this-online-tool-reveals-your-personality-based-on-facebook-likes.md)
 * [JS 1- PD Day 3](sessions/js-1-pd-day-3/README.md)
   * [Developer Skills - Asking Good Questions](sessions/js-1-pd-day-3/untitled-2.md)
-  * [Untitled](sessions/js-1-pd-day-3/untitled-1.md)
+  * [Professionalism](sessions/js-1-pd-day-3/untitled-1.md)
   * [Untitled](sessions/js-1-pd-day-3/untitled-37.md)
   * [Untitled](sessions/js-1-pd-day-3/untitled-36.md)
   * [Honeycomb Session](sessions/js-1-pd-day-3/untitled-4.md)
