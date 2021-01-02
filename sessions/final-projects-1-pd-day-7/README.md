@@ -10,7 +10,11 @@ All trainees should have participated in the Final Project
 
 ## Session 1 \(45 mins- 1 hour\)
 
-### Retrospective - 
+### Retrospective - How satisfied are you about Teamwork? 
+
+Look back over the experience of working in team on Final Projects. 
+
+Session plan [here](https://personaldevelopment.codeyourfuture.io/sessions/final-projects-1-pd-day-7/retro-how-satisfied-are-we-about-teamwork). 
 
 
 
