@@ -1,5 +1,5 @@
 ---
-description: adapted from Gargi Sharma and Shukri
+description: 'adapted from Gargi Sharma,  Shukri Ali and'
 ---
 
 # Brag Diary - Reflective Journalling

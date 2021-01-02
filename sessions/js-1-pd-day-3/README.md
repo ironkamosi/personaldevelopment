@@ -62,6 +62,8 @@ Instead of looking back
 
 ### Brag Diary
 
+* To introduce the idea of 
+
 
 
 
