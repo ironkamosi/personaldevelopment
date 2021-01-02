@@ -14,13 +14,9 @@ All trainees should have recieved feedback on their Honeycomb cell **'Working Wi
 
 ### Futurespective
 
-Instead of looking back 
+In a futurespective, we imagine that we’re in the future, and we look back to past events.
 
-
-
-
-
-
+{% embed url="https://docs.google.com/presentation/d/16LZe0Qnn5Ml0BXnViBy\_zCKQrO0cjJBMro7XXSiST1I/edit\#slide=id.g853e60c0b8\_0\_91" %}
 
 ## Session 2 \(30 mins- 40mins\)
 
