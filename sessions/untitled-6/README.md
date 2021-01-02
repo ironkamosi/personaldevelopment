@@ -24,7 +24,17 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 
 
 
-## Session 2 \(45 mins- 1 hour\)
+## Session 3 \(45 mins- 1 hour\)
+
+### Experience Bank
+
+* To
+* to
+* to
+
+
+
+## Session 4 \(40- 45 mins\)
 
 ### Mock Interviews
 
@@ -34,9 +44,9 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 
 
 
-## Session 3 \(30 mins- 40mins\)
+## Session Session 5 \(40-50mins\) 
 
-### Developer skills - Experiences Bank
+### Resilience
 
 * To
 * to
@@ -44,9 +54,11 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 
 
 
-## Session Session 2 \(30 mins- 40mins\) 
 
-### Developer skills - Motivation and Resilience
+
+## Session Session 6 \(30 mins\) 
+
+### Honeycomb- Interview skills
 
 * To
 * to
