@@ -10,23 +10,23 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 
 ## Session 1 \(45 mins- 1 hour\)
 
-### Retrospective - 
+### Retrospective/ Futurespective - What will be the challenges of working together?
 
 
 
 ## Session 2 \(30 mins- 40mins\)
 
-### Developer skills - How to give a good interview
+### Developer skills - Setting up a project
 
 * To
-* to
-* to
+* To
+* To
 
 
 
 ## Session 3 \(45 mins- 1 hour\)
 
-### Experience Bank
+### Final Project Teams start Team Canvas
 
 * To
 * to
@@ -36,7 +36,7 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 
 ## Session 4 \(40- 45 mins\)
 
-### Mock Interviews
+### 5 Why's Problem Solving
 
 * To
 * to
@@ -46,7 +46,7 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 
 ## Session Session 5 \(40-50mins\) 
 
-### Resilience
+### Dealing with conflict in teams
 
 * To
 * to
@@ -58,7 +58,7 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 
 ## Session Session 6 \(30 mins\) 
 
-### Honeycomb- Interview skills
+### Honeycomb- Wrap up and feedback
 
 * To
 * to
@@ -66,7 +66,7 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 
 ## Independent Practice- Coursework introduction ‌ <a id="independent-practice-coursework-introduction"></a>
 
-There are 2 separate Google Classrooms. 1 for technical coursework and another for PD coursework. There will be PD assignments every week so please check both Google Classrooms. See the coursework [here](https://personaldevelopment.codeyourfuture.io/sessions/js2-pd-day-4/coursework).
+See the coursework [here](https://personaldevelopment.codeyourfuture.io/sessions/js2-pd-day-4/coursework).
 
 
 
