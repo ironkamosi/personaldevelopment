@@ -4,7 +4,7 @@
 
 All trainees should have completed PD Day 1, 2, 3, 4, 5, 6, and 7
 
-All trainees should have completed PD coursework 
+All trainees should have completed video recording of interview questions
 
 All trainees should have participated in the Final Project
 
