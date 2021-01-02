@@ -16,8 +16,6 @@ Look back over the experience of working in team on Final Projects.
 
 Session plan [here](https://personaldevelopment.codeyourfuture.io/sessions/final-projects-1-pd-day-7/retro-how-satisfied-are-we-about-teamwork). 
 
-
-
 ## Session 2 \(30 mins- 40mins\)
 
 ### Developer skills - How to give a good interview
