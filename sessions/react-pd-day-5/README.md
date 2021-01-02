@@ -2,13 +2,11 @@
 
 ## Prior Knowledge 
 
-All trainees should have signed the [Student Agreement](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement). 
+All trainees should have completed PD Day 1, 2, 3, and 4
 
-All trainees should have completed PD Day 1, 2 and 3
+All trainees should have completed PD coursework 
 
-All trainees should have completed PD coursework from weeks 1-
-
-All trainees should have recieved feedback on their Honeycomb cell **'Manging My Time'** 
+All trainees should have recieved feedback on their Honeycomb cell **'Presenting for Success'** 
 
 ## Session 1 \(45 mins- 1 hour\)
 
