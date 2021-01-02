@@ -74,11 +74,7 @@ In a futurespective, we imagine that we’re in the future, and we look back to 
 * To help help trainees uncover behaviours which limit oppotunitites for themselves or others
 * To help create an inclusive community at CYF 
 
-{% embed url="https://docs.google.com/presentation/d/1ZOszIM\_tNl\_cDKwfEtzFx8VCHTtj6bNogk44BHRVvW4/edit\#slide=id.p" %}
-
-
-
-
+{% embed url="https://docs.google.com/presentation/d/1ZOszIM\_tNl\_cDKwfEtzFx8VCHTtj6bNogk44BHRVvW4/edit?usp=sharing" %}
 
 
 
