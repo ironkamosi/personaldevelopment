@@ -10,9 +10,9 @@ All trainees should have recieved feedback on their Honeycomb cell **'Presenting
 
 ## Session 1 \(45 mins- 1 hour\)
 
-### Retrospective - What's your Superpower?
+### Retrospective - 
 
-Fun start to retro by focusing on what we are good at! 
+
 
 Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js2-pd-day-4/retro-whats-your-superpower). 
 
@@ -30,23 +30,25 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 
 ## Session 3 \(30 mins- 40mins\)
 
-### Developer skills - Motivation and Resilience
+### Guest Speaker - Understanding how the CYF job process works
 
 * To help trainees learn about the definition of resilience
 * To help trainees identify their current coping habits
 * To support trainees in developing resilience strategies
 
-
-
-
+{% embed url="https://docs.google.com/presentation/d/11d55M1nu1qNCpH2\_9RFb5EDUceS8xxtWqRVJ--pFxVs/edit?usp=sharing" %}
 
 ## Session 4 \(30 mins- 40mins\)
 
-### Developer skills - Motivation and Resilience
+### Visibility in the job market- Online presence and Self marketing 
 
 * To help trainees learn about the definition of resilience
 * To help trainees identify their current coping habits
 * To support trainees in developing resilience strategies
+
+{% embed url="https://docs.google.com/presentation/d/1LMkT0dRlcV0q\_x0x1FNt9gnPk86VsZ15lHa-I1z746Y/edit?usp=sharing" %}
+
+
 
 
 
