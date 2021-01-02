@@ -27,10 +27,10 @@ Session plan [here](https://personaldevelopment.codeyourfuture.io/sessions/final
 
 ## Session 3 \(45 mins- 1 hour\)
 
-### Teams plan intros and 
+### Teams plan intros 
 
 * To have trainees plan their personal introductions
-* To have trainees Create a one sentence intro for their tool
+* To have trainees create a one sentence intro for their tool
 * To practice their intros and get feedback
 
 
