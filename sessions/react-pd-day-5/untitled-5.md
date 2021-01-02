@@ -1,2 +1,2 @@
-# Developer Skills - How to give a good interview
+# Developer Skills - Agile and Scrum Intro
 
