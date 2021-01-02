@@ -1,4 +1,4 @@
-# JS 1- PD Day 3
+# JS 1- PD Day 3 Preparing for the Workplace
 
 ## Prior Knowledge 
 
