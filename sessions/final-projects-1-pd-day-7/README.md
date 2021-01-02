@@ -2,11 +2,11 @@
 
 ## Prior Knowledge  
 
-All trainees should have completed PD Day 1, 2, 3, 4 and 5
+All trainees should have completed PD Day 1, 2, 3, 4, 5, 6, and 7
 
 All trainees should have completed PD coursework 
 
-All trainees should have recieved feedback on their Honeycomb cell **'Learning from Failure'** 
+All trainees should have participated in the Final Project
 
 ## Session 1 \(45 mins- 1 hour\)
 
