@@ -64,7 +64,9 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 * to
 * to
 
+## Independent Practice- Coursework introduction ‌ <a id="independent-practice-coursework-introduction"></a>
 
+There are 2 separate Google Classrooms. 1 for technical coursework and another for PD coursework. There will be PD assignments every week so please check both Google Classrooms. See the coursework [here](https://personaldevelopment.codeyourfuture.io/sessions/js2-pd-day-4/coursework).
 
 
 
