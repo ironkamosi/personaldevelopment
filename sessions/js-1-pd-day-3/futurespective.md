@@ -11,9 +11,17 @@ description: >-
 In her blog Liz Keog describes the steps she takes to run a futurespective:
 
 * Set the Scene and Create a Timeline: group agrees on a set timeline to focus on 
-* No Safety Check: 
-* Step into the Future: analyze the data to find root causes
-* Decide What To Do: what are experiments that could help us to improve [1% a day](https://agilestrides.com/blog/113-practices-of-extreme-programming-applied-to-management/)
+* No Safety Check: encourage creativity rather than making sure everyone feels safe 
+* Step into the Future: traverse the timeline and fill in with events 
+* Look back at the past negatively \(skip to positive if short on time\):
+* State interrupt – break the mood!
+* Step forward into the future again
+* Look back at the past positively
+* Dot-vote
+* Create actions
+
+: what are experiments that could help us to improve [1% a day](https://agilestrides.com/blog/113-practices-of-extreme-programming-applied-to-management/)
+
 * Closing: don’t just walk away but close the retro with an activity
 
 For every step you can use an activity. 
