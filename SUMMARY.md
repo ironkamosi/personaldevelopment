@@ -73,6 +73,13 @@
   * [Honeycomb - Wrap up and Feedback](sessions/databases-pd-day-7/untitled-2.md)
   * [Coursework](sessions/databases-pd-day-7/coursework.md)
 * [Final Projects 1- PD Day 8 Presentation Skills \(2\) Demo Day Prep](sessions/final-projects-1-pd-day-7.md)
+* [Untitled](sessions/untitled-7.md)
+* [Untitled](sessions/untitled-5.md)
+* [Untitled](sessions/untitled-4.md)
+* [Retro - How Satisfied Are We About Teamwork](sessions/retro-how-satisfied-are-we-about-teamwork.md)
+* [Structuring and delivering a 15-minute presentation and accompanying pitch deck](sessions/structuring-and-delivering-a-15-minute-presentation-and-accompanying-pitch-deck.md)
+* [Next Steps](sessions/next-steps.md)
+* [Coursework](sessions/coursework.md)
 * [Final Projects 2 - PD Day 9](sessions/final-projects-2-pd-day-8.md)
 * [PD Coursework Assignments](sessions/pd-coursework-assignments.md)
 
