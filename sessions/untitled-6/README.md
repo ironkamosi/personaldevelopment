@@ -54,8 +54,6 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 
 
 
-
-
 ## Session Session 6 \(30 mins\) 
 
 ### Honeycomb- Interview skills
@@ -63,6 +61,8 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 * To
 * to
 * to
+
+
 
 ## Independent Practice- Coursework introduction ‌ <a id="independent-practice-coursework-introduction"></a>
 
