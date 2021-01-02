@@ -63,7 +63,7 @@
   * [CV Workshop](sessions/react-pd-day-5/untitled-2.md)
   * [Honeycomb - Learning From Failure](sessions/react-pd-day-5/untitled-1.md)
   * [Coursework](sessions/react-pd-day-5/untitled.md)
-* [Node- PD Day 6](sessions/untitled-6/README.md)
+* [Node- PD Day 6 Interview Skills](sessions/untitled-6/README.md)
   * [Honeycomb - Interview skills](sessions/untitled-6/untitled.md)
   * [Resilience](sessions/untitled-6/untitled-1.md)
   * [Experiences Bank](sessions/untitled-6/experiences-bank.md)
