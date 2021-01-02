@@ -94,5 +94,5 @@ In a futurespective, we imagine that we’re in the future, and we look back to 
 
 ## Independent Practice- Coursework introduction 
 
-There are 2 separate Google Classrooms. 1 for technical coursework and another for PD coursework. There will be PD assignments every week so please check both Google Classrooms. See the coursework [here](https://personaldevelopment.codeyourfuture.io/lessons/induction-week/learning-to-learn-session/coursework). 
+There are 2 separate Google Classrooms. 1 for technical coursework and another for PD coursework. There will be PD assignments every week so please check both Google Classrooms. See the coursework [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/untitled). 
 
