@@ -16,8 +16,6 @@ You will be building an _**experience map**_ for yourself. You will do this by r
 
 Through regularly reflecting in your Brag Diary, you can track your self-growth and achievements on your journey with Code Your Future.
 
-
-
 ### Why should I keep a Brag Diary?
 
 A lot of work you will accomplish in the next few weeks will get forgotten and by the time you reach the end of your training. You will find it difficult to remember the skills you picked up along the way. The brag diary ensures that knowledge isn't lost. You can track what you have learned, it is also good to see the extra tasks you did and what you learned from them. Do not forget any invisible work, i.e extra hours spent on learning a new concept.  
@@ -26,16 +24,11 @@ A lot of work you will accomplish in the next few weeks will get forgotten and b
 
 You will reflect on your skills, achievements, and challenges every week. **You need to use the template to do your reflection once a week. You will also present your entry to your PD buddy groups when you meet.** We want you to give feedback to each other and support each other with challenges. There are 3 steps you need to reflect upon every week:
 
-
-
 Each week you must pick one competency that you used or worked on, i.e. if you did some pair programming with one person or more then you can select teamwork - tell us how it went and about your role in that team. Please, try to write your response according to the STAR method as this will allow you to have your answer in a very concise way.
-
-### 
 
 1. You need to note down and discuss a **challenge** you came across. Challenges are good as they are an opportunity to learn something new and grow. You all have different abilities and can learn from one another. Please support the other members of your group with challenges and bounce ideas off each other. You can refer to challenges you came across in homework or a tech project or even a challenge with trying to get work done, i.e. time-management. 
 2. You must also list an **achievement** every week, it can be something that might seem very small but mean a lot to you. It can be anything such as finally understanding a new concept, or learning a new technique or having a fun time with your buddy group! If that is your achievement, then please list it. 
-
-You can write a sentence or a paragraph for the individual steps, as long as you have a clear example for each one. You can choose more than one competency or challenge or achievement and discuss that, one is just the minimum.
+3. You can write a sentence or a paragraph for the individual steps, as long as you have a clear example for each one. You can choose more than one competency or challenge or achievement and discuss that, one is just the minimum.
 
 ### 
 
