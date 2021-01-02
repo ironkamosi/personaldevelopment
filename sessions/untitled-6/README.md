@@ -16,7 +16,7 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 
 ## Session 2 \(30 mins- 40mins\)
 
-### Developer skills - Motivation and Resilience
+### Developer skills - How to give a good interview
 
 * To
 * to
@@ -24,9 +24,9 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 
 
 
-## Session 3 \(45 mins- 1 hour\)
+## Session 2 \(45 mins- 1 hour\)
 
-### Developer skills - Motivation and Resilience
+### Mock Interviews
 
 * To
 * to
@@ -34,9 +34,9 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 
 
 
-## Session 2 \(30 mins- 40mins\)
+## Session 3 \(30 mins- 40mins\)
 
-### Developer skills - Motivation and Resilience
+### Developer skills - Experiences Bank
 
 * To
 * to
