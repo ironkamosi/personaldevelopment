@@ -20,11 +20,5 @@ In her blog Liz Keog describes the steps she takes to run a futurespective:
 * Dot-vote
 * Create actions
 
-: what are experiments that could help us to improve [1% a day](https://agilestrides.com/blog/113-practices-of-extreme-programming-applied-to-management/)
 
-* Closing: don’t just walk away but close the retro with an activity
-
-For every step you can use an activity. 
-
-1. You can use the following activity for the Set the Stage step:
 
