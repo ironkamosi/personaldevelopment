@@ -67,8 +67,6 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 * To have trainees develop a deeper sense of self-awareness about their leadership style and approach
 * To have trainees develop an understanding of how one’s work style affects team functioning
 
-{% embed url="https://docs.google.com/presentation/d/1g68wLGj9HKdoBWLh0DK4ZWCbEl47U7RU1\_Y6kPviQf4/edit?usp=sharing" %}
-
 
 
 ## Session 7 \(45 mins- 1 hour\)‌
