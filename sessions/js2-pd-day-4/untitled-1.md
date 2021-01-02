@@ -49,8 +49,8 @@ You’ll communicate more effectively: Confidence allows you to speak concisely 
 
 Slides
 
-* [Building Confidence](https://docs.google.com/presentation/d/1EauFdEp4UJcBK50ioj-giPwFeWf2FHc7i_rn0XGf5f8/edit)
-* [Confidence in the Workplace](https://docs.google.com/presentation/d/1pV0Yftkg98GxWTHSYbPRjFS8PKkJxPgJzeCwpZa_qNE/edit?usp=sharing)
+* Building Confidence
+* Confidence in the Workplace
 
 Videos:
 
