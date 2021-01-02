@@ -20,19 +20,19 @@ Session plan [here](https://personaldevelopment.codeyourfuture.io/sessions/final
 
 ### Demo Day Preparation
 
-* To
-* to
-* to
+* To help trainees understand the plan for Demo Day
+* To enable trainees to structure a 15-minute presentation and accompanying pitch deck
+* To provide trainees practice for delivering their presentations
 
 [https://docs.google.com/presentation/d/1ee2TJGSMicqyyanzldV5os9hegeRW2DgruHuIqOjMV0/edit?usp=sharing](https://docs.google.com/presentation/d/1ee2TJGSMicqyyanzldV5os9hegeRW2DgruHuIqOjMV0/edit?usp=sharing)
 
 ## Session 3 \(45 mins- 1 hour\)
 
-### Teams plan demo and 
+### Teams plan intros and 
 
-* To
-* to
-* to
+* To have trainees plan their personal introductions
+* To have trainees Create a one sentence intro for their tool
+* To practice their intros and get feedback
 
 
 
