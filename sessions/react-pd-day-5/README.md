@@ -1,6 +1,6 @@
 # React - PD Day 5 Preparing for Work
 
-## Prior Knowledge 
+## [https://docs.google.com/presentation/d/1LTGblFARVRmUljAgiiAlcxa1mHaKVWcplRgeZM2YRFI/edit?usp=sharing](https://docs.google.com/presentation/d/1LTGblFARVRmUljAgiiAlcxa1mHaKVWcplRgeZM2YRFI/edit?usp=sharing)[https://docs.google.com/presentation/d/1LTGblFARVRmUljAgiiAlcxa1mHaKVWcplRgeZM2YRFI/edit?usp=sharing](https://docs.google.com/presentation/d/1LTGblFARVRmUljAgiiAlcxa1mHaKVWcplRgeZM2YRFI/edit?usp=sharing)[https://docs.google.com/presentation/d/1LTGblFARVRmUljAgiiAlcxa1mHaKVWcplRgeZM2YRFI/edit?usp=sharing](https://docs.google.com/presentation/d/1LTGblFARVRmUljAgiiAlcxa1mHaKVWcplRgeZM2YRFI/edit?usp=sharing)Prior Knowledge 
 
 All trainees should have completed PD Day 1, 2, 3, and 4
 
@@ -25,6 +25,8 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 * To support trainees in developing resilience strategies
 
 {% embed url="https://docs.google.com/presentation/d/1GbjJAW7EGfN6h0zJ7cWQlhVRxXwsAC9QcBemh9eWIRc/edit\#slide=id.g49ad00b16f\_0\_129" %}
+
+{% embed url="https://docs.google.com/presentation/d/1LTGblFARVRmUljAgiiAlcxa1mHaKVWcplRgeZM2YRFI/edit?usp=sharing" %}
 
 
 
@@ -52,7 +54,7 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 
 
 
-
+{% embed url="https://docs.google.com/presentation/d/1jyD6Chc91Sdg2xvplzYPaVsgXeWtHJfCcEZzp0K4360/edit?usp=sharing" %}
 
 
 
