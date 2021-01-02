@@ -20,6 +20,42 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 
 ## Session 2 \(30 mins- 40mins\)
 
+### Developer Skills - Agile and Scrum intro
+
+* To help trainees learn about the definition of resilience
+* To help trainees identify their current coping habits
+* To support trainees in developing resilience strategies
+
+
+
+
+
+## Session 3 \(30 mins- 40mins\)
+
+### Developer skills - Motivation and Resilience
+
+* To help trainees learn about the definition of resilience
+* To help trainees identify their current coping habits
+* To support trainees in developing resilience strategies
+
+
+
+
+
+## Session 4 \(30 mins- 40mins\)
+
+### Developer skills - Motivation and Resilience
+
+* To help trainees learn about the definition of resilience
+* To help trainees identify their current coping habits
+* To support trainees in developing resilience strategies
+
+
+
+
+
+## Session 5 \(30 mins- 40mins\)
+
 ### Developer skills - Motivation and Resilience
 
 * To help trainees learn about the definition of resilience
