@@ -1,6 +1,6 @@
 # React - PD Day 5 Preparing for Work
 
-## [https://docs.google.com/presentation/d/1LTGblFARVRmUljAgiiAlcxa1mHaKVWcplRgeZM2YRFI/edit?usp=sharing](https://docs.google.com/presentation/d/1LTGblFARVRmUljAgiiAlcxa1mHaKVWcplRgeZM2YRFI/edit?usp=sharing)[https://docs.google.com/presentation/d/1LTGblFARVRmUljAgiiAlcxa1mHaKVWcplRgeZM2YRFI/edit?usp=sharing](https://docs.google.com/presentation/d/1LTGblFARVRmUljAgiiAlcxa1mHaKVWcplRgeZM2YRFI/edit?usp=sharing)[https://docs.google.com/presentation/d/1LTGblFARVRmUljAgiiAlcxa1mHaKVWcplRgeZM2YRFI/edit?usp=sharing](https://docs.google.com/presentation/d/1LTGblFARVRmUljAgiiAlcxa1mHaKVWcplRgeZM2YRFI/edit?usp=sharing)Prior Knowledge 
+## Prior Knowledge 
 
 All trainees should have completed PD Day 1, 2, 3, and 4
 
