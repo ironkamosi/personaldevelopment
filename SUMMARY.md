@@ -70,7 +70,7 @@
   * [Developer skills- How to give a good interview](sessions/untitled-6/developer-skills-how-to-give-a-good-interview.md)
   * [Retro](sessions/untitled-6/retro.md)
 * [Databases- PD Day 7 Working in Teams](sessions/databases-pd-day-7.md)
-* [Final Projects 1- PD Day 8](sessions/final-projects-1-pd-day-7.md)
+* [Final Projects 1- PD Day 8 Presentation Skills \(2\) Demo Day Prep](sessions/final-projects-1-pd-day-7.md)
 * [Final Projects 2 - PD Day 9](sessions/final-projects-2-pd-day-8.md)
 * [PD Coursework Assignments](sessions/pd-coursework-assignments.md)
 
