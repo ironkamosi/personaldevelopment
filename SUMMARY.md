@@ -42,7 +42,6 @@
   * [Diversity and Inclusion](sessions/js-1-pd-day-3/untitled-37.md)
   * [Honeycomb Session-Maximising My Time](sessions/js-1-pd-day-3/untitled-4.md)
   * [Coursework](sessions/js-1-pd-day-3/untitled.md)
-  * [Session 1 teaching notes](sessions/js-1-pd-day-3/untitled-14.md)
   * [Session 2 teaching notes](sessions/js-1-pd-day-3/untitled-13.md)
   * [Session 3 teaching notes](sessions/js-1-pd-day-3/untitled-12.md)
   * [Session 4 teaching notes](sessions/js-1-pd-day-3/untitled-11.md)
