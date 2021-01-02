@@ -33,8 +33,6 @@ Session plan [here](https://personaldevelopment.codeyourfuture.io/sessions/final
 * To have trainees create a one sentence intro for their tool
 * To practice their intros and get feedback
 
-
-
 ## Session 4 \(40- 45 mins\)
 
 ### Group Demos and Feedback
@@ -43,7 +41,11 @@ Session plan [here](https://personaldevelopment.codeyourfuture.io/sessions/final
 * To allow trainees to give and receive feedback to each other 
 * To allow trainees to get feedback from volunteers
 
+## Session 5 \(15-20 mins\)
 
+### Next steps
+
+* To present the timeline of actions needed before the demo day
 
 ## Independent Practice- Coursework introduction ‌ <a id="independent-practice-coursework-introduction"></a>
 
