@@ -1,12 +1,20 @@
 # Coursework
 
-## 
-
-## 
-
 ## Professionalism Coursework \| \(Read, Write\)
 
-Write your reflections about this lesson. What, if any, of the concepts presented were new to you? Is there anything you disagree with? What did it feel like to deliver potentially bad news during the role play? Was this practice useful? Feel free to share other thoughts you have.
+1. Write your reflections about this lesson. 
+
+   a. What, if any, of the concepts presented were new to you? 
+
+   b. Is there anything you disagree with? 
+
+   c. What did it feel like to deliver potentially bad news during the role play? 
+
+   d. Was this practice useful? Feel free to share other thoughts you have.
+
+2. Read the ' Tech Industry Tips' here. What 
+
+
 
 ## Brag Diary Coursework \|  \(Listen, Read, Write\) 
 
