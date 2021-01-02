@@ -14,8 +14,6 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 
 [https://docs.google.com/presentation/d/1Fs4r319aP4cD5VxFvFm\_qMCIS8IAxRAVWMvKWaQ94So/edit\#slide=id.g853e60c0b8\_0\_91](https://docs.google.com/presentation/d/1Fs4r319aP4cD5VxFvFm_qMCIS8IAxRAVWMvKWaQ94So/edit#slide=id.g853e60c0b8_0_91)
 
-
-
 ## Session 2 \(30 mins- 40mins\)
 
 ### Developer skills - Setting up a project
