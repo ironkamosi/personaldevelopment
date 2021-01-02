@@ -46,7 +46,7 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 
 ## Session Session 5 \(40-50mins\) 
 
-### Dealing with conflict in teams
+### Guest Speaker \(CYF Alumni/ Volunteer\) - Dealing with conflict in teams
 
 * To
 * to
