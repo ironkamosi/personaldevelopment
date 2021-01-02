@@ -4,7 +4,7 @@
 
 #### Projected Time
 
-About 50-60 minutes
+About 45-50 minutes
 
 * 20 minutes for Lesson
 * 20 minutes for Guided & Independent Practice
