@@ -43,6 +43,7 @@
   * [Honeycomb Session-Maximising My Time](sessions/js-1-pd-day-3/untitled-4.md)
   * [Coursework](sessions/js-1-pd-day-3/untitled.md)
 * [JS2 - PD Day 4 Presentation Skills \(1\)](sessions/js2-pd-day-4/README.md)
+  * [Roles in Tech](sessions/js2-pd-day-4/roles-in-tech.md)
   * [Retro - What's your Superpower?](sessions/js2-pd-day-4/retro-whats-your-superpower.md)
   * [Developer Skills - Motivation and Resilience](sessions/js2-pd-day-4/untitled-1.md)
   * [Pitches and Presenting](sessions/js2-pd-day-4/untitled-2.md)
