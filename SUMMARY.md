@@ -45,7 +45,7 @@
 * [JS2 - PD Day 4 Presentation Skills \(1\)](sessions/js2-pd-day-4/README.md)
   * [Roles in Tech](sessions/js2-pd-day-4/roles-in-tech.md)
   * [Retro - What's your Superpower?](sessions/js2-pd-day-4/retro-whats-your-superpower.md)
-  * [Developer Skills - Motivation and Resilience](sessions/js2-pd-day-4/untitled-1.md)
+  * [Developer Skills - Confidence](sessions/js2-pd-day-4/untitled-1.md)
   * [Pitches and Presenting](sessions/js2-pd-day-4/untitled-2.md)
   * [Leadership Compass / Goal Setting](sessions/js2-pd-day-4/leadership-compass-goal-setting.md)
   * [Honeycomb - Presenting for Success](sessions/js2-pd-day-4/untitled-3.md)
