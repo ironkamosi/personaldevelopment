@@ -42,6 +42,8 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 * to
 * to
 
+{% embed url="https://docs.google.com/presentation/d/1686x0srh4QoZTMiFapsdOaciY26FWhni\_u2NFgQlNFw/edit?usp=sharing" %}
+
 
 
 ## Session Session 5 \(40-50mins\) 
