@@ -12,11 +12,11 @@ Take the [MindTools Self Confidence Assessment](https://www.mindtools.com/pages/
 
 Based on your score do you need to **Build** Your Self Confidence, **Improve** Your Self Confidence or **Nurture** Your Self Confidence? 
 
-Write in your Learning Journal what steps you will take to build, improve or nurture your self confidence. 
+Write in your Learning Journal/ Diary what steps you will take to build, improve or nurture your self confidence. 
 
 #### 
 
-In your Learning Journal/Diary answwer the following questions:
+In your Learning Journal/Diary answer the following questions:
 
 * What is trust?How important is it in our lives?
 * What did a recent survey by kaplanprofessional say about trust?
