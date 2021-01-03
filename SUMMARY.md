@@ -79,7 +79,7 @@
   * [Retro - How Satisfied Are We About Teamwork](sessions/final-projects-1-pd-day-7/retro-how-satisfied-are-we-about-teamwork.md)
   * [Structuring and delivering a 15-minute presentation and accompanying pitch deck](sessions/final-projects-1-pd-day-7/structuring-and-delivering-a-15-minute-presentation-and-accompanying-pitch-deck.md)
   * [Next Steps](sessions/final-projects-1-pd-day-7/next-steps-1.md)
-  * [Coursework](sessions/final-projects-1-pd-day-7/next-steps.md)
+  * [Coursework](sessions/final-projects-1-pd-day-7/coursework.md)
 * [Final Projects 2 - PD Day 9](sessions/final-projects-2-pd-day-8.md)
 * [PD Coursework Assignments](sessions/pd-coursework-assignments.md)
 
