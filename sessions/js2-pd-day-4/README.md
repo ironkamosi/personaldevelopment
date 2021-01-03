@@ -38,9 +38,11 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 
 ### Guest speakers- CYF Graduate/ Volunteer - Roles within the Tech sector and/or Web Development
 
+* to
+* to
+* to
 
-
-
+{% embed url="https://docs.google.com/presentation/d/1KdX1BlTLYbHuTiJQeI2gvgZf-U-YvGoPjPiqptyymqA/edit?usp=sharing" %}
 
 
 
@@ -48,7 +50,9 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 
 ### Structuring and delivering a 1-minute pitch
 
-* To 
+* To have trainess learn the value of being able to make a pitch
+* To show trainees the steps needed to make an effective pitch
+* To enable trainees to develop a pitch and practice presenting it
 
 
 
