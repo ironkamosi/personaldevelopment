@@ -249,7 +249,7 @@ When you have finished, mark as complete on Google Classroom.
 
 You will be taking turns to present your diary entries in your Buddy Group meetings. 
 
-**Honeycomb 1 - Presenting for Success  Feedback**
+**Honeycomb 1 - Presenting for Success Feedback**
 
 Every week you will be requesting feedback from 3 people to help you get more insight into how you are progressing. Read carefully who you need to request feedback from each week as the people will change.
 
@@ -289,6 +289,11 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 ### Js3 Week 3
 
+**Interview Prep Video**
+
+1. Share the video you made answering your interview preparation questions with your buddy group. You can also ask for feedback from your PD Buddy.  Make note of anything that you need to do to improve your answers. 
+2. Practice making a new video answering one of the questions again using the feedback you have gotten. 
+
 **Brag Diary 6**
 
 Write your sixth entry for your Brag Diary. 
@@ -326,6 +331,21 @@ When you have finished, mark as complete on Google Classroom.
 
 You will be taking turns to present your diary entries in your Buddy Group meetings. 
 
+
+
+**Honeycomb 1 - Learning From failure Feedback**
+
+Every week you will be requesting feedback from 3 people to help you get more insight into how you are progressing. Read carefully who you need to request feedback from each week as the people will change.
+
+1. Log into the Honeycomb platform
+2. Complete the request for feedback on the 'Learning From Failure' cell and Invite 3 reviewers this week
+
+   a. Invite 2 people from the class you have worked with this week
+
+   b. Invite 1 volunteer you worked with this week
+
+3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
+
 ### React Week 2
 
 **Brag Diary 8**
@@ -338,6 +358,21 @@ When you have finished, mark as complete on Google Classroom.
 
 You will be taking turns to present your diary entries in your Buddy Group meetings. 
 
+
+
+**Honeycomb 2- Learning From Failure Feedback**
+
+Every week you will be requesting feedback from 3 people to help you get more insight into how you are progressing. Read carefully who you need to request feedback from each week as the people will change.
+
+1. Log into the Honeycomb platform
+2. Complete the request for feedback on the 'Learning From Failure' cell. Invite 3 reviewers this week
+
+   a. Invite 1 person from the class you have worked with this week \(not someone you have already asked for feedback\)
+
+   b. Invite 2 volunteers you worked with this week \(make sure you ask different people than last week\)
+
+3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
+
 #### React Week 3
 
 **Brag Diary 9**
@@ -349,6 +384,21 @@ You will find the instructions [here](https://personaldevelopment.codeyourfuture
 When you have finished, mark as complete on Google Classroom. 
 
 You will be taking turns to present your diary entries in your Buddy Group meetings. 
+
+
+
+**Honeycomb 3- Learning From Failure Feedback**
+
+Every week you will be requesting feedback from 3 people to help you get more insight into how you are progressing. Read carefully who you need to request feedback from each week as the people will change.
+
+1. Log into the Honeycomb platform
+2. Complete the request for feedback on the 'Learning From Failure' cell. Invite 3 reviewers this week
+
+   a. Invite 1 person from the class you have worked with this week \(not someone you have already asked for feedback\)
+
+   b. Invite your PD Buddy and your Education Buddy
+
+3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
 ### React Week 4
 
@@ -366,9 +416,15 @@ You will be taking turns to present your diary entries in your Buddy Group meeti
 
 Node Week 1
 
+
+
 Node Week 2
 
+
+
 Node Week 3
+
+
 
 ### Week 26-PD Day 7 Working in Teams Assignment linked here
 
