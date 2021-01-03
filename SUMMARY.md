@@ -5,7 +5,7 @@
 
 ## PD Sessions <a id="sessions"></a>
 
-* [Induction Week - PD Day 1](sessions/induction-week/README.md)
+* [PD Day 1 -Learning to Learn](sessions/induction-week/README.md)
   * [Learning to Learn Session](sessions/induction-week/learning-to-learn-session/README.md)
     * [Lesson](sessions/induction-week/learning-to-learn-session/lesson.md)
     * [Instructor Notes](sessions/induction-week/learning-to-learn-session/instructor-notes.md)
@@ -33,7 +33,7 @@
     * [FindYourVoice Empowerment Storytelling Workshop 4](sessions/pd-session-2/find-your-voice-empowerment-storytelling-workshops/findyourvoice-empowerment-storytelling-workshop-4.md)
   * [Coursework](sessions/pd-session-2/coursework/README.md)
     * [Article - This online tool reveals your personality based on Facebook 'likes'](sessions/pd-session-2/coursework/this-online-tool-reveals-your-personality-based-on-facebook-likes.md)
-* [JS 1- PD Day 3 Preparing for the Workplace](sessions/js-1-pd-day-3/README.md)
+* [PD Day 3 -Preparing for the Workplace](sessions/js-1-pd-day-3/README.md)
   * [Futurespective](sessions/js-1-pd-day-3/futurespective.md)
   * [Developer Skills - Asking Good Questions](sessions/js-1-pd-day-3/untitled-2.md)
   * [Professionalism](sessions/js-1-pd-day-3/untitled-1.md)

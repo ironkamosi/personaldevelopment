@@ -5,7 +5,7 @@ description: >-
   optimise their learning process.
 ---
 
-# Induction Week - PD Day 1
+# PD Day 1 -Learning to Learn
 
 ## Prior Knowledge
 

@@ -1,5 +1,7 @@
 ---
-description: After Html/CSS) Module
+description: >-
+  This PD day takes place after the Html/CSS) Module. Trainees will focus on
+  communication skills essential for a developer.
 ---
 
 # PD Day 2 Effective Communication
@@ -10,7 +12,7 @@ All trainees should have signed the [Student Agreement](https://docs.codeyourfut
 
 All trainees should have completed PD Day 1
 
-All trainees should have completed PD coursework from week 1
+All trainees should have completed PD coursework 
 
 All trainees should have recieved feedback on their Honeycome cell **'Working With My Team'** 
 
