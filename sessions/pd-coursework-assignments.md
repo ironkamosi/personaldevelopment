@@ -162,6 +162,8 @@ c. Give your personal reflection on each source
 
 ### JS2 Week 1
 
+Brag Diary 
+
 
 
 **Honeycomb 1 - Maximising My Time  Feedback**
