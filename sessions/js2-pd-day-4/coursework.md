@@ -6,6 +6,8 @@ description: >-
 
 # Coursework
 
+## Confidence
+
 ## Pitches and Presentations \(Read, Write, Hear, Do\)‌
 
 1. Take your notes and turn them into a one-minute talk :
@@ -24,11 +26,11 @@ description: >-
    Make sure to include what action you have taken so far and what help you still need.
 
 5. Give each other feedback on your pitches. 
-6. Prepare to present feedback at next PD Class.    
+6. Prepare to present feedback at next PD Class.  
 
 
 
-## Honeycomb feedback \(Do, Read, Write\)‌
+## Leadership Compass \(Do, Read, Write\)‌
 
 Go onto the Honeycomb platform and complete your self assessment of **Maximising My Time** cell.  
 
