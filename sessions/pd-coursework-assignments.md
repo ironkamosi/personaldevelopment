@@ -334,7 +334,7 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
-### Week 17- PD Day 5 Preparing for the Jobmarket Assignment linked here
+### Week 17- PD Day 5 Preparing for the Jobmarket Assignment linked [here](https://personaldevelopment.codeyourfuture.io/sessions/react-pd-day-5/untitled)
 
 ### React Week 1
 
@@ -429,7 +429,7 @@ When you have finished, mark as complete on Google Classroom.
 
 You will be taking turns to present your diary entries in your Buddy Group meetings. You will also have enough examples to use in your mock interviews. 
 
-### Week 22- PD Day 6 Interview Skills Assignment linked here
+### Week 22- PD Day 6 Interview Skills Assignment linked [here](https://personaldevelopment.codeyourfuture.io/sessions/untitled-6/untitled-1)
 
 Node Week 1
 
@@ -484,7 +484,7 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
-### Week 26-PD Day 7 Working in Teams Assignment linked here
+### Week 26-PD Day 7 Working in Teams Assignment linked [here](https://personaldevelopment.codeyourfuture.io/sessions/databases-pd-day-7/coursework)
 
 DB Week 1
 
