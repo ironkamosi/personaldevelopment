@@ -22,7 +22,7 @@
     * [Critical Thinking Worksheet- Trainees](sessions/pd-session-2/critical-thinking-lesson-plan/critical-thinking-worksheet.md)
     * [Critical Thinking Worksheet- Volunteers](sessions/pd-session-2/critical-thinking-lesson-plan/untitled.md)
     * [Critical Thinking Coursework - Volunteers](sessions/pd-session-2/critical-thinking-lesson-plan/critical-thinking-coursework-volunteers.md)
-  * [Lesson Plan - Active Listening](sessions/pd-session-2/lesson-plan-active-listening/README.md)
+  * [Active Listening](sessions/pd-session-2/lesson-plan-active-listening/README.md)
     * [Active Listening Icebreaker](sessions/pd-session-2/lesson-plan-active-listening/active-listening-icebreaker-bus-driver.md)
     * [Active Listening Practice 1](sessions/pd-session-2/lesson-plan-active-listening/active-listening-practice.md)
     * [Active Listening Practice 2](sessions/pd-session-2/lesson-plan-active-listening/active-listening-practice-2.md)
