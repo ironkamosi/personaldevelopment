@@ -34,7 +34,7 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
    a. Invite 1 person from the class you have worked with this week \(not someone you have already asked for feedback\)
 
-   b. Invite your PD Buddy and your Education Buddy
+   b. Invite 2 volunteers you worked with this week \(make sure you ask different people than last week\)
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
@@ -49,7 +49,7 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
    a. Invite 1 person from the class you have worked with this week \(not someone you have already asked for feedback\)
 
-   b. Invite 2 volunteers you worked with this week \(make sure you ask different people than last week\)
+   b. Invite your PD Buddy and your Education Buddy
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
@@ -148,11 +148,56 @@ c. Give your personal reflection on each source
 
 ### Week 9- PD Day 3 Preparing for the Workplace Assignments linked here
 
-JS2 Week 1
+### JS2 Week 1
 
-JS2 Week 2
 
-JS2 Week 3
+
+**Honeycomb 1 - Mangaging My Time  Feedback**
+
+Every week you will be requesting feedback from 3 people to help you get more insight into how you are progressing. Read carefully who you need to request feedback from each week as the people will change.
+
+1. Log into the Honeycomb platform
+2. Complete the request for feedback on the 'Managing My Time' cell and Invite 3 reviewers this week
+
+   a. Invite 2 people from the class you have worked with this week
+
+   b. Invite 1 volunteer you worked with this week
+
+3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
+
+### JS2 Week 2
+
+
+
+**Honeycomb 2- Managing My Time Feedback**
+
+Every week you will be requesting feedback from 3 people to help you get more insight into how you are progressing. Read carefully who you need to request feedback from each week as the people will change.
+
+1. Log into the Honeycomb platform
+2. Complete the request for feedback on the 'Managing My Time' cell. Invite 3 reviewers this week
+
+   a. Invite 1 person from the class you have worked with this week \(not someone you have already asked for feedback\)
+
+   b. Invite 2 volunteers you worked with this week \(make sure you ask different people than last week\)
+
+3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
+
+### JS2 Week 3
+
+
+
+**Honeycomb 3- Managing My Time Feedback**
+
+Every week you will be requesting feedback from 3 people to help you get more insight into how you are progressing. Read carefully who you need to request feedback from each week as the people will change.
+
+1. Log into the Honeycomb platform
+2. Complete the request for feedback on the 'Managing My Time' cell. Invite 3 reviewers this week
+
+   a. Invite 1 person from the class you have worked with this week \(not someone you have already asked for feedback\)
+
+   b. Invite your PD Buddy and your Education Buddy
+
+3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
 ### Week 13- PD Day 4 Presentaion Skills \(1\) Assignment linked here
 
