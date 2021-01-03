@@ -1,4 +1,10 @@
-# JS2 - PD Day 4 Presentation Skills \(1\)
+---
+description: >-
+  This week we will explore various tools and techniques to develop presentation
+  skills.
+---
+
+# PD Day 4 Presentation Skills \(1\)
 
 ## Prior Knowledge  
 
