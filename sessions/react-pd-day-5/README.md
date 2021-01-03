@@ -69,15 +69,15 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 
 ## Session 5 \(30 mins- 40mins\)
 
-### Developer skills - Motivation and Resilience
+### Job Application/ CV Workshop
 
-* To help trainees learn about the definition of resilience
-* To help trainees identify their current coping habits
-* To support trainees in developing resilience strategies
+* To help trainees learn about how to make a job application
+* To help trainees learn how to structure their CV
+* To support trainees in improving their CV's
 
 ## Independent Practice- Coursework introduction ‌ <a id="independent-practice-coursework-introduction"></a>
 
-There are 2 separate Google Classrooms. 1 for technical coursework and another for PD coursework. There will be PD assignments every week so please check both Google Classrooms. See the coursework [here](https://personaldevelopment.codeyourfuture.io/sessions/js2-pd-day-4/coursework).
+See the coursework [here](https://personaldevelopment.codeyourfuture.io/sessions/js2-pd-day-4/coursework).
 
 ### 
 
