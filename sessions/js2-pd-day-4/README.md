@@ -81,7 +81,7 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 
 ## Session 7 \(45 mins- 1 hour\)‌
 
-### Honeycomb Introduction - Maximising my time cell and feedback <a id="honeycomb-introduction-maximising-my-time-cell-and-feedback"></a>
+### Honeycomb Introduction - Presenting for Success cell and feedback <a id="honeycomb-introduction-maximising-my-time-cell-and-feedback"></a>
 
 ​
 
