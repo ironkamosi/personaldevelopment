@@ -1,7 +1,7 @@
 ---
 description: >-
-  This week we will explore various tools and techniques to develop presentation
-  skills.
+  This PD day takes place after the JS 2 Module. Trainees will explore various
+  tools and techniques to develop their presentation skills.
 ---
 
 # PD Day 4 Presentation Skills \(1\)
