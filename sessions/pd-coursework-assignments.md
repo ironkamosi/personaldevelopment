@@ -55,19 +55,19 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 ### HTML/CSS Week 3
 
-#### Meet with your Buddy group \(1 hour\) \(
+#### Meet with your Buddy group \(1 hour\) \(Do, See, Hear, Read\)
 
 1. Meet with your buddy group members and your PD Buddy Mentor \(if possible\). Discuss the Honeycomb assignments and how you have found the feedback.
 2. Share any your weekly schedules/timetables. Discuss how you are finding the time management with the classes and homework during the week.
-3. Give each other advice and tips on how to work effectively during the week and over the holiday break.
+3. Give each other advice and tips on how to work effectively during the week.
 4. After you have had your meeting come back here and mark done.
 
-#### Watch 'How to conduct yourself professionally'
+#### Watch 'How to conduct yourself professionally' \(Do, Watch, Hear\)
 
 {% embed url="https://www.youtube.com/watch?v=QphclWBVzGQ" %}
 
-1. Write in your Reflective Journal what behaviours you learned were new to you. 
-2. Write what behavours you are currently doing that need to stop. 
+1. Refelect in your Learning Journal/ Diary what behaviours you learned in the video were new to you. 
+2. Write what behavours you are currently doing that you need to stop so you can appear more professional. 
 3. Write what behaviours you need to start doing or doing more so you can appear more professional. 
 4. What behaviours do you think you need to change or adapt for an online/ remote work environment like CodeYourFuture?
 
@@ -75,11 +75,11 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 ### JS1 Week 1
 
-**Employability skills check - \(Watch, Hear, Read\)**
+**Employability skills check - \(Do, Watch, Hear\)**
 
 This week you are going to start thinking more about your employability skills. Why do we have PD Day's and coursework?
 
-1. Watch this video 'Top Resume Skills'
+Watch this video 'Top Resume Skills'
 
 [https://youtu.be/\_bZi-34IFxs](https://youtu.be/_bZi-34IFxs) 
 
@@ -93,9 +93,9 @@ You should share your lists with your PD and Edu buddies when you next meet with
 
 
 
-**Honeycomb 1 - Working With My Team Feedback**
+**Honeycomb 1 - Working With My Team Feedback continued...**
 
-Every week you will be requesting feedback from 3 people to help you get more insight into how you are progressing. Read carefully who you need to request feedback from each week as the people will change.
+Your trainee group may have decided to continue developing your Honeycomb habits in the Working with My Team cell. So you will need to get more feedback from people you have worked with closely.  Read carefully who you need to request feedback from each week as the people will change.
 
 1. Log into the Honeycomb platform
 2. Complete the request for feedback on the 'Working with my team' cell and Invite 3 reviewers this week
@@ -166,7 +166,7 @@ c. Give your personal reflection on each source
 
 **Honeycomb 1 - Maximising My Time  Feedback**
 
-Every week you will be requesting feedback from 3 people to help you get more insight into how you are progressing. Read carefully who you need to request feedback from each week as the people will change.
+You trainee group should have moved on to the next Honeycomb cell. Just like with the previous cell,   each week you will be requesting feedback from 3 people. In order for you to get useful feedback, you must only invite people you have worked closely with this week. If you haven't worked with anyone closely, you need to start collaborating with your fellow trainees more and asking for help from the volunteers. 
 
 1. Log into the Honeycomb platform
 2. Complete the request for feedback on the 'Maximising My Time' cell and Invite 3 reviewers this week
