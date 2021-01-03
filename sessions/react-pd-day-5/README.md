@@ -79,11 +79,12 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 
 ## Session 6 \(30 mins- 40mins\)
 
-### Job Application/ CV Workshop
+### Honeycomb Introduction - Learning From Failure cell and feedback <a id="honeycomb-introduction-maximising-my-time-cell-and-feedback"></a>
 
-* To help trainees learn about how to make a job application
-* To help trainees learn how to structure their CV
-* To support trainees in improving their CV's
+* To help trainees understand that failure is a learning opportunity
+* To introduce trainnes to the habits that are needed to recover from setbacks
+
+
 
 ## Independent Practice- Coursework introduction ‌ <a id="independent-practice-coursework-introduction"></a>
 
