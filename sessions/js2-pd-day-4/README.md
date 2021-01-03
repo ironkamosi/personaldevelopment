@@ -38,11 +38,10 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 
 ### Guest speakers- CYF Graduate/ Volunteer - Roles within the Tech sector and/or Web Development
 
-* to
-* to
-* to
+* To highlight the various roles within the tech sector
+* To give trainees tips on how they may find out more about roles they are interested in 
 
-{% embed url="https://docs.google.com/presentation/d/1KdX1BlTLYbHuTiJQeI2gvgZf-U-YvGoPjPiqptyymqA/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1\_a2cINS59aj93scDX5PFgPqWR\_m8gZ8pyctgpPE8U8Y/edit?usp=sharing" %}
 
 
 
