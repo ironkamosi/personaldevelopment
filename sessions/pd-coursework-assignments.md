@@ -333,7 +333,7 @@ You will be taking turns to present your diary entries in your Buddy Group meeti
 
 
 
-**Honeycomb 1 - Learning From failure Feedback**
+**Honeycomb 1 - Learning From Failure Feedback**
 
 Every week you will be requesting feedback from 3 people to help you get more insight into how you are progressing. Read carefully who you need to request feedback from each week as the people will change.
 
