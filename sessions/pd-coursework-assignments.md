@@ -162,9 +162,15 @@ c. Give your personal reflection on each source
 
 ### JS2 Week 1
 
-Brag Diary 
+**Brag Diary 1**
 
+Write your first entry for your Brag Diary. 
 
+You will find the instructions [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/brag-diary-reflective-journalling) and the template you can use [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/brag-diary-reflective-journalling/brag-diary-template). 
+
+When you have finished, mark as complete on Google Classroom. 
+
+You will be taking turns to present your diary entries in your Buddy Group meetings. 
 
 **Honeycomb 1 - Maximising My Time  Feedback**
 
@@ -181,7 +187,15 @@ You trainee group should have moved on to the next Honeycomb cell. Just like wit
 
 ### JS2 Week 2
 
+**Brag Diary 2** 
 
+Write your second entry for your Brag Diary. 
+
+You will find the instructions [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/brag-diary-reflective-journalling) and the template you can use [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/brag-diary-reflective-journalling/brag-diary-template). 
+
+When you have finished, mark as complete on Google Classroom. 
+
+You will be taking turns to present your diary entries in your Buddy Group meetings. 
 
 **Honeycomb 2- Maximising My Time Feedback**
 
@@ -198,7 +212,15 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 ### JS2 Week 3
 
+**Brag Diary 3**
 
+Write your third entry for your Brag Diary. 
+
+You will find the instructions [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/brag-diary-reflective-journalling) and the template you can use [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/brag-diary-reflective-journalling/brag-diary-template). 
+
+When you have finished, mark as complete on Google Classroom. 
+
+You will be taking turns to present your diary entries in your Buddy Group meetings. 
 
 **Honeycomb 3- Maximising My Time Feedback**
 
@@ -217,7 +239,15 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 ### Js3 Week 1
 
+**Brag Diary 4**
 
+Write your fourth entry for your Brag Diary. 
+
+You will find the instructions [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/brag-diary-reflective-journalling) and the template you can use [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/brag-diary-reflective-journalling/brag-diary-template). 
+
+When you have finished, mark as complete on Google Classroom. 
+
+You will be taking turns to present your diary entries in your Buddy Group meetings. 
 
 **Honeycomb 1 - Presenting for Success  Feedback**
 
@@ -234,7 +264,15 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 ### Js3 Week 2
 
+**Brag Diary 5**
 
+Write your fifth entry for your Brag Diary. 
+
+You will find the instructions [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/brag-diary-reflective-journalling) and the template you can use [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/brag-diary-reflective-journalling/brag-diary-template). 
+
+When you have finished, mark as complete on Google Classroom. 
+
+You will be taking turns to present your diary entries in your Buddy Group meetings. 
 
 **Honeycomb 2- Presenting for Success Feedback**
 
@@ -251,7 +289,15 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 ### Js3 Week 3
 
+**Brag Diary 6**
 
+Write your sixth entry for your Brag Diary. 
+
+You will find the instructions [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/brag-diary-reflective-journalling) and the template you can use [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/brag-diary-reflective-journalling/brag-diary-template). 
+
+When you have finished, mark as complete on Google Classroom. 
+
+You will be taking turns to present your diary entries in your Buddy Group meetings. 
 
 **Honeycomb 3- Presenting for Success Feedback**
 
@@ -268,13 +314,53 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 ### Week 17- PD Day 5 Preparing for the Jobmarket Assignment linked here
 
-React Week 1
+### React Week 1
 
-React Week 2
+**Brag Diary 7**
 
-React Week 3
+Write your seventh entry for your Brag Diary. 
 
-React Week 4
+You will find the instructions [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/brag-diary-reflective-journalling) and the template you can use [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/brag-diary-reflective-journalling/brag-diary-template). 
+
+When you have finished, mark as complete on Google Classroom. 
+
+You will be taking turns to present your diary entries in your Buddy Group meetings. 
+
+### React Week 2
+
+**Brag Diary 8**
+
+Write your eighth entry for your Brag Diary. 
+
+You will find the instructions [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/brag-diary-reflective-journalling) and the template you can use [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/brag-diary-reflective-journalling/brag-diary-template). 
+
+When you have finished, mark as complete on Google Classroom. 
+
+You will be taking turns to present your diary entries in your Buddy Group meetings. 
+
+#### React Week 3
+
+**Brag Diary 9**
+
+Write your ninth entry for your Brag Diary. 
+
+You will find the instructions [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/brag-diary-reflective-journalling) and the template you can use [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/brag-diary-reflective-journalling/brag-diary-template). 
+
+When you have finished, mark as complete on Google Classroom. 
+
+You will be taking turns to present your diary entries in your Buddy Group meetings. 
+
+### React Week 4
+
+**Brag Diary 10**
+
+Write your tenth entry for your Brag Diary. 
+
+You will find the instructions [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/brag-diary-reflective-journalling) and the template you can use [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/brag-diary-reflective-journalling/brag-diary-template). 
+
+When you have finished, mark as complete on Google Classroom. 
+
+You will be taking turns to present your diary entries in your Buddy Group meetings. You will also have enough examples to use in your mock interviews. 
 
 ### Week 22- PD Day 6 Interview Skills Assignment linked here
 
