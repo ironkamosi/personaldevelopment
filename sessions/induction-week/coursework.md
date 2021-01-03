@@ -1,3 +1,7 @@
+---
+description: Independent study for after PD Day 1- Learning to Learn
+---
+
 # Coursework
 
 1\) _**\(Do\)**_ Take the [Growth Mindset Self-Assessment](https://www.positivityguides.net/test-your-mindset-quiz/)

@@ -8,7 +8,7 @@ description: >-
 
 ### Week 0- PD Day 1 Assignments linked [here](https://personaldevelopment.codeyourfuture.io/sessions/induction-week/coursework) 
 
-#### Git/ Github Week
+### Git/ Github Week
 
 **Honeycomb 1 - Working With My Team Feedback**
 
@@ -23,7 +23,7 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
-#### HTML/CSS Week 1
+### HTML/CSS Week 1
 
 **Honeycomb 2- Working With My Team Feedback**
 
@@ -38,7 +38,7 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
-#### HTML/CSS Week 2
+### HTML/CSS Week 2
 
 **Honeycomb 3- Working With My Team Feedback**
 
@@ -53,7 +53,7 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
-#### HTML/CSS Week 3
+### HTML/CSS Week 3
 
 #### Meet with your Buddy group \(1 hour\)
 
@@ -62,9 +62,9 @@ Every week you will be requesting feedback from 3 people to help you get more in
 3. Give each other advice and tips on how to work effectively during the week and over the holiday break.
 4. After you have had your meeting come back here and mark done.
 
-### Week 5- PD Day 2 Assignments linked [here](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-2/coursework)
+### Week 5- PD Day 2 Effective Communicatiob Assignments linked [here](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-2/coursework)
 
-#### JS1 Week 1
+### JS1 Week 1
 
 **Employability skills check - \(Watch, Hear, Read\)**
 
@@ -79,7 +79,7 @@ This week you are going to start thinking more about your employability skills. 
 
 You should share your lists with your PD and Edu buddies when you next meet with them.
 
-#### JS1 Week 2
+### JS1 Week 2
 
 **What skills for the job? \(Do, read, write\)**
 
@@ -99,7 +99,7 @@ Now you have started exploring the technical and personal skills needed for diff
 
 4. Mark as done. 
 
-#### JS1 week 3
+### JS1 Week 3
 
 #### Are Soft Skills Useful in Tech? \(Do, read, write\)
 
@@ -131,7 +131,7 @@ c. Give your personal reflection on each source
 * why does this matter? why is it important? 
 * what did you learn?
 
-### Week 9- PD Day 3 Assignments linked here
+### Week 9- PD Day 3 Preparing for the Workplace Assignments linked here
 
 JS2 Week 1
 
@@ -139,13 +139,13 @@ JS2 Week 2
 
 JS2 Week 3
 
-### Week 13- PD Day 4 Assignment linked here
+### Week 13- PD Day 4 Presentaion Skills \(1\) Assignment linked here
 
-Js3-
+Js3 Week 1
 
-Js3-
+Js3 Week 2
 
-Js3
+Js3 Week 3
 
 ### Week 17- PD Day 5 Assignment linked here
 
