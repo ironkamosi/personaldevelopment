@@ -373,7 +373,7 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
-#### React Week 3
+### React Week 3
 
 **Brag Diary 9**
 
