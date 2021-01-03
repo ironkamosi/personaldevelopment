@@ -62,7 +62,7 @@ Every week you will be requesting feedback from 3 people to help you get more in
 3. Give each other advice and tips on how to work effectively during the week and over the holiday break.
 4. After you have had your meeting come back here and mark done.
 
-### Week 5- PD Day 2 Effective Communicatiob Assignments linked [here](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-2/coursework)
+### Week 5- PD Day 2 Effective Communication Assignments linked [here](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-2/coursework)
 
 ### JS1 Week 1
 
@@ -78,6 +78,21 @@ This week you are going to start thinking more about your employability skills. 
 6. Mark as done
 
 You should share your lists with your PD and Edu buddies when you next meet with them.
+
+
+
+**Honeycomb 1 - Working With My Team Feedback**
+
+Every week you will be requesting feedback from 3 people to help you get more insight into how you are progressing. Read carefully who you need to request feedback from each week as the people will change.
+
+1. Log into the Honeycomb platform
+2. Complete the request for feedback on the 'Working with my team' cell and Invite 3 reviewers this week
+
+   a. Invite 2 people from the class you have worked with this week
+
+   b. Invite 1 volunteer you worked with this week
+
+3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
 ### JS1 Week 2
 
