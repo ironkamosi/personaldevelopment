@@ -29,7 +29,7 @@
 
    d. If no, why wasn't your hard work recognised?
 
-   e. Next, think about now and training to become a developer.  How can you start to make your work visible? What has happened over the past week, 2 weeks, 3 weeks, 4 weeks- 8 weeks since you started Fundamental,s that you are proud of? Write a list. 
+   e. Next, think about the present and training to become a developer.  How can you start to make your work visible? What has happened over the past week, 2 weeks, 3 weeks, 4 weeks- 8 weeks since you started Fundamental,s that you are proud of? Write a list. 
 
 3. When you have your list. Choose one and write a _Brag Diary_ entry for it. 
 
