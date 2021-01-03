@@ -1,6 +1,7 @@
 ---
 description: >-
-  Week by week list of PD coursework assignments. City teams can add to this but
+  Week by week list of PD coursework assignments. There will be PD assignments
+  every week along with technical assignments. City teams can add to this but
   please don't remove any assignments.
 ---
 
@@ -106,6 +107,8 @@ Your trainee group may have decided to continue developing your Honeycomb habits
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
+
+
 ### JS1 Week 2
 
 **What skills for the job? \(Do, read, write\)**
@@ -122,9 +125,11 @@ Now you have started exploring the technical and personal skills needed for diff
 
 2. Are there any common skills required for these jobs? 
 
-3. Add your list to your work area on Google Classroom. 
+3. Add your list to your work area on Google Classroom
 
-4. Mark as done. 
+4. Mark as done
+
+
 
 ### JS1 Week 3
 
@@ -172,6 +177,8 @@ When you have finished, mark as complete on Google Classroom.
 
 You will be taking turns to present your diary entries in your Buddy Group meetings. 
 
+
+
 **Honeycomb 1 - Maximising My Time  Feedback**
 
 You trainee group should have moved on to the next Honeycomb cell. Just like with the previous cell,   each week you will be requesting feedback from 3 people. In order for you to get useful feedback, you must only invite people you have worked closely with this week. If you haven't worked with anyone closely, you need to start collaborating with your fellow trainees more and asking for help from the volunteers. 
@@ -185,6 +192,8 @@ You trainee group should have moved on to the next Honeycomb cell. Just like wit
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
+
+
 ### JS2 Week 2
 
 **Brag Diary 2** 
@@ -196,6 +205,8 @@ You will find the instructions [here](https://personaldevelopment.codeyourfuture
 When you have finished, mark as complete on Google Classroom. 
 
 You will be taking turns to present your diary entries in your Buddy Group meetings. 
+
+
 
 **Honeycomb 2- Maximising My Time Feedback**
 
@@ -210,6 +221,8 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
+
+
 ### JS2 Week 3
 
 **Brag Diary 3**
@@ -221,6 +234,8 @@ You will find the instructions [here](https://personaldevelopment.codeyourfuture
 When you have finished, mark as complete on Google Classroom. 
 
 You will be taking turns to present your diary entries in your Buddy Group meetings. 
+
+
 
 **Honeycomb 3- Maximising My Time Feedback**
 
@@ -234,6 +249,8 @@ Every week you will be requesting feedback from 3 people to help you get more in
    b. Invite your PD Buddy and your Education Buddy
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
+
+
 
 ### Week 13- PD Day 4 Presentaion Skills \(1\) Assignment linked here
 
