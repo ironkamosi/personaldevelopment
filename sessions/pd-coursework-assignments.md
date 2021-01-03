@@ -147,7 +147,7 @@ Js3 Week 2
 
 Js3 Week 3
 
-### Week 17- PD Day 5 Assignment linked here
+### Week 17- PD Day 5 Preparing for the Jobmarket Assignment linked here
 
 React Week 1
 
@@ -157,7 +157,7 @@ React Week 3
 
 React Week 4
 
-### Week 22- PD Day 6 Assignment linked here
+### Week 22- PD Day 6 Interview Skills Assignment linked here
 
 Node Week 1
 
@@ -165,7 +165,7 @@ Node Week 2
 
 Node Week 3
 
-### Week 26-PD Day 7 Assignment linked here
+### Week 26-PD Day 7 Working in Teams Assignment linked here
 
 DB Week 1
 
@@ -173,7 +173,7 @@ DB Week 2
 
 DB Week 3
 
-### Week 30-PD Day 8 Assignment linked here
+### Week 30-PD Day 8 Presentation Skills \(2\) Assignment linked here
 
 Final Project Week 1
 
