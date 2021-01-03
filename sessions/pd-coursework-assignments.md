@@ -55,12 +55,21 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 ### HTML/CSS Week 3
 
-#### Meet with your Buddy group \(1 hour\)
+#### Meet with your Buddy group \(1 hour\) \(
 
 1. Meet with your buddy group members and your PD Buddy Mentor \(if possible\). Discuss the Honeycomb assignments and how you have found the feedback.
 2. Share any your weekly schedules/timetables. Discuss how you are finding the time management with the classes and homework during the week.
 3. Give each other advice and tips on how to work effectively during the week and over the holiday break.
 4. After you have had your meeting come back here and mark done.
+
+Watch 'How to conduct yourself professionally'
+
+{% embed url="https://www.youtube.com/watch?v=QphclWBVzGQ" %}
+
+1. Write in your Reflective Journal what behaviours you learned were new to you. 
+2. Write what behavours you are currently doing that need to stop. 
+3. Write what behaviours you need to start doing or doing more so you can appear more professional. 
+4. What behaviours do you think you need to change or adapt for an online/ remote work environment like CodeYourFuture?
 
 ### Week 5- PD Day 2 Effective Communication Assignments linked [here](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-2/coursework)
 
@@ -70,7 +79,7 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 This week you are going to start thinking more about your employability skills. Why do we have PD Day's and coursework?
 
-1. Watch this video - [https://youtu.be/\_bZi-34IFxs](https://youtu.be/_bZi-34IFxs) 
+1. Watch this video 'Top Resume Skills'- [https://youtu.be/\_bZi-34IFxs](https://youtu.be/_bZi-34IFxs) 
 2. Reflect in your Learning Journal/Diary Based on the video, what are the hard skills/ soft skills you have already developed? Write a list 
 3. What are the ones you think you need to develop more over the next 6-9 months? Write a list 
 4. What hard/soft skills are you currently working on developing? 
