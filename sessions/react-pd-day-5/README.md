@@ -1,4 +1,11 @@
-# React - PD Day 5 Preparing for the Jobmarket
+---
+description: >-
+  This PD day takes place after the React Module. Trainees will learn about the
+  CYF process of getting a job and the tools to support getting into a new
+  career.
+---
+
+# PD Day 5 Preparing for the Jobmarket
 
 ## Prior Knowledge 
 

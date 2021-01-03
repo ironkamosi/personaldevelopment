@@ -52,7 +52,7 @@
     * [Leadership Compass Score Sheet](sessions/js2-pd-day-4/leadership-compass-goal-setting/leadership-compass-score-sheet.md)
   * [Honeycomb - Presenting for Success](sessions/js2-pd-day-4/untitled-3.md)
   * [Coursework](sessions/js2-pd-day-4/coursework.md)
-* [React - PD Day 5 Preparing for the Jobmarket](sessions/react-pd-day-5/README.md)
+* [PD Day 5 Preparing for the Jobmarket](sessions/react-pd-day-5/README.md)
   * [Retro](sessions/react-pd-day-5/untitled-6.md)
   * [Developer Skills - Agile and Scrum Intro](sessions/react-pd-day-5/untitled-5.md)
   * [Guest Speaker - Understanding how the CYF job process works](sessions/react-pd-day-5/untitled-4.md)
