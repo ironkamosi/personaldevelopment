@@ -8,6 +8,27 @@ description: >-
 
 ## Confidence
 
+Take the [MindTools Self Confidence Assessment](https://www.mindtools.com/pages/article/newTCS_84.htm)
+
+Based on your score do you need to **Build** Your Self Confidence, **Improve** Your Self Confidence or **Nurture** Your Self Confidence? 
+
+Write in your Learning Journal what steps you will take to build, improve or nurture your self confidence. 
+
+#### 
+
+In your Learning Journal/Diary answwer the following questions:
+
+* What is trust?How important is it in our lives?
+* What did a recent survey by kaplanprofessional say about trust?
+* Why do we need to be confident in the workspace?
+* What do you realise that causes low confidence in you?
+* What is SWOT ?
+* What is the difference between Rational Thinking / Positive Thinking?
+* What does Bernice Moore's Theory says?
+* Follow the steps for SOS \(Stop, Observe, Shift\), the negative self-talk stopping technique. Also explain the concept of impostor syndrome for awareness!
+
+
+
 ## Pitches and Presentations \(Read, Write, Hear, Do\)‌
 
 1. Take your notes and turn them into a one-minute talk :
