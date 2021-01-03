@@ -1,5 +1,7 @@
 ---
-description: JS 1
+description: >-
+  This PD day takes place after the JS 1 Module. Trainees will be introduced to
+  important skills needed for the workplace.
 ---
 
 # PD Day 3 -Preparing for the Workplace
@@ -10,7 +12,7 @@ All trainees should have signed the [Student Agreement](https://docs.codeyourfut
 
 All trainees should have completed PD Day 1 and 2
 
-All trainees should have completed PD coursework from weeks 1-
+All trainees should have completed PD coursework 
 
 All trainees should have recieved feedback on their Honeycomb cell **'Working With My Team'** 
 
