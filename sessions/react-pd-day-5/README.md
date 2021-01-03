@@ -75,6 +75,16 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 * To help trainees learn how to structure their CV
 * To support trainees in improving their CV's
 
+{% embed url="https://docs.google.com/presentation/d/1LTmp5PBsZ6NMJ50AtHhsDIVRv44fhaP0T49VJ7UY-8M/edit?usp=sharing" %}
+
+## Session 6 \(30 mins- 40mins\)
+
+### Job Application/ CV Workshop
+
+* To help trainees learn about how to make a job application
+* To help trainees learn how to structure their CV
+* To support trainees in improving their CV's
+
 ## Independent Practice- Coursework introduction ‌ <a id="independent-practice-coursework-introduction"></a>
 
 See the coursework [here](https://personaldevelopment.codeyourfuture.io/sessions/js2-pd-day-4/coursework).
