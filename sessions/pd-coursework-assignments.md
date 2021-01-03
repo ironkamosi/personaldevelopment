@@ -492,7 +492,7 @@ DB Week 2
 
 DB Week 3
 
-### Week 30-PD Day 8 Presentation Skills \(2\) Assignment linked here
+### Week 30-PD Day 8 Presentation Skills \(2\) Assignment linked [here](https://personaldevelopment.codeyourfuture.io/sessions/final-projects-1-pd-day-7/coursework)
 
 Final Project Week 1
 
