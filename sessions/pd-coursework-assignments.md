@@ -158,7 +158,7 @@ c. Give your personal reflection on each source
 * why does this matter? why is it important? 
 * what did you learn?
 
-### Week 9- PD Day 3 Preparing for the Workplace Assignments linked here
+### Week 9- PD Day 3 Preparing for the Workplace Assignments linked [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/untitled)
 
 ### JS2 Week 1
 
