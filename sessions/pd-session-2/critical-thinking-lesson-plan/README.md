@@ -1,4 +1,4 @@
-# Lesson Plan- Critical Thinking
+# Critical Thinking
 
 **Lesson length: 45-60 minutes**
 

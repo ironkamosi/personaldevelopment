@@ -18,7 +18,7 @@
   * [Coursework](sessions/induction-week/coursework.md)
 * [PD Day 2 Effective Communication](sessions/pd-session-2/README.md)
   * [4 L's Retrospective](sessions/pd-session-2/4-ls-retrospective.md)
-  * [Lesson Plan- Critical Thinking](sessions/pd-session-2/critical-thinking-lesson-plan/README.md)
+  * [Critical Thinking](sessions/pd-session-2/critical-thinking-lesson-plan/README.md)
     * [Critical Thinking Worksheet- Trainees](sessions/pd-session-2/critical-thinking-lesson-plan/critical-thinking-worksheet.md)
     * [Critical Thinking Worksheet- Volunteers](sessions/pd-session-2/critical-thinking-lesson-plan/untitled.md)
     * [Critical Thinking Coursework - Volunteers](sessions/pd-session-2/critical-thinking-lesson-plan/critical-thinking-coursework-volunteers.md)
