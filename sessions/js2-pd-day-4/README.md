@@ -42,6 +42,8 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 
 
 
+
+
 ## Session 4 \(30 mins- 40mins\)
 
 ### Structuring and delivering a 1-minute pitch
