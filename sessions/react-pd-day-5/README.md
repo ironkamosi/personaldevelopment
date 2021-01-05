@@ -22,6 +22,8 @@ Engaging Games \(No icebreaker needed beforehand\)
 #### COOPERATIVE COUNTING and GESTURE RELAY 
 
 * To build group cooperation, focus, and concentration
+* To encourage active participation 
+* To demonstrate the importance of each individual in the group
 
 Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js2-pd-day-4/retro-whats-your-superpower). 
 
