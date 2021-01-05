@@ -45,7 +45,7 @@ About 1 hour
 
 #### Materials
 
-* Roles in Tech \(slides\)
+* Roles in Tech \([slides](https://docs.google.com/presentation/d/1_a2cINS59aj93scDX5PFgPqWR_m8gZ8pyctgpPE8U8Y/edit?usp=sharing)\)
 
 #### Common Mistakes / Misconceptions
 
