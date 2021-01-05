@@ -8,9 +8,9 @@ All trainees should have completed PD coursework
 
 All trainees should have recieved feedback on their Honeycomb cell **'Learning from Failure'** 
 
-## Session 1 \(45 mins- 1 hour\)
+## Session 1 \(20 mins - 25 mins\)
 
-### Retrospective - 
+### Engaging Games - 
 
 
 
