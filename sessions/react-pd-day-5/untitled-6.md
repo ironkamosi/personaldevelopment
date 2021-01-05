@@ -10,7 +10,7 @@ From: Online Games to Get Your Class Engaged & Connected. Developed by Jason Jac
 
 
 
-### COOPERATIVE COUNTING  
+### Activity 1- COOPERATIVE COUNTING  
 
 **Objective:** This activity builds group cooperation, focus, and concentration.  
  
@@ -42,7 +42,7 @@ Invite students to share:
 
 
 
-### GESTURE RELAY   
+### Activity 2- GESTURE RELAY   
 
 **Objective:**  Builds group focus and cooperation, encourages active participation and demonstrates the importance of each individual in the group pattern. 
 
