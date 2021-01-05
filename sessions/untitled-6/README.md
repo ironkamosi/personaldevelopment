@@ -8,11 +8,17 @@ All trainees should have completed PD coursework
 
 All trainees should have recieved feedback on their Honeycomb cell **'Learning from Failure'** 
 
-## Session 1 \(20 mins - 25 mins\)
+## Session 1 \(20 mins- 25 mins\)
 
-### Engaging Games - 
+### Engaging Games \(No icebreaker needed beforehand\) 
 
+CONNECT ME and MOVE TOGETHER 
 
+* To promote empathy and connection
+* To build visual focus and concentration
+* To facilitate non-verbal connection 
+
+Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/react-pd-day-5/engaging-games). 
 
 ## Session 2 \(30 mins- 40mins\)
 
