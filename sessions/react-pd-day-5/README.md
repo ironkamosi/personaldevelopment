@@ -25,7 +25,7 @@ Engaging Games \(No icebreaker needed beforehand\)
 * To encourage active participation 
 * To demonstrate the importance of each individual in the group
 
-Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js2-pd-day-4/retro-whats-your-superpower). 
+Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/react-pd-day-5/engaging-games). 
 
 ## Session 2 \(30 mins- 40mins\)
 
