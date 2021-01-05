@@ -17,9 +17,9 @@ All trainees should have recieved feedback on their Honeycomb cell **'Presenting
 
 ## Session 1 \(20 mins- 25 mins\)
 
-Engaging Games \(No icebreaker needed beforehand\) 
+### Engaging Games \(No icebreaker needed beforehand\) 
 
-#### COOPERATIVE COUNTING and GESTURE RELAY 
+COOPERATIVE COUNTING and GESTURE RELAY 
 
 * To build group cooperation, focus, and concentration
 * To encourage active participation 
