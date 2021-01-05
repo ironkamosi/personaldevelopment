@@ -61,7 +61,7 @@
   * [Honeycomb - Learning From Failure](sessions/react-pd-day-5/untitled-1.md)
   * [Coursework](sessions/react-pd-day-5/untitled.md)
 * [Node- PD Day 6 Interview Skills](sessions/untitled-6/README.md)
-  * [Retro](sessions/untitled-6/retro-1.md)
+  * [Engaging Games](sessions/untitled-6/retro-1.md)
   * [Developer skills- How to give a good interview](sessions/untitled-6/retro.md)
   * [Experiences Bank](sessions/untitled-6/untitled.md)
   * [Resilience](sessions/untitled-6/coursework.md)
