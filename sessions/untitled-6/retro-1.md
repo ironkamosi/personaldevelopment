@@ -10,7 +10,7 @@ From: Online Games to Get Your Class Engaged & Connected. Developed by Jason Jac
 
 
 
-### CONNECT ME
+### Activity 1 - CONNECT ME
 
 **Objective:** This is a fun writing activity that can promote empathy and connection.
 
@@ -43,7 +43,7 @@ Invite students to share:
 
 
 
-### MOVE TOGETHER  
+### Activity 2- MOVE TOGETHER  
 
   
 **Objective:** This embodied, team-building activity builds visual focus and concentration, and invites non-verbal connection.
