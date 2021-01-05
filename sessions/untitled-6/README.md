@@ -1,3 +1,10 @@
+---
+description: >-
+  This PD day takes place after the Node Module. Trainees will learn about the
+  CYF process of getting a job and the tools to support getting into a new
+  career.
+---
+
 # Node- PD Day 6 Interview Skills
 
 ## Prior Knowledge  
