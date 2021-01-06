@@ -5,7 +5,7 @@ description: >-
   career.
 ---
 
-# Node- PD Day 6 Interview Skills
+# Day 6 - Interview Skills
 
 ## Prior Knowledge  
 

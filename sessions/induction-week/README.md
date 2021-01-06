@@ -5,7 +5,7 @@ description: >-
   optimise their learning process.
 ---
 
-# PD Day 1 -Learning to Learn
+# Day 1 - Learning to Learn
 
 ## Prior Knowledge
 

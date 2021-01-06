@@ -4,7 +4,7 @@ description: >-
   communication skills essential for a developer.
 ---
 
-# PD Day 2 Effective Communication
+# Day 2 - Effective Communication
 
 ## Prior Knowledge 
 

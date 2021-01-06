@@ -4,7 +4,7 @@ description: >-
   important skills needed for the workplace.
 ---
 
-# PD Day 3 -Preparing for the Workplace
+# Day 3 - Preparing for the Workplace
 
 ## Prior Knowledge 
 

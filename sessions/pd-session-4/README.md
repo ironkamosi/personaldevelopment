@@ -4,7 +4,7 @@ description: >-
   tools and techniques to develop their presentation skills.
 ---
 
-# PD Day 4 Presentation Skills \(1\)
+# Day 4 - Presentation Skills
 
 ## Prior Knowledge  
 

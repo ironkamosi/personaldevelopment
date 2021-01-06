@@ -1,4 +1,4 @@
-# Databases- PD Day 7 Working in Teams
+# Day 7 - Working in Teams
 
 ## Prior Knowledge  
 

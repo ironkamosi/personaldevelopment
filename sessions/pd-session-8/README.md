@@ -1,4 +1,4 @@
-# Final Projects 1- PD Day 8 Presentation Skills \(2\) Demo Day Prep
+# Day 8 - Presentation Skills - Demo Day Prep
 
 ## Prior Knowledge  
 

@@ -5,7 +5,7 @@ description: >-
   career.
 ---
 
-# PD Day 5 Preparing for the Jobmarket
+# Day 5 - Preparing for the Job Market
 
 ## Prior Knowledge 
 
