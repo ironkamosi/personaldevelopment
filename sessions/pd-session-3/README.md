@@ -30,9 +30,9 @@ In a futurespective, we imagine that we’re in the future, and we look back to 
 
 ### Developer skills - Asking good questions and getting the right help
 
-* To introduce trainnes to the ways software engineers learn on the job
-* To introduce tainees to the resources available to software engineers for getting "unstuck"
-* To teach trainees how software engineers ask questions when they need help
+* To introduce trainnes to the ways developers learn on the job
+* To introduce tainees to the resources available to developers for getting "unstuck"
+* To teach trainees how developers ask questions when they need help
 
 
 
