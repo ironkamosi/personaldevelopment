@@ -12,7 +12,7 @@ Facebook has a huge amount of data on you - whose profiles you engage with, how 
 
 But just one dataset - what you've 'liked' - can reveal a lot about a person on its own. The University of Cambridge's Psychometrics Centre has built a tool that uses your likes, and no other data, to build up a picture of your personality.
 
-The ["Apply Magic Sauce" tool](http://applymagicsauce.com/you.html) uses the [Facebook](https://www.telegraph.co.uk/technology/facebook/) likes to estimate your gender, intelligence, life satisfaction, sexual preference and political and religious preferences, as well as guessing at your education and relationship status.
+The ["Apply Magic Sauce"](https://applymagicsauce.com/demo) tool uses the [Facebook](https://www.telegraph.co.uk/technology/facebook/) likes to estimate your gender, intelligence, life satisfaction, sexual preference and political and religious preferences, as well as guessing at your education and relationship status.
 
 It also puts you on spectra for the "Big 5" personality traits of openness, conscientiousness, extraversion, agreeableness and neuroticism. These tell you, for example, wheter you are impulsive or organised, conservative or liberal and so on.
 
@@ -24,9 +24,11 @@ For example, Facebook already has your gender details, activity, name, relations
 
 #### To take the test
 
-Visit the [Apply Magic Sauce website here](http://applymagicsauce.com/you.html) and select "Try it Out".
+Visit the [Apply Magic Sauce website here](http://applymagicsauce.com/you.html) and click on 'Upload your Facebook Data'.
 
-You'll be asked to log in via Facebook. The website says it only collects your profile's LikeIDs, but will not store any of your information once the test is complete.
+If you don't have Facebook you can choose 'Upload Your Twitter or LinkedIn Data'
+
+The website says it only collects your profile's LikeIDs, but will not store any of your information once the test is complete.
 
 Once you've logged in to your Facebook account, it shows the results. You can take further tests to narrow your personality down further, and in some cases see how you compare to the average.
 
