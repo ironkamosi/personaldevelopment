@@ -8,12 +8,10 @@ description: >-
 
 #### Projected Time
 
-About 2 hours
+About 1 hour
 
-* 20 minutes for video walkthrough of slides
-* 7 minutes for "How to Deal with People You Don't Like at Work"
-* 6 minutes for "Top 10 Tips for Early Career Professionals" video
-* 30 minutes for Group Practice
+* 20 minutes for walkthrough of slides
+* 15 minutes for Group Practice
 * 20 minutes for Independent Practice
 
 
