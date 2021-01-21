@@ -7,7 +7,7 @@ description: >-
 
 # PD Coursework Assignments
 
-### Week 0- PD Day 1 Assignments linked [here](https://personaldevelopment.codeyourfuture.io/sessions/induction-week/coursework) 
+## Week 0- PD Day 1 Assignments linked [here](https://personaldevelopment.codeyourfuture.io/sessions/induction-week/coursework) 
 
 ### Git/ Github Week
 
@@ -72,7 +72,7 @@ Every week you will be requesting feedback from 3 people to help you get more in
 3. Write what behaviours you need to start doing or doing more so you can appear more professional. 
 4. What behaviours do you think you need to change or adapt for an online/ remote work environment like CodeYourFuture?
 
-### Week 5- PD Day 2 Effective Communication Assignments linked [here](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-2/coursework)
+## Week 5- PD Day 2 Effective Communication Assignments linked [here](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-2/coursework)
 
 ### JS1 Week 1
 
