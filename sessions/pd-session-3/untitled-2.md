@@ -84,7 +84,7 @@ Here's a template for asking questions: "I could use some help. I’m using this
 #### Group Practice
 
 1. Pick a programming concept that you have difficulty with or are trying to learn. Use StackOverflow to see if you can get some good information about it.
-2. Role play the sample script with a partner.
+2. Role play the template for asking questions sample script with a partner.
 3. Create a note on your computer which contains a prioritized list of all the problem solving resources you have at your disposal.
 
 #### 
