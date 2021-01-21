@@ -75,7 +75,7 @@ Here's a template for asking questions: "I could use some help. I’m using this
 * How to use StackOverflow
 * How to skim and use blog post tutorials
 
-#### Independent Practice
+#### Group Practice
 
 1. Pick a programming concept that you have difficulty with or are trying to learn. Use StackOverflow to see if you can get some good information about it.
 2. Role play the sample script with partner.
