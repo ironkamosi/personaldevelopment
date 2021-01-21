@@ -26,7 +26,7 @@ About 1 hour, 15 min
 * See \(videos and slides\)
 * Hear \(videos\)
 * Write \(Independent Practice\)
-* Do \(Independent Practice, Check for Understanding\)
+* Do \(Group Practice, Check for Understanding\)
 
 #### Motivation
 
