@@ -78,7 +78,7 @@ In a futurespective, we imagine that we’re in the future, and we look back to 
 
 
 
-## Session 7 \(45 mins- 1 hour\)
+## Session 7
 
 ### Honeycomb Introduction - Maximising my time cell and feedback
 
