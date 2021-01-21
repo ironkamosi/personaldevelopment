@@ -31,9 +31,11 @@ About 1 hour, 15 min
 #### Motivation
 
 The ability to ask questions that lead to useful answers is a must-have skill for developers because they are constantly solving problems.   
-Asking the right questions helps developers arrive at solutions more quickly and make faster progress.
-
-It enables you to be better at your job. Particularly in today’s fast-moving and rapidly-changing workplace, it’s critical to keep asking questions about the evolving nature of the work you do. In effect, today we must all continuously ask some version of the questions, How is my job changing? and How might I do it better? One way to demonstrate that you are open to change, and willing to learn and adapt, is by asking questions --   
+Asking the right questions helps developers arrive at solutions more quickly and make faster progress. It enables you to be better at your job. Particularly in today’s fast-moving and rapidly-changing workplace, it’s critical to keep asking questions about the evolving nature of the work you do.   
+  
+In effect, today we must all continuously ask some version of the questions, How is my job changing? and How might I do it better?   
+  
+One way to demonstrate that you are open to change, and willing to learn and adapt, is by asking questions --   
 about how your industry or   
 about how your specific job may be evolving over time,   
 about what is expected of you and how those expectations may also be changing.   
@@ -82,7 +84,7 @@ Here's a template for asking questions: "I could use some help. I’m using this
 #### Group Practice
 
 1. Pick a programming concept that you have difficulty with or are trying to learn. Use StackOverflow to see if you can get some good information about it.
-2. Role play the sample script with partner.
+2. Role play the sample script with a partner.
 3. Create a note on your computer which contains a prioritized list of all the problem solving resources you have at your disposal.
 
 #### 
