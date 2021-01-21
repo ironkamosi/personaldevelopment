@@ -10,7 +10,7 @@ description: >-
 
 #### Projected Time
 
-About 1 hour, 15 min
+About 45- 50 mins
 
 * 27 minutes for walkthrough of slides
 * 20 minutes for Group Practice
