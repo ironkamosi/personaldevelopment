@@ -74,6 +74,8 @@ In a futurespective, we imagine that we’re in the future, and we look back to 
 * To help help trainees uncover behaviours which limit oppotunitites for themselves or others
 * To help create an inclusive community at CYF 
 
+{% embed url="https://docs.google.com/presentation/d/1gk-mLW\_XpOYaEgDQX\_s9NPulyuu6Fnd0szZc9Sv4WRY/edit?usp=sharing\\" %}
+
 
 
 ## Session 7 \(45 mins- 1 hour\)
