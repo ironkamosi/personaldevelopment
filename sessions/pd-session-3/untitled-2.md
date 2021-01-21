@@ -13,7 +13,7 @@ description: >-
 About 1 hour, 15 min
 
 * 27 minutes for walkthrough of slides
-* 40 minutes for Group Practice
+* 20 minutes for Group Practice
 
 
 
