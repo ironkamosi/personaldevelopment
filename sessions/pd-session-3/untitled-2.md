@@ -56,8 +56,6 @@ It enables you to be better at your job. Particularly in today’s fast-moving a
 
 #### Lesson
 
-Video walkthrough of slides [Asking Good Questions \(27 min\)](https://drive.google.com/file/d/1MS3b1Jbtui-gVtT5z8xOM6I8a1b0jG3v/view?usp=sharing)
-
 Read through topic slides Asking Good Questions
 
 Here's a template for asking questions: "I could use some help. I’m using this tech stack: **\_\_**. I want to **\_\_** to accomplish **\_\_**. I searched for **\_\_**and I read **\_\_** and tried **\_\_**. I’m getting this error/result: **\_\_**. I think the problem could be **\_\_**. Here’s a link to my code: **\_\_**. Do you have any suggestions for me?"
