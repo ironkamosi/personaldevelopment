@@ -59,10 +59,7 @@ Importance to professionalism in workplace:
 
 #### Materials
 
-* Professionalism \(slides\)
-* [Being Professional at Work \(video\)](https://www.youtube.com/watch?v=QphclWBVzGQ)
-* [How to Deal with People You Don't Like at Work \(video\)](https://www.youtube.com/watch?v=Pm8kU37u0Ho)
-* [Top 10 Tips for Early Career Professionals \(video\)](https://www.youtube.com/watch?v=bx6HTcQ8i2U)
+* [Professionalism \(slides\)](https://docs.google.com/presentation/d/1Y_OOZrMD-XxlBpb4fdqY22hSQtopQRYWqj7cq25JO5w/edit?usp=sharing)
 
 #### Lesson
 
