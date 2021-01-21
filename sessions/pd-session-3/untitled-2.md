@@ -10,14 +10,12 @@ description: >-
 
 #### Projected Time
 
-About 2 hours, 15 min
+About 1 hour, 15 min
 
-* 27 minutes for video walkthrough of slides
-* 9 minutes for StackOverflow video
-* 16 minutes for Documentation video
-* 20 minutes to read Julia Evans' article
-* 40 minutes for Independent Practice
-* 15 minutes to check for understanding
+* 27 minutes for walkthrough of slides
+* 40 minutes for Group Practice
+
+
 
 #### Prerequisites
 
