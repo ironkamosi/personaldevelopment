@@ -46,10 +46,6 @@ In a futurespective, we imagine that we’re in the future, and we look back to 
 
 ### Guest speakers- CYF Graduate and Employer - Importance of PD and relevance to getting a job/graduating
 
-
-
-
-
 ## Session 4 \(45 mins- 1 hour\)
 
 ### Professionalism
@@ -69,10 +65,6 @@ In a futurespective, we imagine that we’re in the future, and we look back to 
 * To introduce the idea of knowing what you are good at
 * To show how useful keping a Brag Diary will be when doing job interviews and ansering competency questions
 * To further develop self reflection skills
-
-
-
-
 
 ## Session 6 \(40 - 45mins\)
 
