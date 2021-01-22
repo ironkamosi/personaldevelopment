@@ -19,7 +19,7 @@ About 45- 50 mins
 
 #### Prerequisites
 
-[Learning to Learn lesson](https://github.com/Techtonica/curriculum/blob/main/learning-to-learn/learning-to-learn.md)
+Learning to Learn lesson
 
 #### Learning styles represented
 
