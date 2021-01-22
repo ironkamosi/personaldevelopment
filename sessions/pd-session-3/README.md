@@ -62,7 +62,7 @@ In a futurespective, we imagine that we’re in the future, and we look back to 
 
 ### Brag Diary
 
-* To introduce the idea of knowing what you are good at
+* To introduce the idea of knowing your strengths and achievements 
 * To show how useful keping a Brag Diary will be when doing job interviews and ansering competency questions
 * To further develop self reflection skills
 
