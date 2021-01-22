@@ -22,6 +22,11 @@ All trainees should have recieved feedback on their Honeycomb cell **'Working Wi
 
 In a futurespective, we imagine that we’re in the future, and we look back to past events.
 
+* To look into the future your upcoming work, projects or events 
+* To decide what your goals are
+* To imagine what success will look like
+* To figure out what could cause them problems
+
 {% embed url="https://docs.google.com/presentation/d/16LZe0Qnn5Ml0BXnViBy\_zCKQrO0cjJBMro7XXSiST1I/edit?usp=sharing" %}
 
 
