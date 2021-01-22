@@ -45,7 +45,7 @@ i\) Unconscious bias \(also known as implicit bias\) - a social stereotype about
 
 ii\) Privilege - generally "unearned" social advantage \(born with, given\). Social advantages include education, mental health, child care, race, religion, family structure, access to transportation.
 
-* Example: Christian privilege means that holidays such as Christmas are recognized and practiced in December.
+* Example: Christian privilege means that holidays such as Christmas are recognised and practiced in December.
 
 iii\) Allyship - a member of a social group that enjoys some privilege that is working to end oppression and understand their own privilege. In other words, an ally is anyone who supports or empowers another marginalized person or group.
 
