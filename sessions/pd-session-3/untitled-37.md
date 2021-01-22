@@ -55,7 +55,7 @@ iii\) Allyship - a member of a social group that enjoys some privilege that is w
 iv\) Microaggressions - a comment or action that subtly and often unconsciously or unintentionally expresses a prejudiced attitude toward a member of a marginalized group. Examples include, "You don't look like an engineer" or "Where are you really from"?
 
 * When you are the target: Criticize the microaggression, not the microaggressor, by explaining how the statement or behavior made you feel.
-* When you are the microaggressor: Try not to be defensive - the person is taking a risk by sharing the information; acknowledge the other person's hurt and apologize.
+* When you are the microaggressor: Try not to be defensive - the person is taking a risk by sharing the information; acknowledge the other person's hurt and apologise.
 
 v\) Empathy - a person's ability to recognize and share emotions of another; involves, first, seeing someone else’s situation from their perspective, and, second, sharing their emotions, including, if any, their distress
 
