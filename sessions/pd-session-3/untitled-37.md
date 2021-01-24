@@ -71,9 +71,9 @@ Strategies to combat - Understand the context and evaluate your options; address
 
 Covering
 
-Staff from diverse backgrounds may try to assimilate into the company culture. They trying to fit in.  
+Staff from diverse backgrounds may try to assimilate into the company culture. They trying to fit in. They may do this in response to frequently experiencing microaggressions.   
   
-They can do this in the following ways:
+This can happen in the following ways:
 
 * **Appearance**- trying to blend into the mainstream through how you present yourself  including how you dress, how you cut or style your hair. 
   * Example: A staff member with natural hair might start straightening it. 
