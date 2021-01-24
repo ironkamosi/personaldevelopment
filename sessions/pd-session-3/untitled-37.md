@@ -63,6 +63,8 @@ Microaggressions - a comment or action that subtly and often unconsciously or un
 * When you are the target: Criticise the microaggression, not the microaggressor, by explaining how the statement or behavior made you feel.
 * When you are the microaggressor: Try not to be defensive - the person is taking a risk by sharing the information; acknowledge the other person's hurt and apologise.
 
+Strategies to combat - Understand the context and evaluate your options; address the inappropriate comment; take care of yourself.
+
 **Slides 21 - 23**
 
 Covering
