@@ -33,7 +33,7 @@ Being aware of biases can help uncover whether you have been limiting yourself w
 
 #### Lesson
 
-* [Diversity & Inclusion Slides](https://docs.google.com/presentation/d/1_QyXF5TGja-PhSgJUiuFKqLafbyQ_q3gvzEbDMkdBIg/edit#slide=id.p)
+* [Diversity & Inclusion Slides](https://docs.google.com/presentation/d/1gk-mLW_XpOYaEgDQX_s9NPulyuu6Fnd0szZc9Sv4WRY/edit?usp=sharing)
 
 Diversity is an action and inclusion is a collective experience. Both is more powerful than either are on their own.
 
