@@ -56,42 +56,46 @@ Privilege - generally "unearned" social advantage \(born with, given\). Social a
 
 * Example: Christian privilege means that holidays such as Christmas are recognised and practiced in December.
 
-**Covering**  
-
-
-**Staff from diverse backgrounds may try to assimilate by becoming part of the company culture. Trying to fit in.  
-  
-They do this in the following ways:**  
-
-
-**Appearance- trying to blend into the mainstream through how you present yourself  including how you dress, how you cut or style your hair. A staff member with natural hair might start straightening it.** 
-
-**Affiliation: avoiding behaviors widely associated with their identity, culture, or group. A staff member might avoid bringing food from their home country to eat for lunch.** 
-
-**Advocacy -  avoid sticking up for their group.  A LGBT staff member might not speak up for trans rights.**
-
-**Association - Avoiding people who are in the groups you are trying to cover. A staff member might avoid the support staff of the company like cleaners or cooks who are in the same group**  
-  
-
-
-**Can anyone think of a type of covering they might do?**   
-
-
-**Companies need to work to make a culture where people’s differences are celebrated and staff don’t feel ashamed to show they are part of a particular group.**   
-  
-
-
-i
-
-iii\) Allyship - a member of a social group that enjoys some privilege that is working to end oppression and understand their own privilege. In other words, an ally is anyone who supports or empowers another marginalized person or group.
-
-* Good practices: know the issues and know yourself \(and your biases\); understand that you can make mistakes too; listen more and speak less; do not expect to be educated by others \(do the research yourself\); be accountable for mistakes; our needs are secondary to the group that you seek to work with
-* Examples: Ensuring inclusivity on lunch/dinner invitations; stopping an inappropriate joke; encouraging broad participation in team discussion
+Slides 16- 20
 
 iv\) Microaggressions - a comment or action that subtly and often unconsciously or unintentionally expresses a prejudiced attitude toward a member of a marginalised group. Examples include, 'You sound really articulate' or 'Do you even know what TikToc is'?
 
 * When you are the target: Criticise the microaggression, not the microaggressor, by explaining how the statement or behavior made you feel.
 * When you are the microaggressor: Try not to be defensive - the person is taking a risk by sharing the information; acknowledge the other person's hurt and apologise.
+
+\*\*\*\*
+
+**Slides 21 - 23**
+
+Covering  
+
+
+Staff from diverse backgrounds may try to assimilate by becoming part of the company culture. Trying to fit in.  
+  
+They do this in the following ways:
+
+* **Appearance**- trying to blend into the mainstream through how you present yourself  including how you dress, how you cut or style your hair. Example: A staff member with natural hair might start straightening it. 
+* **Affiliation**- avoiding behaviors widely associated with their identity, culture, or group. A staff member might avoid bringing food from their home country to eat for lunch.
+* **Advocacy**-  avoid sticking up for their group.  A LGBT staff member might not speak up for trans rights
+* **Association**- Avoiding people who are in the groups you are trying to cover. A staff member might avoid the support staff of the company like cleaners or cooks who are in the same group ****
+
+Companies need to work to make a culture where people’s differences are celebrated and staff don’t feel ashamed to show they are part of a particular group. 
+
+Slides 
+
+iii\) Allyship - a member of a social group that enjoys some privilege that is working to end oppression and understand their own privilege. In other words, an ally is anyone who supports or empowers another marginalised person or group
+
+* Good practices: 
+  * know the issues
+  * know yourself \(and your biases\)
+  * understand that you can make mistakes too
+  * listen more and speak less
+  * do not expect to be educated by others \(do the research yourself\); 
+  * be accountable for mistakes 
+  * your needs are secondary to the group that you seek to work with
+* Examples: Ensuring inclusivity on lunch/dinner invitations; stopping an inappropriate joke; encouraging broad participation in team discussion
+
+
 
 v\) Empathy - a person's ability to recognise and share emotions of another; involves, first, seeing someone else’s situation from their perspective, and, second, sharing their emotions, including, if any, their distress
 
