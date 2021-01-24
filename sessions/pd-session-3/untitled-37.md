@@ -55,7 +55,7 @@ Unconscious bias \(also known as implicit bias\) - a social stereotype about cer
 **Covering**  
 
 
-**Staff from diverse backgrounds may try to assimilate by** [**becom**](https://dictionary.cambridge.org/dictionary/english/become)**ing** [**part**](https://dictionary.cambridge.org/dictionary/english/part) **of the company culture. Trying to fit in.  
+**Staff from diverse backgrounds may try to assimilate by becoming part of the company culture. Trying to fit in.  
   
 They do this in the following ways:**  
 
