@@ -46,7 +46,11 @@ Unconscious bias \(also known as implicit bias\) - a social stereotype about cer
 
 * Example: Name on a CV or resume sets the first impression, affecting the likelihood of getting hired
 
-**Slides 9-**
+**Slides 9-11**
+
+**In Groups / Outgroups** 
+
+**Slides** 
 
 **Covering**  
 
