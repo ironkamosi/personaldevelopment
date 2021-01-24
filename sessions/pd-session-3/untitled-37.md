@@ -51,12 +51,12 @@ iii\) Allyship - a member of a social group that enjoys some privilege that is w
 * Good practices: know the issues and know yourself \(and your biases\); understand that you can make mistakes too; listen more and speak less; do not expect to be educated by others \(do the research yourself\); be accountable for mistakes; our needs are secondary to the group that you seek to work with
 * Examples: Ensuring inclusivity on lunch/dinner invitations; stopping an inappropriate joke; encouraging broad participation in team discussion
 
-iv\) Microaggressions - a comment or action that subtly and often unconsciously or unintentionally expresses a prejudiced attitude toward a member of a marginalised group. Examples include, "You sound really articulate" or "Where are you really from"?
+iv\) Microaggressions - a comment or action that subtly and often unconsciously or unintentionally expresses a prejudiced attitude toward a member of a marginalised group. Examples include, 'You sound really articulate' or 'Do you even know what TikToc is'?
 
 * When you are the target: Criticise the microaggression, not the microaggressor, by explaining how the statement or behavior made you feel.
 * When you are the microaggressor: Try not to be defensive - the person is taking a risk by sharing the information; acknowledge the other person's hurt and apologise.
 
-v\) Empathy - a person's ability to recognize and share emotions of another; involves, first, seeing someone else’s situation from their perspective, and, second, sharing their emotions, including, if any, their distress
+v\) Empathy - a person's ability to recognise and share emotions of another; involves, first, seeing someone else’s situation from their perspective, and, second, sharing their emotions, including, if any, their distress
 
 vi\) Strategies to combat - Understand the context and evaluate your options; address the inappropriate comment; take care of yourself.
 
