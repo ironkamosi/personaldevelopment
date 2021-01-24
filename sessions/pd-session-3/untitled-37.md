@@ -38,9 +38,9 @@ Diversity is an action and inclusion is a collective experience. Both is more po
 
 Does it matter? Yes! Diverse voices = increased creativity, new ideas, greater variety of perspectives and solutions to problems
 
-i\) Unconscious bias \(also known as implicit bias\) - a social stereotype about certain groups of people that individuals form outside their own conscious awareness. These biases may include that instinctive categorization of others such as age, weight, skin color, gender, educational level, disability, sexuality, accent, social status, and job title.
+i\) Unconscious bias \(also known as implicit bias\) - a social stereotype about certain groups of people that individuals form outside their own conscious awareness. These biases may include that instinctive categorisation of others such as age, weight, skin color, gender, educational level, disability, sexuality, accent, social status, and job title.
 
-* Example: Name on a resume sets the first impression, affecting the likelihood of getting hired
+* Example: Name on a CV or resume sets the first impression, affecting the likelihood of getting hired
 
 ii\) Privilege - generally "unearned" social advantage \(born with, given\). Social advantages include education, mental health, child care, race, religion, family structure, access to transportation.
 
