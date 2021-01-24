@@ -56,12 +56,14 @@ Privilege - generally "unearned" social advantage \(born with, given\). Social a
 
 * Example: Christian privilege means that holidays such as Christmas are recognised and practiced in December.
 
-#### Slides 16- 20
+#### Slide 16
 
 Microaggressions - a comment or action that subtly and often unconsciously or unintentionally expresses a prejudiced attitude toward a member of a marginalised group. Examples include, 'You sound really articulate' or 'Do you even know what TikToc is'?
 
 * When you are the target: Criticise the microaggression, not the microaggressor, by explaining how the statement or behavior made you feel.
 * When you are the microaggressor: Try not to be defensive - the person is taking a risk by sharing the information; acknowledge the other person's hurt and apologise.
+
+#### Slides 17- 20
 
 Strategies to combat - Understand the context and evaluate your options; address the inappropriate comment; take care of yourself.
 
