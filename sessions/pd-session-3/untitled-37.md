@@ -26,7 +26,6 @@ Being aware of biases can help uncover whether you have been limiting yourself w
 * Unconscious bias
 * Privilege
 * Allyship
-* Common issues
 * Microaggressions
 * Empathy
 * Strategies to combat
