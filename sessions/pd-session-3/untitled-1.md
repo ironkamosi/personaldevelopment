@@ -116,11 +116,9 @@ The slides follow along with this lesson. Be sure to view the rest of the materi
 1. On their own, each person writes a Slack message to a team member saying they're running late to a meeting. Then, each person shares their message aloud with the group.
 2. On their own, each person writes an email to a manager notifying them that they'll be out of the office on some future date. Then, each person shares their message aloud with the group.
 3. On their own, each person writes an email to a manager notifying them that they won't be finished with a project by the agreed-upon deadline. Then, each person shares their message aloud with the group.
-
-#### Independent Practice
-
-1. Find a partner. Take turns role playing the following scenario: One of you is a team member and you need to tell your manager in person that you'll be missing a week of work next month. The other person is the manager and should express disappointment that the team member will be gone, but also express that you understand. Be sure to switch roles.
-2. Find a partner. Take turns role playing the following scenario: One of you is a team member and you need to tell your manager in person that your project is likely not going to be finished by the agreed-upon deadline. The other person is the manager and should express unhappiness about this, but also work together to come up with a new, reasonable deadline or some other alternative \(reduce the scope of the project or get help from a team member\). Be sure to switch roles.
+4. Pair up and demonstrate for the group. 
+   1. Take turns role playing the following scenario: One of you is a team member and you need to tell your manager in person that you'll be missing a week of work next month. The other person is the manager and should express disappointment that the team member will be gone, but also express that you understand. Be sure to switch roles.
+   2. Take turns role playing the following scenario: One of you is a team member and you need to tell your manager in person that your project is likely not going to be finished by the agreed-upon deadline. The other person is the manager and should express unhappiness about this, but also work together to come up with a new, reasonable deadline or some other alternative \(reduce the scope of the project or get help from a team member\). Be sure to switch roles.
 
 #### 
 
