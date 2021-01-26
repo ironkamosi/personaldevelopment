@@ -47,8 +47,11 @@
 * Read more about the IAT here: [https://implicit.harvard.edu/implicit/education.html](https://implicit.harvard.edu/implicit/education.html)
 * Remeber the purpose of the IAT is to uncover biases that you may not be aware of. The results of the test may be upsetting to some people.  
 * **This part of the assignment is optional.** 
-  * Decide if you want to participate by taking one of the tests. By taking the test you are contributing to scientific research. There is an alternative assignment if you choose not to take the IAT. 
-  * If you do want to participate go to take a test and read all the Preliminary Information [https://implicit.harvard.edu/implicit/takeatest.html](https://implicit.harvard.edu/implicit/takeatest.html)
+  * Decide if you want to participate by taking one of the tests. By taking the test you are contributing to scientific research. There is an alternative assignment if you choose not to take the IAT. You do not have to share the results with anyone else.
+  * If you do want to participate go to take a test and read all the Preliminary Information https://implicit.harvard.edu/implicit/takeatest.html
+  * After reading, if you want to continue then click the words '**I wish to proceed**' at the bottom of the page.
+  * On the next page you have a list of 14 IAT tests. Choose the '**Gender- Career IAT**'
+  * Read the instructions carefully \(more information about how to do the test is here: [https://implicit.harvard.edu/implicit/iatdetails.html](https://implicit.harvard.edu/implicit/iatdetails.html)\)
 * A useful exercise is to imagine positive contact with the group toward whom you may have a bias, after you have taken the IAT. Discuss with another trainee how you would want start a conversation with a member of this group.
 
 #### 
