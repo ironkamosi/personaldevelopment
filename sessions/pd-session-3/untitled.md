@@ -40,7 +40,6 @@
 * A useful exercise is to imagine positive contact with the group toward whom you may have a bias, after you have taken the IAT. Discuss with another trainee how you would want start a conversation with a member of this group.
 * What do you mean by diversity and inclusion?
 * Why is diversity important?
-* What do you know about Project Implicit Bias?
 * What does Microaggression mean?
 
 #### 
