@@ -43,9 +43,12 @@
   * Why is diversity important?
   * What does Microaggression mean?
 
-* In order to be successful in a diverse space it's important to know and understand wht you behave in certain ways or say certain things. You can use a tool like the Implicit Association Test \(IAT\) developed by Harvard University researchers to raise awareness of your unconscious biases. And you can use the results to encourage your self-reflection about particular groups of people. 
+* In order to be successful in a diverse space it's important to know and understand wht you behave in certain ways or say certain things. You can use a tool like the **Implicit Association Test \(IAT\)** developed by Harvard University researchers to raise awareness of your unconscious biases. And you can use the results to encourage your self-reflection about particular groups of people. 
 * Read more about the IAT here: [https://implicit.harvard.edu/implicit/education.html](https://implicit.harvard.edu/implicit/education.html)
-* Decide if you want to participate by taking one of the tests. 
+* Remeber the purpose of the IAT is to uncover biases that you may not be aware of. The results of the test may be upsetting to some people.  
+* **This part of the assignment is optional.** 
+  * Decide if you want to participate by taking one of the tests. By taking the test you are contributing to scientific research. There is an alternative assignment if you choose not to take the IAT. 
+  * If you do want to participate go to take a test and read all the Preliminary Information [https://implicit.harvard.edu/implicit/takeatest.html](https://implicit.harvard.edu/implicit/takeatest.html)
 * A useful exercise is to imagine positive contact with the group toward whom you may have a bias, after you have taken the IAT. Discuss with another trainee how you would want start a conversation with a member of this group.
 
 #### 
