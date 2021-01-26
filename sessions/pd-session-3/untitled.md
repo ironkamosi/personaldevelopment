@@ -58,8 +58,8 @@
     * In order to work on removing this bias you can imagine having a positive interaction with the group.
     * Write how you would want start a conversation with a member of this group.
     * If you like you can also discuss with another trainee or your buddy group
-
-#### 
+* Alternative Unconscious Bias Assignment 
+  * Read and summarise a scientific or popular press article about implicit bias
 
 ## 
 
