@@ -40,7 +40,7 @@ In your Learning Journal/Diary answer the following questions:
 
     Make sure you follow the guide presented in the workshop
 
-2. Pair-off with a classmate that has a different work-style to yours based on the Leadership Compass. 
+2. Pair-off with another trainee that has a different work-style to yours based on the Leadership Compass. 
 3. Organise a time to work together. 
 4. You will then ‘pitch’ your to each other  your 1 minute talks. 
 
@@ -52,6 +52,8 @@ In your Learning Journal/Diary answer the following questions:
 
 
 ## Leadership Compass \(Do, Read, Write\)‌
+
+Need assignment
 
 Go onto the Honeycomb platform and complete your self assessment of **Maximising My Time** cell.  
 
