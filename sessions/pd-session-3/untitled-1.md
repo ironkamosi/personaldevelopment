@@ -18,8 +18,8 @@ About 1 hour
 
 #### Prerequisites
 
-* CYF Student Agreement 
-* CYF Code of Conduct 
+* [CYF Student Agreement](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement) 
+* [CYF Code of Conduct ](https://codeyourfuture.io/about/code-of-conduct/)
 
 #### Motivation
 
