@@ -60,6 +60,12 @@
     * If you like you can also discuss with another trainee or your buddy group
 * Alternative Unconscious Bias Assignment 
   * Read and summarise a scientific or popular press article about implicit bias
+  *  1. Do some research on Implict Bias. 
+    2. You need at least 3 sources. 
+    3. Make sure you are getting your information from reliable sources. 
+    4. After you have done your research, write a reflection in your Learning Journal/Dairy about what you have learned. 
+    5. Post one of your reflective summaries in your work area
+    6. Mark as done
 
 ## 
 
