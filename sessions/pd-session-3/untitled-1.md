@@ -23,7 +23,7 @@ About 1 hour
 
 #### Motivation
 
-CodeYourFuture is a simulated work environment representative of common tech industry offices. Trainees are expected to behave professionally and to interact professionally with their fellow CYF colleagues, volunters and staff. A trainee's level of professionalism is an indicator of how much  consideration for sponsoring companies.
+CodeYourFuture is a simulated work environment representative of common tech industry offices. Trainees are expected to behave professionally and to interact professionally with their fellow CYF colleagues, volunters and staff. A trainee's level of professionalism can earn them contnued support and resources as the course progresses. It is also an important factor for being introduced to hiring companies.
 
 Importance to professionalism in workplace:
 
