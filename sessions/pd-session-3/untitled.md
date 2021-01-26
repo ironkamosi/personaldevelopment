@@ -33,14 +33,19 @@
 
 3. When you have your list. Choose one and write a _Brag Diary_ entry for it. 
 
-## Diversity and Inclusion \| \(Read, Write, Speak\)
+## Diversity and Inclusion \| \(Read, Write, Speak, Watch\)
 
 #### Check for Understanding
 
+* Write a reflection in your Learning Journal answering the following questions: \(do not copy any answers from the presentation or online searches. Write what is your interpretation and understanding\)
+
+  * What do you mean by diversity and inclusion?
+  * Why is diversity important?
+  * What does Microaggression mean?
+
+In order to be successful in a diverse space it's important to know and understand wht you behave in certain ways or say certain things. You can use a tool like the Implicit Association Test \(IAT\)  to raise awareness of your unconscious biases and encourage your self-reflection about particular groups of people. 
+
 * A useful exercise is to imagine positive contact with the group toward whom you may have a bias, after you have taken the IAT. Discuss with another trainee how you would want start a conversation with a member of this group.
-* What do you mean by diversity and inclusion?
-* Why is diversity important?
-* What does Microaggression mean?
 
 #### 
 
