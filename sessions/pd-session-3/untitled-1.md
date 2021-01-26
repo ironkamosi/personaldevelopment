@@ -23,7 +23,7 @@ About 1 hour
 
 #### Motivation
 
-CodeYourFuture is a simulated work environment representative of common tech industry offices. Trainees are expected to behave professionally and to interact professionally with their fellow CYF colleagues, volunters and staff. A trainee's level of professionalism is consideration for sponsoring companies.
+CodeYourFuture is a simulated work environment representative of common tech industry offices. Trainees are expected to behave professionally and to interact professionally with their fellow CYF colleagues, volunters and staff. A trainee's level of professionalism is an indicator of how much  consideration for sponsoring companies.
 
 Importance to professionalism in workplace:
 
@@ -32,7 +32,7 @@ Importance to professionalism in workplace:
 * The sense of Responsibility
 * Mitigates Conflicts
 * Increased Job Satisfaction
-* Personal Growth [\(imarticus.org\)](https://imarticus.org/professionalism-important-workplace/)
+* Personal Growth
 
 #### Objectives
 
@@ -64,12 +64,12 @@ Importance to professionalism in workplace:
 
 Importance to professionalism in workplace:
 
-* Creates Boundaries – Workers who conduct themselves professionally avoid crossing their line with subordinates, superiors or clients
+* Creates Boundaries – Workers who conduct themselves professionally avoid crossing the line with subordinates, superiors or clients
 * Creates an Atmosphere of Improvement – A professional atmosphere is more conducive to success.
-* The sense of Responsibility – In a professional atmosphere, an employee while handling a task, sees the larger purpose, and hence are able to own their actions and take appropriate decisions. One takes pride in performing the tasks assigned to them. This adds to the overall image of not only the employee but also showcases the value by which the organisation stands.
-* Mitigates Conflicts – businesses which promote a professional atmosphere also makes it easier to deal with diverse environments in which subordinates or even clients could have a difference of opinion however they can agree to disagree and come together on common grounds.
+* The sense of Responsibility – In a professional atmosphere, an employee while handling a task, sees the larger purpose, and are able to own their actions and take appropriate decisions. They take pride in performing the tasks assigned to them. This adds to the overall image of not only the employee but also showcases the value by which the organisation stands.
+* Mitigates Conflicts – businesses which promote a professional atmosphere make it easier to deal with conflict. In diverse environments team members or even clients could have a difference of opinion, but they are able to come together on common grounds.
 * Increased Job Satisfaction – Professionalism eliminates stress to a great degree and once that is taken care of an employee thrives in a healthy atmosphere leading to enhanced performance.
-* Personal Growth – Not only in terms of job advancement, but there are a certain dignity and pride in one’s work that develops. You get appreciated for consistently good quality output and that in turn builds your confidence, makes you a more secure person who is then capable of handling difficult situations with refined emotional maturity. [\(imarticus.org\)](https://imarticus.org/professionalism-important-workplace/)
+* Personal Growth – Not only in terms of job advancement, but there are a certain dignity and pride in one’s work that develops. You get appreciated for consistently good quality output and that in turn builds your confidence, makes you a more secure person who is then capable of handling difficult situations with refined emotional maturity.
 
 The slides follow along with this lesson. Be sure to view the rest of the materials section as well.
 
