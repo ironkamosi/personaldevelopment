@@ -20,7 +20,6 @@ About 1 hour
 
 * CYF Student Agreement 
 * CYF Code of Conduct 
-* [Diversity, Inclusion & Implicit Bias](https://github.com/Techtonica/curriculum/blob/main/diversity-inclusion-bias/inclusion.md)
 
 #### Motivation
 
