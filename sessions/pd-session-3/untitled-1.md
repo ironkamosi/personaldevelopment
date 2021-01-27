@@ -96,7 +96,7 @@ The slides follow along with this lesson. Be sure to view the rest of the materi
     * You should treat everyone respectfully even if you don't even like them
     * Make sure you submit your assignment and given task timely, ensure yourself that you have enough skills and tools for the assigned task or work, if you don't have just feel free to ask your colleagues and take their help
     * If you can’t make a deadline, let those affected know as soon as you realize it
-  * Leaving at the end fo the day
+  * Leaving at the end of the day
     * Companies expect you to put in 8 good hours of work each day.
       * Plan to be at work for 9 hours, since lunch takes up 1 extra hour.
       * Finish the tasks you were assigned for the day before you go home.
