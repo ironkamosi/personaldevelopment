@@ -80,8 +80,8 @@ The slides follow along with this lesson. Be sure to view the rest of the materi
     * How they are regarded in the industry by others tells about their professional behaviour
   * Speak Professionally - Don't use swear words and foul language at workplace - Think before you speak, someone maybe offended by something which you think is funny - Communicate with your colleagues with the language which is primary of your workplace
   * Dress Professionally
-    * No Profanity / insensitive language/images on clothes
-    * Pants should neither be tight not baggy and should not be ripped, regardless if they are in fashioin
+    * No swear words / insensitive language/images on clothes
+    * Trousers should neither be tight not baggy and should not be ripped, regardless if they are in fashioin
     * Clothes should be free from stains and wrinkles and having matching socks
     * Workout clothes and pajamas are not allowed
     * Guidelines for women
