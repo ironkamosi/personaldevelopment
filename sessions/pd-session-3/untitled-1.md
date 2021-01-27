@@ -46,9 +46,9 @@ Importance to professionalism in workplace:
 #### Specific Things to Learn
 
 * Dictionary definition of a professional, and an interpretation of this definition
+* Why professionalism is valued
 * Myths about behaving professionally
 * What it means to behave professionally
-* Why professionalism is valued
 * Speaking professionally
 * Dressing professionally
 * Music in the workplace
