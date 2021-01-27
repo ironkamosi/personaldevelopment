@@ -82,7 +82,7 @@ The slides follow along with this lesson. Be sure to view the rest of the materi
   * Dress Professionally
     * No swear words / insensitive language/images on clothes
     * Trousers should neither be tight not baggy and should not be ripped, regardless if they are in fashioin
-    * Clothes should be free from stains and wrinkles and having matching socks
+    * Clothes should be free from stains and wrinkles 
     * Workout clothes and pajamas are not allowed
     * Guidelines for women
       * Shirts can be sleeveless, but it should be fully cover bras and end below your pants' waistsband
