@@ -78,7 +78,7 @@ The slides follow along with this lesson. Be sure to view the rest of the materi
     * Professional behaviour include the quality of work \(skills\) and the ability to communicate effectively with managers,teammates and clients
     * How they maintain their reputation and trust in colleagues
     * How they are regarded in the industry by others tells about their professional behaviour
-  * Speak Professionally - Don't use swear words and foul language at workplace - Think before you speak, someone maybe offended by something which you think is funny - Communicate with your colleagues with the language which is primary of your workplace
+  * Speak Professionally - Don't use swear words and foul language at workplace - Think before you speak, someone maybe offended by something which you think is funny - Communicate with your colleagues in the language which is primary of your workplace. This might be English for most workplaces but it could be some other language.
   * Dress Professionally
     * No swear words / insensitive language/images on clothes
     * Trousers should neither be tight not baggy and should not be ripped, regardless if they are in fashioin
