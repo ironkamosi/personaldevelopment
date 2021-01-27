@@ -10,7 +10,7 @@ description: >-
 
 About 1 hour
 
-* 20 minutes for walkthrough of slides
+* 15 minutes for walkthrough of slides
 * 15 minutes for Group Practice
 * 20 minutes for Independent Practice
 
