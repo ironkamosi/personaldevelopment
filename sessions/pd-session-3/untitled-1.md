@@ -96,9 +96,11 @@ The slides follow along with this lesson. Be sure to view the rest of the materi
     * You should treat everyone respectfully even if you don't even like them
     * Make sure you submit your assignment and given task timely, ensure yourself that you have enough skills and tools for the assigned task or work, if you don't have just feel free to ask your colleagues and take their help
     * If you can’t make a deadline, let those affected know as soon as you realize it
-  * Your Departure from Workplace
-    * Normally working hours is 8 ,and because you spent one hour in break, So try to compensate it with working 9 hours
-    * Try to leave after you finish your assigned task, if you can't complete it then speak to your manager about re-setting the expectations
+  * Leaving at the end fo the day
+    * Companies expect you to put in 8 good hours of work each day.
+      * Plan to be at work for 9 hours, since lunch takes up 1 extra hour.
+      * Finish the tasks you were assigned for the day before you go home.
+        * If you cannot finish the day’s tasks in 8 hours, speak with your team or manager about re-setting expectations.
   * Music at Workplace
     * Use headphones at workplace, but if you are not using headphones then make sure no one can hear your music
 
