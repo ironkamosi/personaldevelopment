@@ -84,9 +84,6 @@ The slides follow along with this lesson. Be sure to view the rest of the materi
     * Trousers should neither be tight not baggy and should not be ripped, regardless if they are in fashioin
     * Clothes should be free from stains and wrinkles 
     * Workout clothes and pajamas are not allowed
-    * Guidelines for women
-      * Shirts can be sleeveless, but it should be fully cover bras and end below your pants' waistsband
-      * Shorts should be as long as your fingertip when you stand with your arm straight down, Skirts shouldn't be shorter than few inches above your knees
   * Your Arrival at Workplace
     * If you have **planned** absence or late arrival, notify those colleagues who will be affected with your presence as soon as you aware your absence or late arrival
     * Arrive early enough so that you can give yourself sometime to get settled before the start of a workday or meeting
@@ -96,6 +93,8 @@ The slides follow along with this lesson. Be sure to view the rest of the materi
     * You should treat everyone respectfully even if you don't even like them
     * Make sure you submit your assignment and given task timely, ensure yourself that you have enough skills and tools for the assigned task or work, if you don't have just feel free to ask your colleagues and take their help
     * If you can’t make a deadline, let those affected know as soon as you realize it
+    * Music at Workplace
+      * Use headphones at workplace, but if you are not using headphones then make sure no one can hear your music
   * Leaving at the end of the day
     * Companies expect you to put in 8 good hours of work each day.
       * Plan to be at work for 9 hours, since lunch takes up 1 extra hour.
