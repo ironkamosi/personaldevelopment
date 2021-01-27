@@ -107,7 +107,13 @@ Your trainee group may have decided to continue developing your Honeycomb habits
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
+#### Terminal \(Tech Education Coursework\)
 
+Learning how to use the Terminal is a key skill for being a programmer. This is a self-taught session that should take about six hours to complete.
+
+The lesson can be found here:[ https://syllabus.codeyourfuture.io/git/terminal/lesson](https://syllabus.codeyourfuture.io/git/terminal/lesson)
+
+The coursework can be found here[: https://syllabus.codeyourfuture.io/git/terminal/homework](https://syllabus.codeyourfuture.io/git/terminal/homework)
 
 ### JS1 Week 2
 
@@ -278,6 +284,14 @@ Every week you will be requesting feedback from 3 people to help you get more in
    b. Invite 1 volunteer you worked with this week
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
+
+#### Terminal \(Tech Education Coursework\)
+
+Learning how to use the Terminal is a key skill for being a programmer. This is a self-taught session that should take about six hours to complete.
+
+The lesson can be found here:[ https://syllabus.codeyourfuture.io/git/terminal/lesson](https://syllabus.codeyourfuture.io/git/terminal/lesson)
+
+The coursework can be found here[: https://syllabus.codeyourfuture.io/git/terminal/homework](https://syllabus.codeyourfuture.io/git/terminal/homework)
 
 ### Js3 Week 2
 
