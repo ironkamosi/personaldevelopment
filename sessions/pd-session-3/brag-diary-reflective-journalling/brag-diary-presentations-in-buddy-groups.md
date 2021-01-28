@@ -37,13 +37,11 @@ You will be practicing just how you would answer in a real interview situation.
    1. Share the results of the action you took, what you learned or the steps you took to improve.
    2. This should be positive! 
 
-#### Put it all together - STAR story
+#### Putting it All Together - STAR story
 
-### Putting it All Together
+**Competency:** Time Mangement; Problem Solving; 
 
-**:** _“Tell me about a time when you had to be very strategic in order to meet all of your top priorities.”_
-
-**Your Response:**
+**Example:**
 
 **Situation:** _“In my previous sales role, I was put in charge of the transfer to an entirely new customer relationship management \(CRM\) system—on top of handling my daily sales calls and responsibilities.”_
 
