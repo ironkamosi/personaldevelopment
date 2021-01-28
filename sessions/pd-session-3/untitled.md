@@ -34,7 +34,7 @@ Mark as done
    What has happened over the past week, 2 weeks, 3 weeks, 4 weeks- 8 weeks since you started Fundamentals that you are proud of?   
    Write a list. 
 
-3. When you have your list. Have a look at the Competencies List here:
+3. When you have your list. Have a look at the Competencies List here: [https://personaldevelopment.codeyourfuture.io/sessions/pd-session-3/brag-diary-reflective-journalling](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-3/brag-diary-reflective-journalling)
 4. Decide which competency each achievement you have listed relates to. Write it next to your competancy
 5. 
 ## Diversity and Inclusion \| \(Read, Write, Speak, Watch\)
