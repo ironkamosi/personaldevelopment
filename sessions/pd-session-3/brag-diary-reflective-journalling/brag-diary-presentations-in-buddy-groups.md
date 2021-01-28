@@ -33,3 +33,5 @@ How do you use the STAR method?
    1. Describe what steps you took solve a problem or reach a goal
    2. Be specific - Did you work with another person or team? Did you use a particular piece of software or technology? Did you form a detailed plan?
 5. 
+![](../../../.gitbook/assets/image.jpg) 
+
