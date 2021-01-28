@@ -33,8 +33,27 @@ You will be practicing just how you would answer in a real interview situation.
    1. Describe what steps you took solve a problem or reach a goal
    2. Be specific - Did you work with another person or team? Did you use a particular piece of software or technology? Did you form a detailed plan?
 5. Finally close your story with the result you achieved **\(R\)**
+
    1. Share the results of the action you took, what you learned or the steps you took to improve.
    2. This should be positive! 
+
+#### Put it all together - STAR story
+
+### Putting it All Together
+
+**:** _“Tell me about a time when you had to be very strategic in order to meet all of your top priorities.”_
+
+**Your Response:**
+
+**Situation:** _“In my previous sales role, I was put in charge of the transfer to an entirely new customer relationship management \(CRM\) system—on top of handling my daily sales calls and responsibilities.”_
+
+**Task:** _“The goal was to have the migration to the new CRM database completed by Q3, without letting any of my own sales numbers slip below my targets.”_
+
+**Action:** _“In order to do that, I had to be very careful about how I managed all of my time. So, I blocked off an hour each day on my calendar to dedicate solely to the CRM migration. During that time, I worked on transferring the data, as well as cleaning out old contacts and updating outdated information. Doing this gave me enough time to chip away at that project, while still handling my normal tasks.”_
+
+**Result:** _“As a result, the transfer was completed two weeks ahead of deadline and I finished the quarter 10% ahead of my sales goal.”_  
+  
+
 
  
 
