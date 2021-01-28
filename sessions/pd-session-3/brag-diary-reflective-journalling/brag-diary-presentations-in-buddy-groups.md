@@ -22,9 +22,14 @@ How do you use the STAR method?
 
 1. Choose your example
    1. You need to choose an example to talk about
-   2. This will be the situation you choose for the week as an example of your success. 
+   2. This will be the situation you choose for the week to show your success 
    3. As time goes on you will get better at choosing examples that really highlight your achievement
-2. Next you will set the scene
+2. Next you will set the scene **\(S\)**
    1. Clearly describe the situation you were in and highlight the challenge 
    2. Keep things short and focus only on what is relevant to your story
-3. 
+3. Then move on to the task **\(T\)**
+   1. Specifically describe what was the objective set for you and what your responsibilities were in that particular scenario
+4. Now you can share what action you took **\(A\)**
+   1. Describe what steps you took solve a problem or reach a goal
+   2. Be specific - Did you work with another person or team? Did you use a particular piece of software or technology? Did you form a detailed plan?
+5. 
