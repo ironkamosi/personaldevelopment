@@ -34,7 +34,8 @@ Mark as done
    What has happened over the past week, 2 weeks, 3 weeks, 4 weeks- 8 weeks since you started Fundamentals that you are proud of?   
    Write a list. 
 
-3. When you have your list. Choose one and write a _Brag Diary_ entry for it.  Follow the instuctionson how to write a brag diary entry: 
+3. When you have your list. Have a look at the Competencies List here:
+4. Decide which competency each achievement you have listed relates to. Write the 
 
 ## Diversity and Inclusion \| \(Read, Write, Speak, Watch\)
 
