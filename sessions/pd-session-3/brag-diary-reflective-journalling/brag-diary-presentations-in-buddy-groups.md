@@ -10,7 +10,7 @@ In order to make this useful we would like you to use the STAR method.
 
 You will be practicing just how you would answer in a real interview situation.
 
-What is the STAR method? 
+#### What is the STAR method? 
 
 * helps you answer behavioural interview questions in a simple and meaningful way
 * Behavioural interview questions are looking for you to give a real life example of how you managed a particular kind of situation in the past. 
@@ -18,7 +18,7 @@ What is the STAR method?
   * **S**ituation: Set the scene and give the necessary details of your example. **T**ask: Describe what your responsibility was in that situation. **A**ction: Explain exactly what steps you took to address it. **R**esult: Share what outcomes your actions achieved.
 * Keep it simple and focus on just one or two sentences for each letter of the acronym.
 
-How do you use the STAR method? 
+#### How do you use the STAR method? 
 
 1. Choose your example
    1. You need to choose an example to talk about
