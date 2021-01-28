@@ -4,7 +4,7 @@ description: 'Adapted from: https://www.themuse.com/advice/star-interview-method
 
 # Brag Diary Presentations in Buddy Groups
 
-Each week you will be taking tuns to present an entry from your Brag Diary
+Each week you will be taking turns to present an entry from your Brag Diary.
 
 In order to make this useful we would like you to use the STAR method. 
 
