@@ -43,30 +43,30 @@
   * Why is diversity important?
   * What does Microaggression mean?
 
-* In order to be successful in a diverse space it's important to know and understand wht you behave in certain ways or say certain things. You can use a tool like the **Implicit Association Test \(IAT\)** developed by Harvard University researchers to raise awareness of your unconscious biases. And you can use the results to encourage your self-reflection about particular groups of people. 
-* Read more about the IAT here: [https://implicit.harvard.edu/implicit/education.html](https://implicit.harvard.edu/implicit/education.html)
-* Remember the purpose of the IAT is to uncover biases that you may not be aware of. The results of the test may be upsetting to some people.  
-* **This part of the assignment is optional.** 
-  * Decide if you want to participate by taking one of the tests. By taking the test you are contributing to scientific research. There is an alternative assignment if you choose not to take the IAT. You do not have to share the results with anyone else.
-  * If you do want to participate go to take a test and read all the Preliminary Information https://implicit.harvard.edu/implicit/takeatest.html
-  * After reading, if you want to continue then click the words '**I wish to proceed**' at the bottom of the page.
-  * On the next page you have a list of 14 IAT tests. Choose the '**Gender- Career IAT**'
-  * Read the instructions carefully \(more information about how to do the test is here: [https://implicit.harvard.edu/implicit/iatdetails.html](https://implicit.harvard.edu/implicit/iatdetails.html)\)
-  * You can do as many IAT's as you like. 
-  * After you have taken the IAT. 
-    * Note down in your learning journal any group or groups you may have a bias toward.
-    * In order to work on removing this bias you can imagine having a positive interaction with the group.
-    * Write how you would want start a conversation with a member of this group.
-    * If you like you can also discuss with another trainee or your buddy group
-* Alternative Unconscious Bias Assignment 
-  * Read and summarise a scientific or popular press article about implicit bias
-  *  1. Find an ariticle on Implict Bias.
-    2. It should be from either a scientific or popular press article.  
-    3. Make sure you are getting your information from a reliable source. 
-    4. Summarise the article in your Learning Journal/Dairy. 
-    5. Then write what you learned from the article.
-    6. Post one of your reflective summary in your work area in Google Classroom
-    7. Mark as done
+* In order to be successful in a diverse space, it's important to know and understand why you behave in certain ways or say certain things.  You can use a tool like the **Implicit Association Test \(IAT\)** developed by Harvard University researchers to raise awareness of your unconscious biases. And you can use the results to encourage your self-reflection about particular groups of people. 
+  * Read more about the IAT here: [https://implicit.harvard.edu/implicit/education.html](https://implicit.harvard.edu/implicit/education.html)
+  * Remember the purpose of the IAT is to uncover biases that you may not be aware of. The results of the test may be upsetting to some people.  
+  * **This part of the assignment is optional.** 
+    * Decide if you want to participate by taking one of the tests. By taking the test you are contributing to scientific research. There is an alternative assignment if you choose not to take the IAT. You do not have to share the results with anyone else.
+    * If you do want to participate go to take a test and read all the Preliminary Information https://implicit.harvard.edu/implicit/takeatest.html
+    * After reading, if you want to continue then click the words '**I wish to proceed**' at the bottom of the page.
+    * On the next page you have a list of 14 IAT tests. Start with the '**Gender- Career IAT**'
+    * Read the instructions carefully \(more information about how to do the test is here: [https://implicit.harvard.edu/implicit/iatdetails.html](https://implicit.harvard.edu/implicit/iatdetails.html)\)
+    * You can do as many IAT's as you like. 
+    * After you have taken the IAT. 
+      * Note down in your learning journal any group or groups you may have a bias toward.
+      * In order to work on removing this bias, you can imagine having a positive interaction with the group.
+      * Write how you would want start a conversation with a member of this group.
+      * If you like you can also discuss with another trainee or your buddy group.
+  * **Alternative Unconscious Bias Assignment** 
+    * Read and summarise a scientific or popular press article about implicit bias
+      * Find an article on Implict Bias.
+      * It should be from either a scientific or popular press article.  
+      * Make sure you are getting your information from a reliable source. 
+      * Write a summary of the article in your Learning Journal. 
+      * Then write what you learned from the article.
+      * Post your reflective summary in your work area in Google Classroom
+      * Mark as done
 
 ## 
 
