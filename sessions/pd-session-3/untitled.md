@@ -35,8 +35,8 @@ Mark as done
    Write a list. 
 
 3. When you have your list. Have a look at the Competencies List here:
-4. Decide which competency each achievement you have listed relates to. Write the 
-
+4. Decide which competency each achievement you have listed relates to. Write it next to your competancy
+5. 
 ## Diversity and Inclusion \| \(Read, Write, Speak, Watch\)
 
 #### Check for Understanding
