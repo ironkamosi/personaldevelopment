@@ -9,7 +9,11 @@
    1. If you were in that situation, what would it feel like to have to tell your manager or your team mate potentially bad news? What would be your worries or concerns? 
    2. What would it feel like to receive the bad news? What would you be thinking now about your colleague and their level of professionalism?
 
-Was this reflection useful? Feel free to share other thoughts you have.
+Feel free to share any other thoughts you have.
+
+When you have completed your reflection, post it to your your work area in Google Classroom
+
+Mark as done
 
 
 
