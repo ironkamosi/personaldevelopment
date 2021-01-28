@@ -34,9 +34,10 @@ Mark as done
    What has happened over the past week, 2 weeks, 3 weeks, 4 weeks- 8 weeks since you started Fundamentals that you are proud of?   
    Write a list. 
 
-3. When you have your list. Have a look at the Competencies List here: [https://personaldevelopment.codeyourfuture.io/sessions/pd-session-3/brag-diary-reflective-journalling](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-3/brag-diary-reflective-journalling)
-4. Decide which competency each achievement you have listed relates to. Write it next to your competancy
-5. 
+3. When you have your list. Refer back to the Competencies List here: [https://personaldevelopment.codeyourfuture.io/sessions/pd-session-3/brag-diary-reflective-journalling](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-3/brag-diary-reflective-journalling)
+4. Decide which competency each achievement you have listed relates to. Write it next to your competancy. 
+5. Now choose one and have try at using the STAR method to tell the story of this achievement. [https://personaldevelopment.codeyourfuture.io/sessions/pd-session-3/brag-diary-reflective-journalling/brag-diary-presentations-in-buddy-groups](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-3/brag-diary-reflective-journalling/brag-diary-presentations-in-buddy-groups)
+
 ## Diversity and Inclusion \| \(Read, Write, Speak, Watch\)
 
 #### Check for Understanding
