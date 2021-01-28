@@ -2,17 +2,14 @@
 
 ## Professionalism Coursework \| \(Read, Write\)
 
-1. Write your reflections about this lesson. 
+1. Write your reflections about this lesson in your Learning Diary. 
+2. What, if any, of the concepts presented were new to you? 
+3. Is there anything you disagree with? 
+4. Think about the the role plays presented during the session:
+   1. If you were in that situation, what would it feel like to have to tell your manager or your team mate potentially bad news? 
+   2. What would it feel like to receive the bad news?
 
-   a. What, if any, of the concepts presented were new to you? 
-
-   b. Is there anything you disagree with? 
-
-   c. What did it feel like to deliver potentially bad news during the role play? 
-
-   d. Was this practice useful? Feel free to share other thoughts you have.
-
-2. Read the ' Tech Industry Tips' here. What 
+Was this reflection useful? Feel free to share other thoughts you have.
 
 
 
