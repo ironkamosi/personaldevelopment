@@ -39,6 +39,7 @@
   * [Developer Skills - Asking Good Questions](sessions/pd-session-3/untitled-2.md)
   * [Professionalism](sessions/pd-session-3/untitled-1.md)
   * [Brag Diary - Reflective Journalling](sessions/pd-session-3/brag-diary-reflective-journalling/README.md)
+    * [Brag Diary Presentations in Buddy Groups](sessions/pd-session-3/brag-diary-reflective-journalling/brag-diary-presentations-in-buddy-groups.md)
     * [Brag Diary Template](sessions/pd-session-3/brag-diary-reflective-journalling/brag-diary-template.md)
   * [Diversity and Inclusion](sessions/pd-session-3/untitled-37.md)
   * [Honeycomb Session-Maximising My Time](sessions/pd-session-3/untitled-4.md)
