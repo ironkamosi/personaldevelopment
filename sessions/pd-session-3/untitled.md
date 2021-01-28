@@ -42,13 +42,16 @@ Mark as done
 
 ## Diversity and Inclusion \| \(Read, Write, Speak, Watch\)
 
-#### Check for Understanding
-
+* Watch this video on Unconscious Bias [https://youtu.be/dloCJq8shZE](https://youtu.be/dloCJq8shZE) 
+* Watch this Video on Microaggressions [https://youtu.be/bjzWENcW6NQ](https://youtu.be/bjzWENcW6NQ)
 * Write a reflection in your Learning Journal answering the following questions: \(do not copy any answers from the presentation or online searches. Write what is your interpretation and understanding\)
+* What do you mean by diversity and inclusion?
+* Why is diversity important?
+* What does Microaggression mean?
+* Post your reflective journal in your work area on Google Classroom 
+* Mark as done 
 
-  * What do you mean by diversity and inclusion?
-  * Why is diversity important?
-  * What does Microaggression mean?
+
 
 * In order to be successful in a diverse space, it's important to know and understand why you behave in certain ways or say certain things.  You can use a tool like the **Implicit Association Test \(IAT\)** developed by Harvard University researchers to raise awareness of your unconscious biases. And you can use the results to encourage your self-reflection about particular groups of people. 
   * Read more about the IAT here: [https://implicit.harvard.edu/implicit/education.html](https://implicit.harvard.edu/implicit/education.html)
@@ -75,7 +78,9 @@ Mark as done
       * Post your reflective summary in your work area in Google Classroom
       * Mark as done
 
-## 
+#### Honeycomb feedback - 
+
+Go onto the Honeycomb platform and complete your self assessment of ‘Maximising My Time’ cell
 
 
 
