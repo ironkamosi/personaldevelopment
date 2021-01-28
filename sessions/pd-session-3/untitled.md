@@ -80,7 +80,11 @@ Mark as done
 
 #### Honeycomb feedback - 
 
-Go onto the Honeycomb platform and complete your self assessment of ‘Maximising My Time’ cell
+Go onto the Honeycomb platform and go to the Maximising My Time’ cell
+
+Review the learning content for the essential habits by clicking on - View Learning Content
+
+After reviewing the learning content complete your self assessment. 
 
 
 
