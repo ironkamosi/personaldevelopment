@@ -42,16 +42,20 @@ Mark as done
 
 ## Diversity and Inclusion \| \(Read, Write, Speak, Watch\)
 
-* Watch this video on Unconscious Bias [https://youtu.be/dloCJq8shZE](https://youtu.be/dloCJq8shZE) 
-* Watch this Video on Microaggressions [https://youtu.be/bjzWENcW6NQ](https://youtu.be/bjzWENcW6NQ)
-* Write a reflection in your Learning Journal answering the following questions: \(do not copy any answers from the presentation or online searches. Write what is your interpretation and understanding\)
-* What do you mean by diversity and inclusion?
-* Why is diversity important?
-* What does Microaggression mean?
-* Post your reflective journal in your work area on Google Classroom 
+1. Watch this video on Unconscious Bias [https://youtu.be/dloCJq8shZE](https://youtu.be/dloCJq8shZE) 
+2. Watch this Video on Microaggressions [https://youtu.be/bjzWENcW6NQ](https://youtu.be/bjzWENcW6NQ)
+3. Write a reflection in your Learning Journal answering the following questions: \(do not copy any answers from the presentation or online searches. Write what is your interpretation and understanding\)
+   1. What do you mean by diversity and inclusion?
+   2. Why is diversity important?
+   3. What does Microaggression mean
+4. Post your reflective journal in your work area on Google Classroom
+5. Mark as done 
+
+
+
 * Mark as done 
 
-
+Choose either 
 
 * In order to be successful in a diverse space, it's important to know and understand why you behave in certain ways or say certain things.  You can use a tool like the **Implicit Association Test \(IAT\)** developed by Harvard University researchers to raise awareness of your unconscious biases. And you can use the results to encourage your self-reflection about particular groups of people. 
   * Read more about the IAT here: [https://implicit.harvard.edu/implicit/education.html](https://implicit.harvard.edu/implicit/education.html)
