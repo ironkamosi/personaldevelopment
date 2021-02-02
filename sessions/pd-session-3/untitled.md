@@ -29,7 +29,7 @@
    What has happened over the past week, 2 weeks, 3 weeks, 4 weeks- 8 weeks since you started Fundamentals that you are proud of?   
    Write a list. 
 
-3. When you have your list. Refer back to the Competencies List here: [https://personaldevelopment.codeyourfuture.io/sessions/pd-session-3/brag-diary-reflective-journalling](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-3/brag-diary-reflective-journalling)
+3. After you have written your pride list, refer back to the Competencies List here: [https://personaldevelopment.codeyourfuture.io/sessions/pd-session-3/brag-diary-reflective-journalling](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-3/brag-diary-reflective-journalling)
 4. Decide which competency each achievement you have listed relates to. 
 5. Write it next to your competancy. 
 6. Post your list of achievements and competencies to your ork area in Google Classroom
