@@ -35,7 +35,7 @@
 6. Post your list of achievements and competencies to your ork area in Google Classroom
 7. Mark as done.
 
-Prepare this for your next PD Buddy group meeting
+#### Prepare this for your next PD Buddy group meeting
 
 1. Choose one of your achievements and have try at using the STAR method to tell the story Use this guide: [https://personaldevelopment.codeyourfuture.io/sessions/pd-session-3/brag-diary-reflective-journalling/brag-diary-presentations-in-buddy-groups](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-3/brag-diary-reflective-journalling/brag-diary-presentations-in-buddy-groups)
 2. Write out your story and present it in your Buddy group.
@@ -57,19 +57,23 @@ The **Implicit Association Test \(IAT\)** developed by Harvard University resear
 1. Read about the IAT here: [https://implicit.harvard.edu/implicit/education.html](https://implicit.harvard.edu/implicit/education.html)
 2. The purpose of the IAT is to uncover biases that you may not be aware of. The results of the test may be upsetting to some people.  
 
-* **This part of the assignment is optional.** 
-  * Decide if you want to participate by taking one of the tests. By taking the test you are contributing to scientific research. There is an alternative assignment if you choose not to take the IAT. You do not have to share the results with anyone else.
-  * If you do want to participate go to take a test and read all the Preliminary Information https://implicit.harvard.edu/implicit/takeatest.html
+**You can either choose to do Part A or Part B:**
+
+* **Part A- Take the Implicit Association Test**
+  * Decide if you want to participate by taking one of the **Implicit Assocaition Tests** . By taking the test you are contributing to scientific research.  You do not have to share the results with anyone else.
+  * If you do want to participate go to take a test and read all the Preliminary Information: https://implicit.harvard.edu/implicit/takeatest.html
   * After reading, if you want to continue then click the words '**I wish to proceed**' at the bottom of the page.
   * On the next page you have a list of 14 IAT tests. Start with the '**Gender- Career IAT**'
   * Read the instructions carefully \(more information about how to do the test is here: [https://implicit.harvard.edu/implicit/iatdetails.html](https://implicit.harvard.edu/implicit/iatdetails.html)\)
   * You can do as many IAT's as you like. 
   * After you have taken the IAT. 
     * Note down in your learning journal any group or groups you may have a bias toward.
-    * In order to work on removing this bias, you can imagine having a positive interaction with the group.
+    * Knowing about any unconscious bias you have means you can 
+    * In order to work on removing this bias, imagine having a positive interaction with someone in the group.
     * Write how you would want start a conversation with a member of this group.
+      * For  example: The IAT result said that you had a slight bias towards women not being 
     * If you like you can also discuss with another trainee or your buddy group.
-* **Alternative Unconscious Bias Assignment** 
+* **Part B- Research Implicit Bias**  
   * Read and summarise a scientific or popular press article about implicit bias
     * Find an article on Implict Bias.
     * It should be from either a scientific or popular press article.  
