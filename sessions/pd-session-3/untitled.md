@@ -88,9 +88,7 @@ The **Implicit Association Test \(IAT\)** developed by Harvard University resear
   9. **Extend your learning**: If you like you can also discuss with another trainee or your buddy group.
 
 * **Part B- Research Implicit Bias**  
-
   * Read and summarise a scientific or popular press article about implicit bias
-
     * Find an article on Implict Bias.
     * It should be from either a scientific or popular press article.  
     * Make sure you are getting your information from a reliable source. 
