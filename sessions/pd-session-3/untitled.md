@@ -12,7 +12,7 @@
 6. When you have completed your reflection, post it to your your work area in Google Classroom
 7. Mark as done
 
-## Brag Diary Coursework \|  \(Watch, Listen, Read, Write\) 
+## Brag Diary Coursework \|  \(Watch, Listen, Read, Write\)
 
 1. Watch this video by Gargi Sharma \(26 mins\) where she discusses the importance of ‘bragging’ about yourself and _**celebrating your achievements**_**.** [https://yougotthis.io/talks/so-good-they-cant-ignore-you/](https://yougotthis.io/talks/so-good-they-cant-ignore-you/)
 2. After watching, reflect on the presentation in your learning journal by answering the following questions:
