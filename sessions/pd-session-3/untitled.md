@@ -1,3 +1,7 @@
+---
+description: This coursework flows on from the Preparing for the Workplace PD day.
+---
+
 # Coursework
 
 ## Professionalism Coursework \| \(Read, Write\)
@@ -47,7 +51,7 @@
 3. Write a reflection in your Learning Journal answering the following questions: \(do not copy any answers from the presentation or online searches. Write what is your interpretation and understanding\)
    1. What do you mean by diversity and inclusion?
    2. Why is diversity important?
-   3. What does Microaggression mean
+   3. What does Microaggression mean?
 4. Post your reflective journal in your work area on Google Classroom
 5. Mark as done 
 
