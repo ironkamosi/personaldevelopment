@@ -60,18 +60,29 @@ The **Implicit Association Test \(IAT\)** developed by Harvard University resear
 **You can either choose to do Part A or Part B:**
 
 * **Part A- Take the Implicit Association Test**
+
   1. Decide if you want to participate by taking one of the **Implicit Assocaition Tests** . By taking the test you are contributing to scientific research.  You do not have to share the results with anyone else.
   2. If you do want to participate go to take a test and read all the Preliminary Information: https://implicit.harvard.edu/implicit/takeatest.html
   3. After reading, if you want to continue then click the words '**I wish to proceed**' at the bottom of the page.
-  4. On the next page you have a list of 14 IAT tests. Start with the '**Gender- Career IAT**'
+  4. On the next page you have a list of 14 IAT tests.  
+
+     Start with the '**Gender- Career IAT**'
+
+     You can do as many IAT's as you like. 
+
   5. Read the instructions carefully \(more information about how to do the test is here: [https://implicit.harvard.edu/implicit/iatdetails.html](https://implicit.harvard.edu/implicit/iatdetails.html)\)
   6. After you have taken the IAT. 
-     1. Note down in your learning journal any group or groups you may have a bias toward.
-        * Getting to know people and having positive interactions will help you could start to rethink how you view this group.
-        * Write how you would want start a conversation with a member of this group.
-* Take a screenshot of the confirmation you have taken the IAT. You do not have to show your result. Upload to your 
-* * Extend your learning: If you like you can also discuss with another trainee or your buddy group.
-* You can do as many IAT's as you like. 
+  7. Take a screenshot of the confirmation you have taken the IAT. You do not have to show your result. Upload to your student area in Google Classroom. 
+  8. Note down in your learning journal any group or groups you may have a bias toward.
+     * Getting to know people and having positive interactions will help you could start to rethink how you view this group.
+     * Write how you would want start a conversation with a member of this group.
+  9. 10. Mark as done
+  11. Extend your learning: If you like you can also discuss with another trainee or your buddy group.
+
+
+
+  1.  1. 
+
 * * **Part B- Research Implicit Bias**  
 
   * Read and summarise a scientific or popular press article about implicit bias
