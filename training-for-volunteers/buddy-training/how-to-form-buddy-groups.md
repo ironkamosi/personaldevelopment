@@ -1,13 +1,13 @@
 # How to form Buddy Groups
 
-**Setting up your PD Buddy Groups** 
+### **Setting up your PD Buddy Groups** 
 
 * Ideally you should only be volunteering in the PD team. 
 * You can support a maximum of 3 students in your PD Buddy Groups.
 * Buddy groups should meet at least once per module \(every 3 weeks\). 
 * You can structure your support any way you feel will be most effective. \(1-1, group or mixture\). 
 
-**Starting your Buddy relationship:**
+#### **Starting your Buddy relationship:**
 
 To get started, you can:
 
