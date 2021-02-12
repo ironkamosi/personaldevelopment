@@ -92,8 +92,6 @@ Watch this video 'Top Resume Skills'
 
 You should share your lists with your PD and Edu buddies when you next meet with them.
 
-
-
 **Honeycomb 1 - Working With My Team Feedback continued...**
 
 Your trainee group may have decided to continue developing your Honeycomb habits in the Working with My Team cell. So you will need to get more feedback from people you have worked with closely.  Read carefully who you need to request feedback from each week as the people will change.
@@ -135,8 +133,6 @@ Now you have started exploring the technical and personal skills needed for diff
 
 4. Mark as done
 
-
-
 ### JS1 Week 3
 
 #### Are Soft Skills Useful in Tech? \(Do, read, write\)
@@ -169,7 +165,7 @@ c. Give your personal reflection on each source
 * why does this matter? why is it important? 
 * what did you learn?
 
-### Week 9- PD Day 3 Preparing for the Workplace Assignments linked [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/untitled)
+## Week 9- PD Day 3 Preparing for the Workplace Assignments linked [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/untitled)
 
 ### JS2 Week 1
 
@@ -182,8 +178,6 @@ You will find the instructions [here](https://personaldevelopment.codeyourfuture
 When you have finished, mark as complete on Google Classroom. 
 
 You will be taking turns to present your diary entries in your Buddy Group meetings. 
-
-
 
 **Honeycomb 1 - Maximising My Time  Feedback**
 
@@ -198,8 +192,6 @@ You trainee group should have moved on to the next Honeycomb cell. Just like wit
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
-
-
 ### JS2 Week 2
 
 **Brag Diary 2** 
@@ -211,8 +203,6 @@ You will find the instructions [here](https://personaldevelopment.codeyourfuture
 When you have finished, mark as complete on Google Classroom. 
 
 You will be taking turns to present your diary entries in your Buddy Group meetings. 
-
-
 
 **Honeycomb 2- Maximising My Time Feedback**
 
@@ -256,9 +246,7 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
-
-
-### Week 13- PD Day 4 Presentaion Skills \(1\) Assignment linked [here](https://personaldevelopment.codeyourfuture.io/sessions/js2-pd-day-4/coursework)
+## Week 13- PD Day 4 Presentaion Skills \(1\) Assignment linked [here](https://personaldevelopment.codeyourfuture.io/sessions/js2-pd-day-4/coursework)
 
 ### Js3 Week 1
 
@@ -348,7 +336,7 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
-### Week 17- PD Day 5 Preparing for the Jobmarket Assignment linked [here](https://personaldevelopment.codeyourfuture.io/sessions/react-pd-day-5/untitled)
+## Week 17- PD Day 5 Preparing for the Jobmarket Assignment linked [here](https://personaldevelopment.codeyourfuture.io/sessions/react-pd-day-5/untitled)
 
 ### React Week 1
 
@@ -443,7 +431,7 @@ When you have finished, mark as complete on Google Classroom.
 
 You will be taking turns to present your diary entries in your Buddy Group meetings. You will also have enough examples to use in your mock interviews. 
 
-### Week 22- PD Day 6 Interview Skills Assignment linked [here](https://personaldevelopment.codeyourfuture.io/sessions/untitled-6/untitled-1)
+## Week 22- PD Day 6 Interview Skills Assignment linked [here](https://personaldevelopment.codeyourfuture.io/sessions/untitled-6/untitled-1)
 
 Node Week 1
 
@@ -498,7 +486,7 @@ Every week you will be requesting feedback from 3 people to help you get more in
 
 3. After you have submitted on Honeycomb come back here in Google Classroom and mark as done on your work area
 
-### Week 26-PD Day 7 Working in Teams Assignment linked [here](https://personaldevelopment.codeyourfuture.io/sessions/databases-pd-day-7/coursework)
+## Week 26-PD Day 7 Working in Teams Assignment linked [here](https://personaldevelopment.codeyourfuture.io/sessions/databases-pd-day-7/coursework)
 
 DB Week 1
 
@@ -506,7 +494,7 @@ DB Week 2
 
 DB Week 3
 
-### Week 30-PD Day 8 Presentation Skills \(2\) Assignment linked [here](https://personaldevelopment.codeyourfuture.io/sessions/final-projects-1-pd-day-7/coursework)
+## Week 30-PD Day 8 Presentation Skills \(2\) Assignment linked [here](https://personaldevelopment.codeyourfuture.io/sessions/final-projects-1-pd-day-7/coursework)
 
 Final Project Week 1
 
@@ -516,7 +504,7 @@ Final Project Week 3
 
 Final Project Week 4
 
-### Week 35 - PD Day 9 Assignment linked here
+## Week 35 - PD Day 9 Assignment linked here
 
 
 
