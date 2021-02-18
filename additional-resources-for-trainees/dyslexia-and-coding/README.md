@@ -27,7 +27,7 @@ Virgin group founder and Made By Dislexia co-founder [Richard Branson](https://w
 
 Film director [Stephen Speilberg](https://youtu.be/4N6RKHOHMJQ)  
   
-[Princess Beatrice](https://youtu.be/JrSV-rLaVCA), Keira Knightly, Woopi Goldberg, Agatha Critistie,    
+[Princess Beatrice](https://youtu.be/JrSV-rLaVCA), Keira Knightly, Whoopi Goldberg, Agatha Critistie,    
 
 
 ## How dyslexic brain works:
